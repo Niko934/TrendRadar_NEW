@@ -1,937 +1,205 @@
 {
-  "generated_at": "2026-02-17T23:45:31.675271+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-02-18T01:24:27.204408+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 16时38分]"
-        },
-        {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时25分]"
-        },
-        {
-          "title": "AI遇上最强春节档 Token通胀已成必然？",
-          "url": "https://www.cls.cn/detail/2290600",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时35分 ~ 19时35分]"
-        },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
           "url": "https://www.cls.cn/detail/2290959",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5,
-            4,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时35分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350758&amp;topic_name=%E7%96%91%E4%BC%BCai%3F%E9%B9%B0%E8%A7%92%E6%95%B4%E6%B4%BB%E5%85%AD%E6%8C%87%E7%90%B4%E9%AD%94",
           "source": "贴吧",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 23时45分]"
-        },
-        {
-          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
-          "url": "https://www.cls.cn/detail/2290580",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时35分 ~ 15时46分]"
-        },
-        {
-          "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32615633",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时21分]"
-        },
-        {
-          "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32611897",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "这波三角洲AI春晚真该留到今晚看",
-          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            21,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时23分]"
-        },
-        {
-          "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
-          "url": "https://wallstreetcn.com/livenews/3055799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            22,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 05时23分]"
-        },
-        {
-          "title": "户口本只剩自己 刘维用AI和家人团圆",
-          "url": "https://www.baidu.com/s?wd=%E6%88%B7%E5%8F%A3%E6%9C%AC%E5%8F%AA%E5%89%A9%E8%87%AA%E5%B7%B1+%E5%88%98%E7%BB%B4%E7%94%A8AI%E5%92%8C%E5%AE%B6%E4%BA%BA%E5%9B%A2%E5%9C%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 22时03分]"
-        },
-        {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时29分]"
-        },
-        {
-          "title": "豆包：除夕豆包AI互动总数达19亿",
-          "url": "https://flash.jin10.com/detail/20260217114541307800",
-          "source": "金十数据",
-          "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "01时24分"
         },
         {
-          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
-          "url": "https://wallstreetcn.com/livenews/3055884",
+          "title": "摩根大通：AI带来的扰动将推动小型银行合并",
+          "url": "https://wallstreetcn.com/livenews/3056057",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9,
-            27
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时46分]"
-        },
-        {
-          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
-          "url": "https://flash.jin10.com/detail/20260217055715846800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时55分]"
-        },
-        {
-          "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
-          "url": "https://wallstreetcn.com/livenews/3055850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 12时13分]"
-        },
-        {
-          "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
-          "url": "https://wallstreetcn.com/livenews/3055839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时25分]"
-        },
-        {
-          "title": "春晚AI率比我论文高",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 13时55分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            12,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 23时45分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
-          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
-          "url": "https://www.cls.cn/detail/2290780",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "从模型到算力再到场景 AI点亮上海年味|2026新春走基层",
-          "url": "https://www.cls.cn/detail/2290743",
-          "source": "财联社热门",
+          "title": "王菲化妆师改口问就是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
-          "url": "https://flash.jin10.com/detail/20260217053748212800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "全球领先的金属和电子产品回收商Sims：AI驱动的DDR5芯片迁移正制约DDR4芯片供应。",
-          "url": "https://flash.jin10.com/detail/20260217052828769800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "当高定遇上AI，“上海定制”的变与不变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时46分 ~ 16时38分]"
-        },
-        {
-          "title": "据英国金融时报：欧盟隐私监管机构就AI生成性化图片问题对X平台展开调查。",
-          "url": "https://flash.jin10.com/detail/20260217085631257800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "01时24分"
         },
         {
-          "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
-          "url": "https://flash.jin10.com/detail/20260217064752239800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "春晚机器人进化速度有多快？宇树王兴兴：我想说这取决于大家对AI的想象力",
-          "url": "https://wallstreetcn.com/livenews/3055990",
+          "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "美光科技拟斥资2000亿美元 以突破AI内存瓶颈",
-          "url": "https://flash.jin10.com/detail/20260217132112980800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "印度阿达尼集团：将投资建设绿色能源驱动的AI就绪数据中心，目标在2035年前提升数据中心容量。",
-          "url": "https://flash.jin10.com/detail/20260217145958963800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "美银调查显示AI泡沫成首要尾部风险 资本支出过热担忧创纪录",
-          "url": "https://wallstreetcn.com/livenews/3055981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "阿达尼计划投资千亿美元建数据中心 瞄准印度AI领域的崛起机遇",
-          "url": "https://wallstreetcn.com/livenews/3055895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "腾讯发布元宝10亿红包活动报告：全网抽奖36亿次，完成AI创作10亿次",
-          "url": "https://wallstreetcn.com/livenews/3056016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "time_info": "01时24分"
         },
         {
           "title": "业内：AI仍是投资主线",
           "url": "https://www.toutiao.com/trending/7607839279741406766/",
           "source": "今日头条",
           "ranks": [
-            24
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时45分"
-        },
-        {
-          "title": "风投公司Thrive Capital募资逾100亿美元 加码AI等前沿领域",
-          "url": "https://wallstreetcn.com/livenews/3056010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时45分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
         {
-          "title": "欧盟经济事务专员Dombrovskis：必须观察“欧元发挥更大国际作用”时的汇率影响。",
-          "url": "https://wallstreetcn.com/livenews/3055821",
+          "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.71。 拍卖六个月期国债，得标利率3.5%，投标倍数3.08。",
+          "url": "https://wallstreetcn.com/livenews/3056060",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            6,
-            9,
-            21,
-            28
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 07时23分]"
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
-          "title": "南非央行考虑用关键利率来定价贷款",
-          "url": "https://wallstreetcn.com/livenews/3055810",
+          "title": "美国至2月17日6个月国债竞拍-得标利率配置百分比 32.88%，前值52.72%。",
+          "url": "https://flash.jin10.com/detail/20260218003204583800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至2月17日6个月国债竞拍-得标利率 3.5%，前值3.50%。",
+          "url": "https://flash.jin10.com/detail/20260218003204560800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至2月17日3个月国债竞拍-得标利率配置百分比 82.09%，前值36.6%。",
+          "url": "https://flash.jin10.com/detail/20260218003203666800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至2月17日3个月国债竞拍-得标利率 3.6%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260218003203643800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
+          "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            11,
-            15,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 06时21分]"
-        },
-        {
-          "title": "波兰央行货币政策委员Dabrowski：今年实现3.5%的主要利率是可行的。",
-          "url": "https://flash.jin10.com/detail/20260217181927039800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "01时24分"
         },
         {
-          "title": "美联储古尔斯比：将3%视为中性利率的宽松目标。",
-          "url": "https://flash.jin10.com/detail/20260217215516254800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "分析师：尽管关税有所降低，但印度卢比汇率仍将在长期内走弱",
-          "url": "https://flash.jin10.com/detail/20260217144834864800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时46分]"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为92.2%",
-          "url": "https://flash.jin10.com/detail/20260217060323843800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 07时23分]"
-        },
-        {
-          "title": "新西兰联储新主席首秀：利率料按兵不动，通胀成焦点",
-          "url": "https://flash.jin10.com/detail/20260217034246981800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时23分]"
-        },
-        {
-          "title": "澳洲联储会议纪要：通胀和就业风险已发生重大转变 利率无预设路径",
-          "url": "https://flash.jin10.com/detail/20260217084326117800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "罗马尼亚央行将基准利率维持在6.50%，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3055988",
+          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
+          "url": "https://wallstreetcn.com/livenews/3056046",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时03分"
-        },
-        {
-          "title": "市场消息：根据美国银行最新的外汇和利率情绪调查，2月份市场对美元的情绪为14年来的最负面水平。目前，美元空头头寸已达到2012年1月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260216224745069800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时36分"
-        },
-        {
-          "title": "澳洲联储会议纪要：不可能对现金利率的任何特定未来路径抱有高度信心。",
-          "url": "https://flash.jin10.com/detail/20260217083142279800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "澳洲联储会议纪要：考虑过维持利率不变，但认为加息的理由更充分。",
-          "url": "https://flash.jin10.com/detail/20260217083115458800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "英国利率期货价格显示，英国央行在3月降息25个基点的概率为73%，而劳动力市场数据公布前该概率约为65%。",
-          "url": "https://flash.jin10.com/detail/20260217153607126800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "澳洲联储会议纪要：如果利率维持在3.60%，过剩需求不太可能得到纠正。",
-          "url": "https://flash.jin10.com/detail/20260217083020170800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "01时24分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时35分 ~ 23时45分]"
-        },
-        {
-          "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
-          "url": "https://wallstreetcn.com/livenews/3055823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时29分 ~ 07时23分]"
-        },
-        {
-          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
-          "url": "https://flash.jin10.com/detail/20260217091405072800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "爱尔兰监管机构对马斯克旗下社交媒体平台X展开调查",
-          "url": "https://wallstreetcn.com/livenews/3055869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时51分]"
+          "time_info": "01时24分"
         },
         {
           "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
           "url": "https://news.ifeng.com/c/8qp3PW9MEjM",
           "source": "凤凰网",
           "ranks": [
-            7,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 23时45分]"
-        },
-        {
-          "title": "马斯克母亲发视频拜年",
-          "url": "https://www.toutiao.com/trending/7607606769153589275/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 18时39分]"
-        },
-        {
-          "title": "马斯克：Cybercab将于4月开始生产，没有踏板、方向盘",
-          "url": "https://wallstreetcn.com/livenews/3055872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时51分]"
-        },
-        {
-          "title": "外媒：马斯克今年有近8成概率成为全球首个万亿富翁",
-          "url": "https://flash.jin10.com/detail/20260217111741762800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "马斯克母亲向中国人民拜年",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E4%BA%B2%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时25分]"
-        },
-        {
-          "title": "OpenAI：系统（恢复）全面运作。",
-          "url": "https://wallstreetcn.com/livenews/3055842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时25分]"
-        },
-        {
-          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
-          "url": "https://wallstreetcn.com/livenews/3055834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时25分]"
-        },
-        {
-          "title": "市场消息：OpenAI当前遭遇一些问题，购物搜索功能陷入宕机状态。",
-          "url": "https://flash.jin10.com/detail/20260217050055263800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时21分]"
-        },
-        {
-          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
-          "url": "https://www.cls.cn/detail/2290903",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 17时42分]"
-        },
-        {
-          "title": "OpenAI：系统已恢复全面运作。",
-          "url": "https://flash.jin10.com/detail/20260217052259501800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "市场消息：乔什·库什纳旗下的Thrive Capital公司筹集了100亿美元的新资金。这家OpenAI、Stripe、SpaceX和Skims的投资方表示，其在投资方面采取的是“要么全力以赴、要么一无所获”的策略。",
-          "url": "https://flash.jin10.com/detail/20260217200431087800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
-          "url": "https://wallstreetcn.com/articles/3765786",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时35分 ~ 18时39分]"
-        },
-        {
-          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时35分 ~ 20时44分]"
-        },
-        {
-          "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
-          "url": "https://flash.jin10.com/detail/20260216233255611800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时36分 ~ 01时33分]"
-        },
-        {
-          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
-          "url": "https://flash.jin10.com/detail/20260217160309287800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "荷兰国防官员：F-35战机或可像iPhone手机一样“越狱”",
-          "url": "https://news.ifeng.com/c/8qnEVl9tHXs",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时23分]"
-        },
-        {
-          "title": "iPhone18ProMax或无重大更新",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E6%88%96%E6%97%A0%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 17时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "泰国央行：已准备好考虑延长房地产宽松贷款规则。",
-          "url": "https://flash.jin10.com/detail/20260217155413483800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "01时24分"
         }
       ]
     }
