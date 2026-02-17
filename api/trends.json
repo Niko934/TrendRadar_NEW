@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-18T06:24:28.897883+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-02-18T07:23:10.153594+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美联储3月维持利率不变的概率为92.1%",
+          "url": "https://flash.jin10.com/detail/20260218062210961800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
         {
           "title": "美联储理事巴尔：人工智能投资对美联储的利率目标“极为漠不关心”。",
           "url": "https://flash.jin10.com/detail/20260218022305401800",
@@ -181,11 +192,12 @@
           "url": "https://flash.jin10.com/detail/20260218053835707800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "美国副总统万斯：降低利率是总统特朗普议程的关键部分。 更低的利率有助于改善住房的经适性。",
@@ -290,18 +302,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
           "url": "https://www.cls.cn/detail/2290959",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 07时23分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -311,8 +324,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时24分 ~ 06时24分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时23分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -320,11 +333,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 07时23分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -335,8 +349,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时24分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时24分 ~ 07时23分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
@@ -409,6 +434,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 04时16分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -495,7 +531,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -517,6 +553,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "马斯克机器人涉色情被爱尔兰调查",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时51分 ~ 07时23分]"
+        },
+        {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
@@ -527,18 +575,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时24分 ~ 06时24分]"
-        },
-        {
-          "title": "马斯克机器人涉色情被爱尔兰调查",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时51分 ~ 06时24分]"
         },
         {
           "title": "看着春晚，英媒想起马斯克这句：中国早就next level",
@@ -623,7 +659,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         }
