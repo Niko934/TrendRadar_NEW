@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T06:26:59.726453+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2026-02-19T07:24:02.654470+08:00",
+  "total_titles_processed": 746,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时24分]"
+        },
+        {
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时24分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -32,29 +44,18 @@
           "time_info": "[00时17分 ~ 06时26分]"
         },
         {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时26分]"
-        },
-        {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
           "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时24分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -65,8 +66,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 07时24分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -77,8 +78,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时24分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -89,8 +90,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 07时24分]"
+        },
+        {
+          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
+          "url": "https://wallstreetcn.com/articles/3765833",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时17分 ~ 06时26分]"
+          "time_info": "[02时43分 ~ 07时24分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -115,28 +128,6 @@
           "time_info": "01时50分"
         },
         {
-          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
-          "url": "https://wallstreetcn.com/livenews/3056505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
-          "url": "https://wallstreetcn.com/articles/3765833",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时43分 ~ 06时26分]"
-        },
-        {
           "title": "AI 编程会替代程序员吗?",
           "url": "https://www.zhihu.com/question/1960623371101398549",
           "source": "知乎",
@@ -150,6 +141,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 06时26分]"
+        },
+        {
+          "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3056505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时24分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -214,6 +217,18 @@
           "time_info": "[01时50分 ~ 02时43分]"
         },
         {
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时24分]"
+        },
+        {
           "title": "美国宣布网络安全与AI风险管理倡议",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -248,24 +263,13 @@
           "time_info": "02时43分"
         },
         {
-          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3056488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "扎克伯格出庭：美国法官威胁将对任何使用AI眼镜录像的人处以蔑视法庭罪",
           "url": "https://wallstreetcn.com/livenews/3056487",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -287,7 +291,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
@@ -295,7 +299,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的8.56亿美元。",
@@ -417,6 +421,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "美联储3月维持利率不变的概率为94.1%",
+          "url": "https://flash.jin10.com/detail/20260219062702498800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "美国至2月18日20年期国债竞拍-得标利率配置百分比 15.91%，前值3.89%。",
           "url": "https://flash.jin10.com/detail/20260219020424765800",
           "source": "金十数据",
@@ -456,7 +471,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -583,11 +598,12 @@
           "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时24分]"
         },
         {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -596,7 +612,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
@@ -606,17 +622,6 @@
       "keyword_group": "虚拟币 币安 比特币 以太坊",
       "match_count": 3,
       "titles": [
-        {
-          "title": "加密借贷公司Ledn首开先河：在ABS市场发行比特币支持债券",
-          "url": "https://wallstreetcn.com/livenews/3056501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
         {
           "title": "高盛CEO改口，承认持有比特币，此前长期对加密货币持怀疑态度",
           "url": "https://wallstreetcn.com/livenews/3056439",
@@ -629,6 +634,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时32分]"
+        },
+        {
+          "title": "加密借贷公司Ledn首开先河：在ABS市场发行比特币支持债券",
+          "url": "https://wallstreetcn.com/livenews/3056501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时24分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.72%，暂报2816.96点。 MarketVectorTM数字资产100中盘指数涨0.27%，报2819.24点，北京时间23:41曾冲高至2858.83点。 MarketVector数字资产100指数跌0.67%，报13555.77点。 目前，Solana跌3.29%，狗狗币跌0.77%，XRP跌1.48%。 比特币跌0.93%，暂报67072美元；以太坊跌1.26%，暂报1969.18美元。",
@@ -664,11 +681,12 @@
           "url": "https://wallstreetcn.com/livenews/3056498",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时24分]"
         }
       ]
     }
