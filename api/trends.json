@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T00:17:46.021174+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-19T00:56:24.161464+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
@@ -37,19 +37,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "AI时代或将削减对招聘人员的需求，人力资源巨头面临考验",
           "url": "https://wallstreetcn.com/livenews/3056391",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -70,8 +71,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -81,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -92,25 +93,37 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌公司增添音乐生成功能到Gemini APP。",
           "url": "https://wallstreetcn.com/livenews/3056395",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 00时56分]"
+        },
+        {
+          "title": "北欧音乐流媒体公司Spotify涨幅收窄至3.5%，此前一度涨5.3%。 谷歌公司增添音乐生成功能到Gemini APP。",
+          "url": "https://wallstreetcn.com/livenews/3056396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时17分"
+          "time_info": "00时56分"
         },
         {
           "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
@@ -122,13 +135,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "谷歌：Lyria 3已在美国上线，并正向其他国家的YouTube创作者推广。",
+          "url": "https://flash.jin10.com/detail/20260219000628825800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "谷歌：Gemini应用现已搭载最先进音乐生成模型Lyria 3。",
+          "url": "https://flash.jin10.com/detail/20260219000557347800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.15。",
+          "url": "https://wallstreetcn.com/livenews/3056406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国至2月18日4个月国债竞拍-得标利率配置百分比 86.82%，前值84.52%。",
+          "url": "https://flash.jin10.com/detail/20260219003601813800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
+        {
+          "title": "美国至2月18日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260219003539400800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时56分"
+        },
         {
           "title": "据美国纽约联储数据，上个交易日（2月17日，长周末归来首个交易日）担保隔夜融资利率（SOFR）报3.71%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
           "url": "https://wallstreetcn.com/livenews/3056373",
