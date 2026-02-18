@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-18T07:23:10.153594+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-02-18T09:28:03.413749+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "新西兰官方现金利率 2.25%，前值 2.25%。",
+          "url": "https://wallstreetcn.com/livenews/3056186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "新西兰联储将于十分钟后公布利率决议和货币政策声明。",
+          "url": "https://flash.jin10.com/detail/20260218085000000800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
         {
           "title": "美联储3月维持利率不变的概率为92.1%",
           "url": "https://flash.jin10.com/detail/20260218062210961800",
@@ -14,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -200,6 +222,17 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "国际货币基金组织驻日本代表团团长Rahul Anand：日本央行继续遵循数据依赖方法很重要。 日本央行明年应继续将利率调至中性。 日本央行的中性利率水平存在很大的不确定性。 日本央行独立有助于稳定通胀预期。 暂停征收消费税将削弱税基。 日本必须保障收入以保留财政空间。 美国关税对日本的影响远低于预期。",
+          "url": "https://wallstreetcn.com/livenews/3056179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
           "title": "美国副总统万斯：降低利率是总统特朗普议程的关键部分。 更低的利率有助于改善住房的经适性。",
           "url": "https://wallstreetcn.com/livenews/3056115",
           "source": "华尔街见闻-快讯",
@@ -297,12 +330,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "国际货币基金组织日本代表团团长：日元汇率由市场力量决定，我们认为日元名义汇率并不存在“合理水平”。",
+          "url": "https://flash.jin10.com/detail/20260218075322004800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "国际货币基金组织日本代表团团长：日元汇率波动不定，日本当局致力于实行灵活的汇率制度。",
+          "url": "https://flash.jin10.com/detail/20260218075310951800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "国际货币基金组织日本代表团团长：不存在正确的汇率水平。",
+          "url": "https://flash.jin10.com/detail/20260218075210521800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -313,8 +379,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时24分 ~ 09时28分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -324,8 +390,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时24分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[01时24分 ~ 09时28分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -334,11 +400,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时24分 ~ 09时28分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -349,8 +416,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时24分 ~ 09时28分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -362,6 +429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "美国旧金山联储主席戴利：官员们应该等待关于AI影响的迹象。",
@@ -385,6 +463,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时47分 ~ 04时31分]"
+        },
+        {
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时28分]"
         },
         {
           "title": "摩根大通：AI带来的扰动将推动小型银行合并",
@@ -436,15 +525,15 @@
           "time_info": "[02时47分 ~ 04时16分]"
         },
         {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
+          "title": "国内大模型“新品潮”引爆预期 港股AI概念股再度爆发",
+          "url": "https://www.cls.cn/detail/2290780",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "time_info": "[09时27分 ~ 09时28分]"
         },
         {
           "title": "阿达尼集团将对可再生能源支持的AI数据中心投资1000亿美元",
@@ -470,6 +559,17 @@
           "time_info": "[04时16分 ~ 04时31分]"
         },
         {
+          "title": "印度AI峰会差评如潮",
+          "url": "https://www.toutiao.com/trending/7607984521316797978/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时27分 ~ 09时28分]"
+        },
+        {
           "title": "美国副总统万斯：对AI监控、隐私、政治倾向感到忧心忡忡。",
           "url": "https://wallstreetcn.com/livenews/3056118",
           "source": "华尔街见闻-快讯",
@@ -490,6 +590,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "英伟达：英孚斯利用英伟达AI企业版构建企业级编码小型语言模型。",
+          "url": "https://flash.jin10.com/detail/20260218083047394800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         },
         {
           "title": "苹果加速布局AI穿戴设备 三款新品细节曝光",
@@ -545,6 +656,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
+          "url": "https://flash.jin10.com/detail/20260218085113078800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 05时29分]"
+        },
+        {
+          "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
+          "url": "https://wallstreetcn.com/livenews/3056053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时52分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
+          "url": "https://wallstreetcn.com/livenews/3056046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时52分]"
+        },
+        {
+          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
+          "url": "https://wallstreetcn.com/livenews/3056132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         }
       ]
     },
@@ -613,59 +788,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
-          "url": "https://wallstreetcn.com/livenews/3056102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 05时29分]"
-        },
-        {
-          "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
-          "url": "https://wallstreetcn.com/livenews/3056053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时52分]"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
-          "url": "https://wallstreetcn.com/livenews/3056046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时52分]"
-        },
-        {
-          "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
-          "url": "https://wallstreetcn.com/livenews/3056132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟币 币安 比特币 以太坊",
       "match_count": 2,
       "titles": [
@@ -709,6 +831,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达：美光科技旗下忆恒创源（Persistent）借助英伟达BioNeMo和NeMo Agent工具包加速由人工智能驱动的分子发现进程 。",
+          "url": "https://flash.jin10.com/detail/20260218083422399800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时28分"
         }
       ]
     }
