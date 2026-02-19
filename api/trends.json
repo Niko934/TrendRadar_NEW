@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:06:58.336559+08:00",
-  "total_titles_processed": 1791,
+  "generated_at": "2026-02-19T23:42:14.768532+08:00",
+  "total_titles_processed": 1909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -68,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 22时06分]"
+          "appearance_count": 11,
+          "time_info": "[12时14分 ~ 23时42分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时17分 ~ 22时06分]"
+          "appearance_count": 28,
+          "time_info": "[00时17分 ~ 23时42分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -99,8 +99,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时26分 ~ 22时06分]"
+          "appearance_count": 12,
+          "time_info": "[09时26分 ~ 23时42分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -119,8 +119,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 22时06分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 23时42分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -139,8 +139,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时17分 ~ 22时06分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 23时42分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时43分 ~ 09时26分]"
+        },
+        {
+          "title": "日盟警告:字节AI别来沾边",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时42分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -189,17 +200,6 @@
           "time_info": "01时50分"
         },
         {
-          "title": "日盟警告:字节AI别来沾边",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350787&amp;topic_name=%E6%97%A5%E7%9B%9F%E8%AD%A6%E5%91%8A%3A%E5%AD%97%E8%8A%82AI%E5%88%AB%E6%9D%A5%E6%B2%BE%E8%BE%B9",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
           "url": "https://wallstreetcn.com/livenews/3056579",
           "source": "华尔街见闻-快讯",
@@ -228,6 +228,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 06时26分]"
+        },
+        {
+          "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
+          "url": "https://wallstreetcn.com/livenews/3056681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
@@ -282,6 +293,18 @@
           "time_info": "[00时17分 ~ 01时50分]"
         },
         {
+          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2002102277314454310",
+          "source": "知乎",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时05分 ~ 23时42分]"
+        },
+        {
           "title": "AI先驱李飞飞的初创公司World Labs融资10亿美元，英伟达参投",
           "url": "https://wallstreetcn.com/livenews/3056417",
           "source": "华尔街见闻-快讯",
@@ -319,17 +342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时39分 ~ 19时34分]"
-        },
-        {
-          "title": "腾讯姚顺雨首篇论文提出「AI 下半场」先搞上下文学习，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2002102277314454310",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
         },
         {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
@@ -457,6 +469,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "波音美股盘初跌超1.8%，越南航空公司Vietnam Airlines、Sun PhuQuoc Airways、以及VietJet宣布，采购将近100架波音飞机。",
+          "url": "https://wallstreetcn.com/livenews/3056664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "印度AI峰会2月18日要点总结",
           "url": "https://wallstreetcn.com/livenews/3056423",
           "source": "华尔街见闻-快讯",
@@ -515,7 +538,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的8.56亿美元。",
@@ -659,6 +682,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（2月18日）担保隔夜融资利率（SOFR）报3.73%，之前一天报3.71%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3056668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美联储会议纪要揭示巨大分歧，几位官员支持在利率指引中采用“双向”表述，为通胀高企时加息留出空间；美伊谈判明面上取得一定进展，但媒体爆料双方爆发大规模冲突的概率上升，最早可能就在本周末，俄美乌日内瓦会谈亦无果而终，地缘局势再陷僵局，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260219112142811800",
           "source": "金十数据",
@@ -679,6 +713,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "美联储Kashkari：人工智能投资可能正在推高中性利率。 沃什完全有资格担任美联储主席。 不确定能否在没有重大变化的情况下缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3056665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美国至2月18日20年期国债竞拍-得标利率配置百分比 15.91%，前值3.89%。",
@@ -904,8 +949,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时06分]"
+          "appearance_count": 6,
+          "time_info": "[19时34分 ~ 23时42分]"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
