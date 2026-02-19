@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T16:36:46.562202+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-02-19T17:39:09.910270+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -68,8 +68,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 16时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时17分 ~ 17时39分]"
         },
         {
           "title": "西方跳脚:东大AI惹怒上帝",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时14分 ~ 16时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时14分 ~ 17时39分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -93,11 +93,12 @@
             16,
             17,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 16时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 17时39分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -110,11 +111,12 @@
             22,
             23,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 16时36分]"
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 17时39分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -138,11 +140,12 @@
             5,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 16时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 17时39分]"
         },
         {
           "title": "中国科研团队研发出AI看病系统 诊断罕见病“有根有据”",
@@ -178,6 +181,21 @@
           "time_info": "01时50分"
         },
         {
+          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
+          "url": "https://wallstreetcn.com/livenews/3056579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            14,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 17时39分]"
+        },
+        {
           "title": "AI 编程会替代程序员吗?",
           "url": "https://www.zhihu.com/question/1960623371101398549",
           "source": "知乎",
@@ -191,20 +209,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 06时26分]"
-        },
-        {
-          "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
-          "url": "https://wallstreetcn.com/livenews/3056579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 16时36分]"
         },
         {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
@@ -344,6 +348,17 @@
           "time_info": "[03时43分 ~ 04时32分]"
         },
         {
+          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3056605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时39分"
+        },
+        {
           "title": "美国宣布与网络安全和AI风险管理相关的倡议。",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -438,7 +453,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
@@ -684,7 +699,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -695,7 +710,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -866,6 +881,18 @@
           "time_info": "[06时26分 ~ 07时24分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时39分]"
+        },
+        {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
@@ -886,17 +913,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         }
       ]
     },
@@ -965,7 +981,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
