@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T14:46:03.293566+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-02-20T15:44:02.994742+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "日盟警告:字节AI别来沾边",
@@ -41,8 +41,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 14时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 15时44分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -54,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 14时46分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 15时44分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -81,6 +81,18 @@
           "time_info": "[00时43分 ~ 09时22分]"
         },
         {
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.toutiao.com/trending/7607847863079108650/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 15时44分]"
+        },
+        {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
           "url": "https://flash.jin10.com/detail/20260220070738269800",
           "source": "金十数据",
@@ -90,6 +102,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月19日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时44分]"
         },
         {
           "title": "马年首个交易日 投资者正纷纷涌入纯粹的AI概念股",
@@ -142,16 +167,16 @@
           "time_info": "[03时36分 ~ 04时25分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月19日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32633724",
-          "source": "澎湃新闻",
+          "title": "男子用AI鉴定玉石8个月收入上百万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            16
+            17,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时46分]"
+          "time_info": "[14时45分 ~ 15时44分]"
         },
         {
           "title": "什么样的软件会被AI淘汰？",
@@ -192,26 +217,15 @@
           "time_info": "[12时10分 ~ 14时46分]"
         },
         {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.toutiao.com/trending/7607847863079108650/",
-          "source": "今日头条",
+          "title": "印度AI峰会有多魔幻",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6AI%E5%B3%B0%E4%BC%9A%E6%9C%89%E5%A4%9A%E9%AD%94%E5%B9%BB",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "男子用AI鉴定玉石8个月收入上百万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%94%A8AI%E9%89%B4%E5%AE%9A%E7%8E%89%E7%9F%B38%E4%B8%AA%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%8A%E7%99%BE%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "time_info": "[15时43分 ~ 15时44分]"
         },
         {
           "title": "微软：XAI Grok 4.1快速版现已在Microsoft Copilot Studio中可用。",
@@ -253,7 +267,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -513,11 +527,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时10分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[12时10分 ~ 15时44分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
@@ -556,6 +571,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 02时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
+          "url": "https://flash.jin10.com/detail/20260220144504457800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
