@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T21:57:19.971587+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2026-02-20T22:37:47.745389+08:00",
+  "total_titles_processed": 1790,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 21时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 22时37分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -92,8 +92,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时43分 ~ 21时57分]"
+          "appearance_count": 20,
+          "time_info": "[00时43分 ~ 22时37分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -133,6 +133,19 @@
           "time_info": "[14时45分 ~ 19时27分]"
         },
         {
+          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
+          "url": "https://wallstreetcn.com/articles/3765896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时35分 ~ 22时37分]"
+        },
+        {
           "title": "英媒：Meta连续第二年削减员工激励 全力转向AI军备竞赛",
           "url": "https://flash.jin10.com/detail/20260220070738269800",
           "source": "金十数据",
@@ -166,19 +179,6 @@
           "time_info": "19时27分"
         },
         {
-          "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
-          "url": "https://wallstreetcn.com/articles/3765896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时35分 ~ 21时57分]"
-        },
-        {
           "title": "芯片初创公司Taalas融资1.69 亿美元，研发AI芯片挑战英伟达",
           "url": "https://wallstreetcn.com/livenews/3056721",
           "source": "华尔街见闻-快讯",
@@ -191,6 +191,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 04时25分]"
+        },
+        {
+          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
+          "url": "https://www.cls.cn/detail/2292111",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时37分]"
         },
         {
           "title": "印度AI影响力峰会2月19日要点总结",
@@ -231,6 +244,18 @@
           "time_info": "[03时36分 ~ 04时25分]"
         },
         {
+          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
+          "url": "https://wallstreetcn.com/articles/3765898",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时27分 ~ 22时37分]"
+        },
+        {
           "title": "什么样的软件会被AI淘汰？",
           "url": "https://wallstreetcn.com/articles/3765860",
           "source": "华尔街见闻",
@@ -241,18 +266,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 09时22分]"
-        },
-        {
-          "title": "港股科技股分化：“AI新贵”受追捧，\"变现担忧\"拖累互联网巨头",
-          "url": "https://wallstreetcn.com/articles/3765898",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时27分 ~ 21时57分]"
         },
         {
           "title": "我国科学家用天文AI模型绘制“极致深空图”",
@@ -268,6 +281,19 @@
           "time_info": "[17时35分 ~ 19时27分]"
         },
         {
+          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
+          "url": "https://www.cls.cn/detail/2291704",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 22时37分]"
+        },
+        {
           "title": "港股AI应用股走强，海致科技集团涨15%，Minimax、智谱涨逾5%。",
           "url": "https://wallstreetcn.com/livenews/3056842",
           "source": "华尔街见闻-快讯",
@@ -279,6 +305,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时10分 ~ 14时46分]"
+        },
+        {
+          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时41分 ~ 22时37分]"
         },
         {
           "title": "埃森哲发出最后通牒：管理层若不使用AI将无缘晋升",
@@ -294,18 +333,6 @@
           "time_info": "[12时10分 ~ 14时46分]"
         },
         {
-          "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
-          "url": "https://www.cls.cn/detail/2292111",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时57分]"
-        },
-        {
           "title": "港股收盘：AI应用、机器人股等上涨，智谱大涨逾42%",
           "url": "https://wallstreetcn.com/livenews/3056892",
           "source": "华尔街见闻-快讯",
@@ -318,28 +345,39 @@
           "time_info": "[16时33分 ~ 17时35分]"
         },
         {
-          "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
-          "url": "https://www.cls.cn/detail/2291704",
-          "source": "财联社热门",
+          "title": "港股“AI新秀”板块逆势狂飙",
+          "url": "https://www.toutiao.com/trending/7608932922317344275/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12
+            23,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时27分 ~ 21时57分]"
+          "time_info": "[21时57分 ~ 22时37分]"
         },
         {
-          "title": "首席展望｜嘉实基金方晗：马年看好AI扩散、供需改善及顺周期修复主线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629236",
+          "title": "我国科学家用天文AI模型绘制“极致深空图”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            16
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时57分]"
+          "time_info": "[21时57分 ~ 22时37分]"
+        },
+        {
+          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
+          "url": "https://www.zhihu.com/question/2005731383423824873",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时37分]"
         },
         {
           "title": "印度AI峰会有多魔幻",
@@ -386,28 +424,6 @@
           "time_info": "20时41分"
         },
         {
-          "title": "如何看待微软 AI 负责人预测称，「未来 18 个月内，多数白领工作将被 AI 彻底替代」？",
-          "url": "https://www.zhihu.com/question/2005731383423824873",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "我国科学家用天文AI模型绘制“极致深空图”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32636176",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "欧洲头部AI公司的CEO警告：AI由少数企业主导恐致市场滥用",
           "url": "https://wallstreetcn.com/livenews/3056681",
           "source": "华尔街见闻-快讯",
@@ -428,35 +444,13 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
-        },
-        {
-          "title": "港股“AI新秀”板块逆势狂飙",
-          "url": "https://www.toutiao.com/trending/7608932922317344275/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "最新经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
-          "url": "https://flash.jin10.com/detail/20260220213948721800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
         {
           "title": "美国财政部拍卖90亿美元30年期通胀保值国债（TIPS），得标利率2.473%，投标倍数2.75。",
           "url": "https://wallstreetcn.com/livenews/3056733",
@@ -507,6 +501,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时39分]"
+        },
+        {
+          "title": "最新经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
+          "url": "https://flash.jin10.com/detail/20260220213948721800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时37分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.01%，前值6.09%。",
@@ -584,6 +590,18 @@
           "time_info": "[02时43分 ~ 03时36分]"
         },
         {
+          "title": "美联储纪要曝利率路线裂痕：降息、暂停、加息三派混战",
+          "url": "https://www.cls.cn/detail/2291646",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时37分]"
+        },
+        {
           "title": "美国财政部拍卖四周期国债，得标利率3.625%，投标倍数2.94。 拍卖八周期国债，得标利率3.630%，投标倍数2.82。",
           "url": "https://wallstreetcn.com/livenews/3056707",
           "source": "华尔街见闻-快讯",
@@ -596,13 +614,24 @@
           "time_info": "[01时45分 ~ 02时43分]"
         },
         {
+          "title": "美国经济数据公布后，美国短期利率期货变化不大；交易员仍坚持押注美联储将在6月降息。",
+          "url": "https://wallstreetcn.com/livenews/3056966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
           "url": "https://wallstreetcn.com/livenews/3056941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -627,23 +656,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
-        },
-        {
-          "title": "美联储纪要曝利率路线裂痕：降息、暂停、加息三派混战",
-          "url": "https://www.cls.cn/detail/2291646",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -657,6 +675,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时43分 ~ 12时10分]"
+        },
+        {
+          "title": "OpenAI智能音箱售价或定在200至300美元之间。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3056968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "英国政府：OpenAI和微软(MSFT.O)承诺为人工智能安全研究所的旗舰对齐项目提供新资金。",
@@ -729,6 +758,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "OpenAI智能音箱定价可能在200至300美元之间。",
+          "url": "https://flash.jin10.com/detail/20260220220448240800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "OpenAI的200人团队正在开发人工智能设备，包括一款智能音箱。",
+          "url": "https://flash.jin10.com/detail/20260220220314778800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "英伟达接近敲定300亿美元投资OpenAI 取代原1000亿合作计划",
@@ -845,11 +896,12 @@
           "url": "https://www.zhihu.com/question/2005421279541483469",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时37分]"
         },
         {
           "title": "微软(MSFT.O) CEO发文称，很高兴能将Grok 4.1 Fast添加到我们的多模型产品系列中。马斯克随后转发了该贴并表示，Grok4.20版本即将发布。",
@@ -894,7 +946,7 @@
     },
     {
       "keyword_group": "iphone apple",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "王腾回应换iPhone17",
@@ -908,6 +960,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时35分 ~ 19时27分]"
+        },
+        {
+          "title": "王腾将手机从红米换成iPhone17",
+          "url": "https://www.toutiao.com/trending/7608856267226349609/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     },
