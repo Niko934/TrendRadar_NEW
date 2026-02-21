@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T16:22:49.694489+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-02-21T17:24:43.054635+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 17时24分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -58,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时30分 ~ 17时24分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -145,8 +145,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 16时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 17时24分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -160,8 +160,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 16时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 17时24分]"
         },
         {
           "title": "美媒嘲讽印度AI峰会如同闹剧",
@@ -427,11 +427,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 17时24分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -454,11 +455,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[15时29分 ~ 17时24分]"
         }
       ]
     },
@@ -477,8 +479,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时19分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[06时19分 ~ 17时24分]"
         },
         {
           "title": "实测Gemini 3.1 Pro",
@@ -490,8 +492,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时01分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 17时24分]"
         },
         {
           "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
