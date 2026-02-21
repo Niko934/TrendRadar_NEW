@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-21T19:18:17.285287+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-02-21T20:32:32.868338+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时32分]"
         },
         {
           "title": "日本首相施政演讲：打破“过度财政紧缩”，暂停食品消费税，加大投资AI等产业",
@@ -58,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时30分 ~ 19时18分]"
+          "appearance_count": 23,
+          "time_info": "[00时30分 ~ 20时32分]"
         },
         {
           "title": "Seedance2.0春晚出圈，AI视频应用浮现哪些风口？",
@@ -147,8 +147,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 19时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 20时32分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -170,11 +170,12 @@
           "url": "https://flash.jin10.com/detail/20260221184309452800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时32分]"
         },
         {
           "title": "美媒嘲讽印度AI峰会如同闹剧",
@@ -194,11 +195,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时32分]"
         },
         {
           "title": "高盛集团推出一款尚未受到人工智能（AI）影响的指数，SPXXAI。（Axios）",
@@ -210,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "印度AI峰会为何引发全球群嘲",
+          "url": "https://www.toutiao.com/trending/7609263367261261318/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "微软任命AI高管执掌Xbox，重新致力于发展主机业务",
@@ -246,11 +259,12 @@
           "url": "https://www.toutiao.com/trending/7608141024543785014/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时32分]"
         },
         {
           "title": "美国总统特朗普提及美联储主席人选，表示：利率应大幅下调。 无能的美联储主席喜欢高利率。",
@@ -399,6 +413,18 @@
           "time_info": "[12时01分 ~ 16时22分]"
         },
         {
+          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
+          "url": "https://www.cls.cn/detail/2292326",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时32分]"
+        },
+        {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
           "url": "https://wallstreetcn.com/livenews/3057127",
           "source": "华尔街见闻-快讯",
@@ -421,17 +447,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 01时33分]"
-        },
-        {
-          "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
-          "url": "https://www.cls.cn/detail/2292326",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         }
       ]
     },
@@ -452,6 +467,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 09时20分]"
+        },
+        {
+          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3057164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13,
+            15,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时29分 ~ 20时32分]"
         },
         {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
@@ -484,21 +515,6 @@
           "time_info": "[15时29分 ~ 18时19分]"
         },
         {
-          "title": "马斯克旗下X平台就欧盟委员会1.2亿欧元罚款提起上诉",
-          "url": "https://wallstreetcn.com/livenews/3057164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            13,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时29分 ~ 19时18分]"
-        },
-        {
           "title": "马斯克称星舰每年将发射超过1万颗卫星",
           "url": "https://flash.jin10.com/detail/20260221100438466800",
           "source": "金十数据",
@@ -526,11 +542,12 @@
           "ranks": [
             3,
             7,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时01分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[12时01分 ~ 20时32分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -569,6 +586,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报告：央国企积极入局房地产代建业务 部分企业提前布局城市更新赛道",
+          "url": "https://wallstreetcn.com/livenews/3057188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
