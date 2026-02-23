@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T18:43:47.393555+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-02-23T19:36:12.078603+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国顶流私募Q4调仓大转向：集体加仓拼多多、AI重心悄然转变",
@@ -49,11 +49,12 @@
           "ranks": [
             10,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 18时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 19时36分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -62,11 +63,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 18时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 19时36分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -107,8 +109,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 19时36分]"
         },
         {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
@@ -131,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 19时36分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -169,6 +171,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
         },
         {
           "title": "受惠于AI热潮 泰国出口创四年来最大增幅",
@@ -272,8 +285,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时02分 ~ 18时43分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 19时36分]"
         },
         {
           "title": "史上最贵iPhone或将到来",
@@ -303,8 +316,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 18时43分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 19时36分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
