@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T17:46:38.234246+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-02-23T18:43:47.393555+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时43分]"
         },
         {
           "title": "环球下周看点：关税风暴叠加美伊博弈 英伟达能否再救AI牛市？",
@@ -65,8 +65,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时43分]"
         },
         {
           "title": "Seedance2.0重写全球AI版图",
@@ -97,6 +97,20 @@
           "time_info": "[09时25分 ~ 17时46分]"
         },
         {
+          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
+          "url": "https://wallstreetcn.com/articles/3765976",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时43分]"
+        },
+        {
           "title": "机构：AI担忧加剧 英伟达财报或难提振股价",
           "url": "https://flash.jin10.com/detail/20260223064004274800",
           "source": "金十数据",
@@ -108,18 +122,17 @@
           "time_info": "07时19分"
         },
         {
-          "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
-          "url": "https://wallstreetcn.com/articles/3765976",
+          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
+          "url": "https://wallstreetcn.com/articles/3765970",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8,
-            6,
-            4
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时43分]"
         },
         {
           "title": "《飞驰人生 3》张弛宇强战胜 AI 加持的赛车，「人定胜 AI」思潮会成为新时代的愚公移山精神吗？",
@@ -133,18 +146,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时50分 ~ 17时46分]"
-        },
-        {
-          "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
-          "url": "https://wallstreetcn.com/articles/3765970",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时46分]"
         },
         {
           "title": "蚂蚁集团AI业务春节加速：支付宝“AI付”、蚂蚁阿福APP用户数双破亿",
@@ -271,8 +272,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 18时43分]"
         },
         {
           "title": "史上最贵iPhone或将到来",
@@ -302,8 +303,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 17时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 18时43分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
