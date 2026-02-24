@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-24T18:42:23.145029+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-02-24T19:47:45.592033+08:00",
+  "total_titles_processed": 1671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
       "match_count": 36,
       "titles": [
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 19时47分]"
+        },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
           "url": "https://wallstreetcn.com/articles/3765976",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时47分 ~ 09时24分]"
-        },
-        {
-          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
-          "url": "https://wallstreetcn.com/articles/3765966",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 18时42分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时24分 ~ 18时42分]"
+          "appearance_count": 11,
+          "time_info": "[09时24分 ~ 19时47分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -69,8 +69,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时39分 ~ 18时42分]"
+          "appearance_count": 15,
+          "time_info": "[05时39分 ~ 19时47分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -84,6 +84,22 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时47分 ~ 09时24分]"
+        },
+        {
+          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
+          "url": "https://www.cls.cn/detail/2293346",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            6,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 19时47分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
@@ -113,6 +129,20 @@
           "time_info": "[00时47分 ~ 12时12分]"
         },
         {
+          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
+          "url": "https://www.cls.cn/detail/2293343",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时57分 ~ 19时47分]"
+        },
+        {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
           "url": "https://search.bilibili.com/all?keyword=Hirai%E4%B8%BA%E4%BD%95%E5%BD%93%E9%80%89%E9%9F%A9%E5%9B%BD%E4%BA%9A%E8%BF%90%E4%BC%9ALOL%E9%98%9F%E6%95%99%E7%BB%83",
           "source": "bilibili 热搜",
@@ -127,35 +157,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时24分 ~ 16时40分]"
-        },
-        {
-          "title": "英伟达财报周四登场：恐慌风暴席卷之际 “AI宠儿”能否力挽狂澜？",
-          "url": "https://www.cls.cn/detail/2293343",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时57分 ~ 18时42分]"
-        },
-        {
-          "title": "人形机器人门诊“上岗”！一家地市级三甲医院的AI落地样本|AI重塑医疗",
-          "url": "https://www.cls.cn/detail/2293346",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 18时42分]"
         },
         {
           "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
@@ -215,6 +216,19 @@
           "time_info": "07时30分"
         },
         {
+          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
+          "url": "https://www.zhihu.com/question/2009566964868150665",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 19时47分]"
+        },
+        {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
           "url": "https://wallstreetcn.com/livenews/3058012",
           "source": "华尔街见闻-快讯",
@@ -250,19 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时38分 ~ 05时40分]"
-        },
-        {
-          "title": "Citrini 的「2028 AI 末日预言」吓坏市场，致美股多板块集体重挫，如何看待这份报告的预测？",
-          "url": "https://www.zhihu.com/question/2009566964868150665",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 18时42分]"
         },
         {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
@@ -410,7 +411,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -432,7 +433,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -808,11 +809,12 @@
             14,
             18,
             16,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时01分 ~ 18时42分]"
+          "appearance_count": 9,
+          "time_info": "[14时01分 ~ 19时47分]"
         },
         {
           "title": "iPhone18 折叠",
@@ -852,6 +854,68 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时24分 ~ 12时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
+          "url": "https://flash.jin10.com/detail/20260224055544706800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时35分 ~ 07时30分]"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://www.toutiao.com/trending/7610390288040726035/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://wallstreetcn.com/livenews/3058106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星",
+          "url": "https://flash.jin10.com/detail/20260224191851131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "马斯克：如果有人对F-35战机进行逆向破解，那他们就闹出笑话了。此前，马斯克批评F-35在无人机时代已“过时”。",
+          "url": "https://flash.jin10.com/detail/20260224123111917800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时01分"
         }
       ]
     },
@@ -919,7 +983,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -944,35 +1008,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
-          "url": "https://flash.jin10.com/detail/20260224055544706800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时30分]"
-        },
-        {
-          "title": "马斯克：如果有人对F-35战机进行逆向破解，那他们就闹出笑话了。此前，马斯克批评F-35在无人机时代已“过时”。",
-          "url": "https://flash.jin10.com/detail/20260224123111917800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时01分"
         }
       ]
     },
