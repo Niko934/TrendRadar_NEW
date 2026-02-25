@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:15:26.101687+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2026-02-25T14:57:23.861675+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时53分 ~ 14时15分]"
+          "appearance_count": 11,
+          "time_info": "[02时53分 ~ 14时57分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -84,8 +84,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 14时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 14时57分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 14时57分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 14时57分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -103,28 +125,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 07时26分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时15分]"
-        },
-        {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时15分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -172,6 +172,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 14时57分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -251,31 +277,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时15分]"
-        },
-        {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 14时15分]"
-        },
-        {
           "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
           "url": "https://flash.jin10.com/detail/20260225031254647800",
           "source": "金十数据",
@@ -324,6 +325,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时26分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
@@ -399,18 +413,6 @@
           "time_info": "[06时27分 ~ 07时26分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 14时15分]"
-        },
-        {
           "title": "“官方辟谣”：白宫经济学家声称Citrini的AI风险报告纯属“科幻小说”",
           "url": "https://wallstreetcn.com/livenews/3058307",
           "source": "华尔街见闻-快讯",
@@ -433,6 +435,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 02时53分]"
+        },
+        {
+          "title": "AI如果让90%的人都失业会怎样",
+          "url": "https://www.toutiao.com/trending/7610619092361285139/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
+        },
+        {
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
         },
         {
           "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
@@ -463,18 +489,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "AI如果让90%的人都失业会怎样",
-          "url": "https://www.toutiao.com/trending/7610619092361285139/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -490,6 +505,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
           "url": "https://wallstreetcn.com/livenews/3058417",
           "source": "华尔街见闻-快讯",
@@ -501,17 +527,6 @@
           "time_info": "09时32分"
         },
         {
-          "title": "AI开始雇佣人类",
-          "url": "https://www.toutiao.com/trending/7609867693969178633/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
           "title": "陈茂波：香港计划成立AI+与产业发展策略委员会。 香港将深化人工智能在各行业的应用。 香港将拨款5000万港元用于公众人工智能培训。",
           "url": "https://wallstreetcn.com/livenews/3058533",
           "source": "华尔街见闻-快讯",
@@ -521,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "AI助盲眼镜成出行神器",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
@@ -538,17 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "银行间主要利率债收益率加速上行，10年期国债活跃券收益率上行2bp触及1.81%，30年期国债活跃券收益率上行1.25bp。",
-          "url": "https://wallstreetcn.com/livenews/3058657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
         },
         {
           "title": "美联储3月维持利率不变的概率为98%",
@@ -576,6 +591,18 @@
           "time_info": "[02时53分 ~ 04时28分]"
         },
         {
+          "title": "银行间主要利率债收益率加速上行，10年期国债活跃券收益率上行2bp触及1.81%，30年期国债活跃券收益率上行1.25bp。",
+          "url": "https://wallstreetcn.com/livenews/3058657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.82。",
           "url": "https://wallstreetcn.com/livenews/3058258",
           "source": "华尔街见闻-快讯",
@@ -587,6 +614,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时59分 ~ 02时53分]"
+        },
+        {
+          "title": "日本前央行行长黑田东彦：日本央行很可能在2026年和2027年每年加息两次，将利率提高至1.5%至1.75%左右。",
+          "url": "https://flash.jin10.com/detail/20260225140054219800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
         },
         {
           "title": "美国至2月24日6周国债竞拍-得标利率配置百分比 74.93%，前值35.75%。",
@@ -649,17 +688,6 @@
           "time_info": "[02时53分 ~ 03时46分]"
         },
         {
-          "title": "日本前央行行长黑田东彦：日本央行很可能在2026年和2027年每年加息两次，将利率提高至1.5%至1.75%左右。",
-          "url": "https://flash.jin10.com/detail/20260225140054219800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
           "title": "中国财政部发行91天期债券，规模400亿元，发行利率1.2110%，边际利率1.2392%，预期1.3200%，投标倍数3.43倍，边际倍数1.11倍； 中国财政部发行5年期债券，规模1200亿元，发行利率1.4877%，边际利率1.5196%，预期1.5300%，投标倍数3.77倍，边际倍数7.42倍。",
           "url": "https://wallstreetcn.com/livenews/3058554",
           "source": "华尔街见闻-快讯",
@@ -707,19 +735,32 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://www.toutiao.com/trending/7609574284113346596/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
+        },
         {
           "title": "多地晒返乡置业成绩单：新房市场 “淡季不淡”，楼市迎来“开门红”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32650376",
           "source": "澎湃新闻",
           "ranks": [
             18,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -728,42 +769,66 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://www.toutiao.com/trending/7609574284113346596/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
         },
         {
           "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
           "url": "https://www.cls.cn/detail/2294506",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
         },
         {
           "title": "上海发布楼市“沪七条” 进一步调减住房限购政策",
           "url": "https://wallstreetcn.com/livenews/3058614",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时57分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "14时57分"
+        },
+        {
+          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
+          "url": "https://www.zhihu.com/question/2009980674069778899",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
@@ -771,6 +836,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时31分 ~ 14时57分]"
+        },
         {
           "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
           "url": "https://flash.jin10.com/detail/20260225031610332800",
@@ -782,18 +859,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时28分]"
-        },
-        {
-          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
-          "url": "https://www.cls.cn/detail/2294085",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时31分 ~ 14时15分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -818,6 +883,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 02时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "iPhone 18 Pro小批量试产",
+          "url": "https://www.douyin.com/hot/2410005",
+          "source": "抖音",
+          "ranks": [
+            27,
+            25,
+            26,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 07时26分]"
+        },
+        {
+          "title": "iPhone18Pro深红色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时26分 ~ 09时32分]"
+        },
+        {
+          "title": "iPhone 自动打电话",
+          "url": "https://s.weibo.com/weibo?q=iPhone%20%E8%87%AA%E5%8A%A8%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "凌晨2点iPhone自动拨电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A82%E7%82%B9iPhone%E8%87%AA%E5%8A%A8%E6%8B%A8%E7%94%B5%E8%AF%9D%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
@@ -862,8 +982,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 14时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时14分 ~ 14时57分]"
         },
         {
           "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
@@ -875,39 +995,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "iPhone 18 Pro小批量试产",
-          "url": "https://www.douyin.com/hot/2410005",
-          "source": "抖音",
-          "ranks": [
-            27,
-            25,
-            26,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时26分]"
-        },
-        {
-          "title": "iPhone18Pro深红色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时32分]"
         }
       ]
     }
