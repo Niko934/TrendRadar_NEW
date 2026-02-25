@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T14:57:23.861675+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-02-25T15:52:03.641561+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时53分 ~ 14时57分]"
+          "appearance_count": 13,
+          "time_info": "[02时53分 ~ 15时52分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时59分 ~ 06时27分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 15时52分]"
         },
         {
           "title": "李在明社媒发AI视频",
@@ -84,19 +95,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时59分 ~ 14时57分]"
-        },
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时57分]"
+          "appearance_count": 15,
+          "time_info": "[00时59分 ~ 15时52分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -127,6 +127,19 @@
           "time_info": "[00时59分 ~ 07时26分]"
         },
         {
+          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
+          "url": "https://www.cls.cn/detail/2294409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 15时52分]"
+        },
+        {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
           "url": "https://www.zhihu.com/question/41253586",
           "source": "知乎",
@@ -139,6 +152,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 07时26分]"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 15时52分]"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -174,30 +201,17 @@
           "time_info": "07时26分"
         },
         {
-          "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
-          "url": "https://www.cls.cn/detail/2294409",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时57分]"
-        },
-        {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
           "ranks": [
-            7,
+            10,
             8,
-            9,
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时57分]"
+          "time_info": "[12时14分 ~ 15时52分]"
         },
         {
           "title": "美国国防部长“战争部”部长Hegseth就人工智能（AI）保障措施向Anthropic提供的最后期限为周五。 Hegseth告知该公司CEO Amodei，五角大楼可能会援引《国防生产法案》（DPA）。（Axios）",
@@ -327,17 +341,17 @@
           "time_info": "[04时28分 ~ 07时26分]"
         },
         {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
+          "title": "AI开始雇佣人类",
+          "url": "https://www.toutiao.com/trending/7609867693969178633/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            8,
-            7
+            19,
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 15时52分]"
         },
         {
           "title": "据Axios网站：美国国防部长赫格塞思给Anthropic CEO达里奥·阿莫代设下最后期限——周五晚之前必须向军方无限制开放其AI模型，否则将面临严厉惩罚。",
@@ -390,6 +404,28 @@
           "time_info": "[09时31分 ~ 12时14分]"
         },
         {
+          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
+          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
+        },
+        {
+          "title": "AI助盲眼镜成出行神器",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
+        },
+        {
           "title": "Anthropic拓展企业级AI代理生态，投行人力场景率先落地",
           "url": "https://wallstreetcn.com/articles/3766083",
           "source": "华尔街见闻",
@@ -425,6 +461,17 @@
           "time_info": "[03时46分 ~ 04时28分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 15时52分]"
+        },
+        {
           "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
           "url": "https://wallstreetcn.com/livenews/3058273",
           "source": "华尔街见闻-快讯",
@@ -437,24 +484,23 @@
           "time_info": "[02时04分 ~ 02时53分]"
         },
         {
+          "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
+          "url": "https://www.cls.cn/detail/2294145",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 15时52分]"
+        },
+        {
           "title": "AI如果让90%的人都失业会怎样",
           "url": "https://www.toutiao.com/trending/7610619092361285139/",
           "source": "今日头条",
           "ranks": [
             13,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时57分]"
-        },
-        {
-          "title": "AI开始雇佣人类",
-          "url": "https://www.toutiao.com/trending/7609867693969178633/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            29
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -505,17 +551,6 @@
           "time_info": "07时26分"
         },
         {
-          "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
-          "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
           "url": "https://wallstreetcn.com/livenews/3058417",
           "source": "华尔街见闻-快讯",
@@ -536,23 +571,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
-        },
-        {
-          "title": "AI助盲眼镜成出行神器",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%8A%A9%E7%9B%B2%E7%9C%BC%E9%95%9C%E6%88%90%E5%87%BA%E8%A1%8C%E7%A5%9E%E5%99%A8%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "陈茂波：香港将推动人民币国际化。 香港将积极与内地研究加快落实在港推出国债期货。 香港将吸引高质量发行人增加在港发行人民币债券。 香港联同业界积极拓展离岸人民币利率曲线的构建。",
@@ -710,6 +734,28 @@
           "time_info": "07时26分"
         },
         {
+          "title": "泰国央行降息25个基点至1.0%，机构预估为维持利率于1.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260225150211798800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "农发行发行378天期债券，规模100亿元，发行利率1.4434%，预期1.4900%，投标倍数2.86倍，边际倍数1.19倍； 农发行发行3年期债券，规模90亿元，发行利率1.6051%，预期1.6900%，投标倍数2.33倍，边际倍数1.79倍； 农发行发行10年期债券，规模120亿元，发行利率1.9490%，预期1.9500%，投标倍数3.42倍，边际倍数17.84倍。",
+          "url": "https://wallstreetcn.com/livenews/3058684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "英国央行行长预计不久后将下调利率",
           "url": "https://wallstreetcn.com/livenews/3058243",
           "source": "华尔街见闻-快讯",
@@ -730,6 +776,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "泰国至2月25日央行利率决定 1%，预期1.25%，前值1.25%。",
+          "url": "https://flash.jin10.com/detail/20260225150003382800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "河北发行30年期普通专项地方债，规模280.0000亿元，发行利率2.4700%，边际倍数3.59倍，倍数预期2.44。",
+          "url": "https://wallstreetcn.com/livenews/3058672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
@@ -743,11 +811,37 @@
           "source": "今日头条",
           "ranks": [
             9,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 15时52分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
+          "url": "https://www.cls.cn/detail/2294506",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 15时52分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
         },
         {
           "title": "多地晒返乡置业成绩单：新房市场 “淡季不淡”，楼市迎来“开门红”",
@@ -759,31 +853,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 15时52分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
           "url": "https://www.douyin.com/hot/2411215",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时15分 ~ 15时52分]"
         },
         {
-          "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
-          "url": "https://www.cls.cn/detail/2294506",
-          "source": "财联社热门",
+          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
+          "url": "https://www.zhihu.com/question/2009980674069778899",
+          "source": "知乎",
           "ranks": [
-            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
         },
         {
           "title": "上海发布楼市“沪七条” 进一步调减住房限购政策",
@@ -796,39 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时15分 ~ 14时57分]"
-        },
-        {
-          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
-          "url": "https://wallstreetcn.com/articles/3766127",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
-          "url": "https://www.zhihu.com/question/2009980674069778899",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
         }
       ]
     },
@@ -906,6 +980,18 @@
           "time_info": "[00时59分 ~ 07时26分]"
         },
         {
+          "title": "iPhone 自动打电话",
+          "url": "https://s.weibo.com/weibo?q=iPhone%20%E8%87%AA%E5%8A%A8%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
+        },
+        {
           "title": "iPhone18Pro深红色",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%B7%B1%E7%BA%A2%E8%89%B2%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -918,26 +1004,57 @@
           "time_info": "[07时26分 ~ 09时32分]"
         },
         {
-          "title": "iPhone 自动打电话",
-          "url": "https://s.weibo.com/weibo?q=iPhone%20%E8%87%AA%E5%8A%A8%E6%89%93%E7%94%B5%E8%AF%9D&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
           "title": "凌晨2点iPhone自动拨电话",
           "url": "https://s.weibo.com/weibo?q=%23%E5%87%8C%E6%99%A82%E7%82%B9iPhone%E8%87%AA%E5%8A%A8%E6%8B%A8%E7%94%B5%E8%AF%9D%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            28
+            28,
+            27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 15时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
+          "url": "https://www.cls.cn/detail/2294211",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时14分 ~ 15时52分]"
+        },
+        {
+          "title": "马斯克设想从月球电磁弹射AI卫星 电磁发射有望成商业航天重要方向",
+          "url": "https://www.cls.cn/detail/2294154",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 15时52分]"
+        },
+        {
+          "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
+          "url": "https://wallstreetcn.com/livenews/3058419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "09时32分"
         }
       ]
     },
@@ -966,35 +1083,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "火箭发射新方案！马斯克构想“月球弹弓” 包含两大核心基础设施",
-          "url": "https://www.cls.cn/detail/2294211",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 14时57分]"
-        },
-        {
-          "title": "马斯克发帖暗示“辛鲍姆与贩毒集团存在关联”，墨西哥总统：正考虑采取法律行动",
-          "url": "https://wallstreetcn.com/livenews/3058419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
         }
       ]
     }
