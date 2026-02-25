@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T02:59:44.384467+08:00",
-  "total_titles_processed": 479,
+  "generated_at": "2026-02-26T03:55:53.185855+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 03时55分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -62,8 +62,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "AI短片 马上好",
@@ -107,7 +107,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -166,11 +166,24 @@
           "url": "https://wallstreetcn.com/livenews/3059023",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时55分]"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.615%（1月27日为3.823%），投标倍数2.32（前次为2.34）。",
+          "url": "https://wallstreetcn.com/livenews/3059013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时55分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.59亿美元。",
@@ -179,7 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -193,17 +206,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.615%（1月27日为3.823%），投标倍数2.32（前次为2.34）。",
-          "url": "https://wallstreetcn.com/livenews/3059013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.590%，投标倍数3.20。",
@@ -234,7 +236,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -245,7 +247,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -305,11 +307,24 @@
           "url": "https://wallstreetcn.com/livenews/3059014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时55分]"
+        },
+        {
+          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时59分 ~ 03时55分]"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
@@ -318,7 +333,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -329,18 +344,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3059009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -351,7 +355,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -362,7 +366,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -373,7 +377,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -391,8 +395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "上海打响2026年一线城市松绑限购第一枪 楼市“量升价稳”可期",
@@ -403,8 +407,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
@@ -414,8 +418,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "多地晒返乡置业成绩单：新房市场 “淡季不淡”，楼市迎来“开门红”",
@@ -425,8 +429,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -434,11 +438,12 @@
           "source": "抖音",
           "ranks": [
             26,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         }
       ]
     },
@@ -453,7 +458,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -473,8 +478,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时10分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时10分 ~ 03时55分]"
         }
       ]
     }
