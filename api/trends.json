@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T06:26:34.634534+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-02-26T07:23:30.787747+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
         },
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 07时23分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -52,8 +52,24 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            23,
+            24,
+            9,
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时23分]"
         },
         {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -65,21 +81,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
-        },
-        {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            23,
-            24,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时26分]"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -147,9 +148,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "AI需求拉动，被动元器件全面涨价即将到来",
+          "url": "https://wallstreetcn.com/livenews/3059090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
@@ -221,8 +244,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "澳新银行调整对澳洲联储利率政策的预期，现在预计5月份会加息25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3059102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
         {
           "title": "美联储：政府债券吸引力萎缩导致“自然利率”上升",
           "url": "https://wallstreetcn.com/livenews/3059023",
@@ -279,7 +313,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -345,7 +379,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -370,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：将联邦基金利率降至3.25%至3.5%的水平，与美国经济回归充分就业的目标相一致。",
+          "url": "https://flash.jin10.com/detail/20260226061847847800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -496,8 +541,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
         },
         {
           "title": "上海打响2026年一线城市松绑限购第一枪 楼市“量升价稳”可期",
@@ -513,18 +570,6 @@
           "time_info": "[00时10分 ~ 06时26分]"
         },
         {
-          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
-          "url": "https://wallstreetcn.com/articles/3766127",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
-        },
-        {
           "title": "多地晒返乡置业成绩单：新房市场 “淡季不淡”，楼市迎来“开门红”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32650376",
           "source": "澎湃新闻",
@@ -533,8 +578,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -547,8 +592,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -565,7 +610,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -574,7 +619,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -585,7 +630,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -596,7 +641,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -610,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
+          "url": "https://flash.jin10.com/detail/20260226062302497800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -624,11 +680,12 @@
           "ranks": [
             16,
             19,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 07时23分]"
         }
       ]
     }
