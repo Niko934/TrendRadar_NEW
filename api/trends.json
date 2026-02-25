@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T20:08:13.122388+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-02-25T21:43:05.442353+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时31分 ~ 20时08分]"
+          "appearance_count": 15,
+          "time_info": "[09时31分 ~ 21时43分]"
         },
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时53分 ~ 20时08分]"
+          "appearance_count": 21,
+          "time_info": "[02时53分 ~ 21时43分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -122,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 20时08分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 21时43分]"
         },
         {
           "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
@@ -206,6 +206,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时51分 ~ 18时44分]"
+        },
+        {
+          "title": "AI短片 马上好",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时43分 ~ 21时43分]"
         },
         {
           "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
@@ -379,18 +392,6 @@
           "time_info": "[04时28分 ~ 07时26分]"
         },
         {
-          "title": "AI短片 马上好",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时43分 ~ 20时08分]"
-        },
-        {
           "title": "AI开始雇佣人类",
           "url": "https://www.toutiao.com/trending/7609867693969178633/",
           "source": "今日头条",
@@ -509,6 +510,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 04时28分]"
+        },
+        {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
         },
         {
           "title": "欧洲央行官员称，该地区银行业对从AI中受益抱有信心",
@@ -632,12 +644,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "债市交易员押注美联储明年将继续降息 AI对就业的影响促使市场重估",
+          "url": "https://wallstreetcn.com/livenews/3058865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "陈茂波：香港将推动人民币国际化。 香港将积极与内地研究加快落实在港推出国债期货。 香港将吸引高质量发行人增加在港发行人民币债券。 香港联同业界积极拓展离岸人民币利率曲线的构建。",
@@ -796,6 +819,17 @@
           "time_info": "12时14分"
         },
         {
+          "title": "墨西哥央行副行长：央行仍有空间重启基准利率的下调。",
+          "url": "https://flash.jin10.com/detail/20260225210455845800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "人民币汇率开年走强，专家提醒切勿盲目“赌”方向",
           "url": "https://wallstreetcn.com/livenews/3058372",
           "source": "华尔街见闻-快讯",
@@ -868,6 +902,19 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
+          "url": "https://wallstreetcn.com/articles/3766127",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 21时43分]"
+        },
+        {
           "title": "上海发布楼市“沪七条”：符合条件非沪籍居民可在外环内增购1套住房",
           "url": "https://www.cls.cn/detail/2294506",
           "source": "财联社热门",
@@ -881,6 +928,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[14时15分 ~ 20时08分]"
+        },
+        {
+          "title": "上海发布楼市“沪七条”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            10,
+            7,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时57分 ~ 21时43分]"
         },
         {
           "title": "上海发布楼市「沪七条」，符合条件非沪籍居民可在外环内增购 1 套住房，对房地产市场有何影响？",
@@ -898,32 +962,19 @@
           "time_info": "[14时57分 ~ 20时08分]"
         },
         {
-          "title": "上海发布楼市“沪七条”：非沪籍外环内购房社保门槛降至1年，公积金贷款最高可贷324万",
-          "url": "https://wallstreetcn.com/articles/3766127",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 20时08分]"
-        },
-        {
           "title": "上海发布楼市“沪七条”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652876",
-          "source": "澎湃新闻",
+          "url": "https://www.toutiao.com/trending/7609574284113346596/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            10,
-            7,
-            6,
-            4,
-            2
+            9,
+            1,
+            23,
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时57分 ~ 20时08分]"
+          "appearance_count": 10,
+          "time_info": "[14时15分 ~ 21时43分]"
         },
         {
           "title": "多地晒返乡置业成绩单：新房市场 “淡季不淡”，楼市迎来“开门红”",
@@ -935,11 +986,25 @@
             9,
             10,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 20时08分]"
+          "appearance_count": 13,
+          "time_info": "[12时14分 ~ 21时43分]"
+        },
+        {
+          "title": "上海打响2026年一线城市松绑限购第一枪 楼市“量升价稳”可期",
+          "url": "https://www.cls.cn/detail/2294781",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时46分 ~ 21时43分]"
         },
         {
           "title": "上海发布楼市“沪七条”",
@@ -952,35 +1017,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时15分 ~ 20时08分]"
-        },
-        {
-          "title": "上海发布楼市“沪七条”",
-          "url": "https://www.toutiao.com/trending/7609574284113346596/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时15分 ~ 18时44分]"
-        },
-        {
-          "title": "上海打响2026年一线城市松绑限购第一枪 楼市“量升价稳”可期",
-          "url": "https://www.cls.cn/detail/2294781",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时46分 ~ 20时08分]"
+          "appearance_count": 12,
+          "time_info": "[14时15分 ~ 21时43分]"
         },
         {
           "title": "上海公积金最高能贷324万 专家称楼市或迎小阳春",
