@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-02-26T22:06:56.996940+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2026-02-26T23:47:42.948774+08:00",
+  "total_titles_processed": 2087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
-        {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            2,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时10分 ~ 22时06分]"
-        },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
           "url": "https://wallstreetcn.com/articles/3766041",
@@ -43,8 +29,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时10分 ~ 22时06分]"
+          "appearance_count": 14,
+          "time_info": "[12时10分 ~ 23时47分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2,
+            1,
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[12时10分 ~ 23时47分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -106,6 +107,19 @@
           "time_info": "[00时10分 ~ 09时23分]"
         },
         {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时38分 ~ 23时47分]"
+        },
+        {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
           "url": "https://wallstreetcn.com/articles/3766105",
           "source": "华尔街见闻",
@@ -131,16 +145,16 @@
           "time_info": "[17时41分 ~ 20时47分]"
         },
         {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            14
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时38分 ~ 22时06分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时47分]"
         },
         {
           "title": "AI短片 马上好",
@@ -157,18 +171,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 09时23分]"
-        },
-        {
-          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
-          "url": "https://www.cls.cn/detail/2296230",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时06分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -202,7 +204,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -213,9 +215,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "强劲财报难解AI担忧，英伟达跌超4%，纳指跌幅扩大至1%，芯片股承压，金涨银跌，WTI原油一度跌逾2%",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -254,6 +267,18 @@
           "time_info": "[16时38分 ~ 17时42分]"
         },
         {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时35分 ~ 23时47分]"
+        },
+        {
           "title": "AI圈爆火的FARS是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -278,18 +303,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时46分 ~ 22时06分]"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
-          "url": "https://www.cls.cn/detail/2295977",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时35分 ~ 22时06分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -406,6 +419,17 @@
           "time_info": "18时39分"
         },
         {
+          "title": "Ithina组建全球人工智能（AI）操作平台。",
+          "url": "https://wallstreetcn.com/livenews/3059658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "AI时代的“稀缺资产”？高盛：HALO--重资产、不过时",
           "url": "https://wallstreetcn.com/articles/3766110",
           "source": "华尔街见闻",
@@ -423,9 +447,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "英伟达跌超3.5%。 人工智能（AI）基建概念股西部数据一度下跌5.1%，Lumentum控股跌5.6%，希捷科技一度跌约4.5%， 美光科技跌约3%；加拿大多伦多上市的Celestica Inc.跌5%。 标普500指数跌幅扩大至0.4%，纳指跌超0.8%，半导体指数跌2.88%。",
+          "url": "https://wallstreetcn.com/livenews/3059656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "百度集团：2025年第四季度，智能云基础设施收入为人民币58亿元，AI高性能计算设施收入的订阅收入同比增长143%。2025年全年，智能云基础设施收入为约人民币200亿元，同比增长34%。",
@@ -555,9 +601,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "英伟达业绩未能消除AI担忧，美股开盘走低",
+          "url": "https://flash.jin10.com/detail/20260226225900057800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "AI帮你选对发型",
@@ -580,13 +637,37 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
+          "url": "https://wallstreetcn.com/livenews/3059624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
+          "url": "https://www.cls.cn/detail/2296218",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时47分]"
+        },
         {
           "title": "国开行发行1年期债券，规模60亿元，发行利率1.5100%，预期1.5000%，投标倍数2.48倍，边际倍数30.60倍； 国开行发行2年期债券，规模40亿元，发行利率1.4508%，预期1.6000%，投标倍数5.35倍，边际倍数1.29倍； 国开行发行3年期债券，规模30亿元，发行利率1.5504%，预期1.6300%，投标倍数3.46倍，边际倍数1.22倍； 国开行发行5年期债券，规模120亿元，发行利率1.7084%，预期1.7000%，投标倍数2.42倍，边际倍数1.24倍； 国开行发行10年期债券，规模190亿元，发行利率1.9475%，预期1.9500%，投标倍数2.08倍，边际倍数3.00倍。",
           "url": "https://wallstreetcn.com/livenews/3059390",
@@ -608,18 +689,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
-          "url": "https://www.cls.cn/detail/2296218",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时06分]"
         },
         {
           "title": "美联储：政府债券吸引力萎缩导致“自然利率”上升",
@@ -859,6 +928,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "人民币对美元即期汇率升破6.85，马年已累计升值近1%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658379",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "欧洲央行行长拉加德：欧洲央行不设定汇率目标。",
@@ -1306,7 +1386,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -1362,6 +1442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         }
       ]
     },
