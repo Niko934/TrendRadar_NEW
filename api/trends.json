@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T13:47:20.077585+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2026-02-27T14:43:50.872419+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             13,
             11,
             18,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 14时43分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -78,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时47分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时43分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -102,11 +103,49 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时47分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时43分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时43分]"
+        },
+        {
+          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
+          "url": "https://wallstreetcn.com/articles/3766280",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时43分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时43分]"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -133,6 +172,30 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
+          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时43分]"
+        },
+        {
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时43分]"
+        },
+        {
           "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
           "url": "https://wallstreetcn.com/livenews/3059779",
           "source": "华尔街见闻-快讯",
@@ -143,29 +206,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时23分]"
-        },
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时47分]"
-        },
-        {
-          "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
-          "url": "https://wallstreetcn.com/articles/3766280",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时47分]"
         },
         {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
@@ -180,29 +220,16 @@
           "time_info": "[05时27分 ~ 06时27分]"
         },
         {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            15,
-            19
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时47分]"
-        },
-        {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时47分]"
+          "time_info": "[12时07分 ~ 14时43分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -230,17 +257,6 @@
           "time_info": "[00时50分 ~ 03时39分]"
         },
         {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时47分]"
-        },
-        {
           "title": "中国AI调用量首次超过美国",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -251,6 +267,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 01时54分]"
+        },
+        {
+          "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时43分]"
         },
         {
           "title": "挪威主权财富基金：AI发现了他人遗漏的风险",
@@ -265,17 +293,6 @@
           "time_info": "[01时54分 ~ 02时43分]"
         },
         {
-          "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
           "title": "晨星：AI红利释放无需以裁员为代价 企业应聚焦价值创造",
           "url": "https://flash.jin10.com/detail/20260227113211123800",
           "source": "金十数据",
@@ -285,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "千问AI眼镜与夸克AI眼镜同团队研发 算法软硬件完全一致",
-          "url": "https://wallstreetcn.com/livenews/3060005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "纳斯达克综合指数、纳斯达克100指数跌超2%。 标普500指数跌超1.2%，道指下跌超200点、跌幅超过0.4%。 半导体指数跌超4.6%，生物科技指数跌2%，罗素2000指数跌0.4%。 北美科技软件股指数ETF涨幅一度收窄至不足1.0%，Salesforce涨幅一度从3.9%收窄至1.5%。 人工智能（AI）基建概念股西部数据一度下跌大约7%，Lumentum控股一度跌约8.5%，希捷科技一度跌约6.7%。",
@@ -400,7 +406,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -513,6 +519,17 @@
           "time_info": "[01时54分 ~ 02时43分]"
         },
         {
+          "title": "巴斯夫：受汇率影响，材料与农业解决方案两大业务板块2026年盈利预期将略有下调。",
+          "url": "https://flash.jin10.com/detail/20260227140129709800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "日本财务大臣片山皋月：正以高度紧迫感关注外汇走势。 不会对具体的汇率水平发表评论。 正与美国当局保持密切沟通。",
           "url": "https://wallstreetcn.com/livenews/3059964",
           "source": "华尔街见闻-快讯",
@@ -541,7 +558,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -629,6 +646,18 @@
           "time_info": "00时51分"
         },
         {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时43分]"
+        },
+        {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
           "url": "https://wallstreetcn.com/livenews/3059781",
           "source": "华尔街见闻-快讯",
@@ -653,16 +682,17 @@
           "time_info": "[00时51分 ~ 01时54分]"
         },
         {
-          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
-          "url": "https://www.cls.cn/detail/2296526",
-          "source": "财联社热门",
+          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2010521633262101357",
+          "source": "知乎",
           "ranks": [
             12,
-            11
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时47分]"
+          "time_info": "[12时07分 ~ 14时43分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -676,18 +706,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时30分]"
-        },
-        {
-          "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
-          "url": "https://www.zhihu.com/question/2010521633262101357",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时47分]"
         },
         {
           "title": "谷歌深夜发布生图模型Nano Banana 2",
@@ -707,7 +725,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -729,7 +747,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -784,6 +802,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时43分]"
+        },
+        {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
           "url": "https://wallstreetcn.com/livenews/3059885",
           "source": "华尔街见闻-快讯",
@@ -804,17 +834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
-        },
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
         },
         {
           "title": "OpenAI：已解决ChatGPT相关问题。",
