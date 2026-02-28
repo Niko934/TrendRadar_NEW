@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:16:55.690561+08:00",
-  "total_titles_processed": 2064,
+  "generated_at": "2026-02-28T23:16:12.146344+08:00",
+  "total_titles_processed": 2150,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时21分 ~ 22时16分]"
+          "appearance_count": 14,
+          "time_info": "[15时21分 ~ 23时16分]"
         },
         {
           "title": "外媒爆料：美军想用AI攻击中国电网",
@@ -224,6 +224,17 @@
           "time_info": "[04时21分 ~ 07时19分]"
         },
         {
+          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
+          "url": "https://www.cls.cn/detail/2298310",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时16分]"
+        },
+        {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3060467",
           "source": "华尔街见闻-快讯",
@@ -271,17 +282,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时49分 ~ 13时29分]"
-        },
-        {
-          "title": "“HALO”崛起、AI失宠 “看得见摸得着”的才是硬通货？",
-          "url": "https://www.cls.cn/detail/2298310",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时16分]"
         },
         {
           "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
@@ -434,8 +434,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时31分 ~ 22时16分]"
+          "appearance_count": 15,
+          "time_info": "[14时31分 ~ 23时16分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -551,6 +551,19 @@
           "time_info": "[19时13分 ~ 21时33分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时33分 ~ 23时16分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -573,18 +586,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时49分 ~ 12时51分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时33分 ~ 22时16分]"
         },
         {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
