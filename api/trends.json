@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T19:16:08.890999+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-03-01T20:33:52.368472+08:00",
+  "total_titles_processed": 1627,
   "failed_sources": [],
   "trends": [
     {
@@ -203,8 +203,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时18分 ~ 19时16分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 20时33分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：不会执行违宪命令",
@@ -387,6 +387,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时17分 ~ 14时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "降低利率，甚至到负利率，真的可以促进消费吗?",
+          "url": "https://www.zhihu.com/question/1908806354958791547",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 20时33分]"
         }
       ]
     }
