@@ -1,766 +1,105 @@
 {
-  "generated_at": "2026-03-02T23:36:24.811311+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2026-03-03T00:37:12.699954+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
           "url": "https://www.cls.cn/detail/2299598",
           "source": "财联社热门",
           "ranks": [
-            8,
-            4,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时41分 ~ 23时36分]"
-        },
-        {
-          "title": "千问AI眼镜开启预约",
-          "url": "https://www.toutiao.com/trending/7612431152581967913/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时48分 ~ 23时36分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
-          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时41分 ~ 23时36分]"
-        },
-        {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时36分 ~ 23时36分]"
-        },
-        {
-          "title": "AI短剧",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            18,
-            19,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时17分]"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "马上评｜如何看待学生作业中的“AI味儿”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683027",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            16,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时28分 ~ 23时36分]"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
-          "url": "https://wallstreetcn.com/livenews/3062029",
-          "source": "华尔街见闻-快讯",
+          "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
+          "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
           "url": "https://www.cls.cn/detail/2300009",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时40分 ~ 23时36分]"
-        },
-        {
-          "title": "Block 因 AI 裁员近 50%，码农裁 70%，股价飙涨 24%，AI 真会取代大部分人的工作吗？",
-          "url": "https://www.zhihu.com/question/2011022777268856579",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时41分 ~ 21时56分]"
-        },
-        {
-          "title": "逾350家中国企业亮相西班牙MWC，竞逐AI与6G产业机遇",
-          "url": "https://wallstreetcn.com/livenews/3061282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时19分 ~ 07时17分]"
-        },
-        {
-          "title": "演员逼真到根本看不出来是AI",
-          "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%80%BC%E7%9C%9F%E5%88%B0%E6%A0%B9%E6%9C%AC%E7%9C%8B%E4%B8%8D%E5%87%BA%E6%9D%A5%E6%98%AFAI&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时08分]"
-        },
-        {
-          "title": "MiniMax创始人：AI办公的机会将比编程更大",
-          "url": "https://wallstreetcn.com/livenews/3061967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时56分 ~ 22时40分]"
-        },
-        {
-          "title": "衡水中学AI监测系统",
-          "url": "https://s.weibo.com/weibo?q=%E8%A1%A1%E6%B0%B4%E4%B8%AD%E5%AD%A6AI%E7%9B%91%E6%B5%8B%E7%B3%BB%E7%BB%9F&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
-        },
-        {
-          "title": "物理科研工作在 AI 相当发达的未来还有多少价值？",
-          "url": "https://www.zhihu.com/question/2011307404294365414",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时41分]"
-        },
-        {
-          "title": "刘美含吐槽5家AI答案不一样",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BE%8E%E5%90%AB%E5%90%90%E6%A7%BD5%E5%AE%B6AI%E7%AD%94%E6%A1%88%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 13时48分]"
-        },
-        {
-          "title": "flydubai（迪拜航空）暂停所有迪拜航班，直至当地时间周二下午3点。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3061710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "美军参谋长联席会议主席Caine：三架F-15战机的损失正在调查中。",
-          "url": "https://wallstreetcn.com/livenews/3061962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "爱立信与英特尔携手合作，旨在加速迈向商业化的原生AI 6G技术之路。",
-          "url": "https://flash.jin10.com/detail/20260302141521033800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "市场消息：Anthropic正在调查Claude AI故障率较高的现象。",
-          "url": "https://flash.jin10.com/detail/20260302202408817800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "Anthropic正在调查Claude AI错误较高的现象。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3061901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "Kpler AIS追踪数据显示，中东湾和霍尔木兹海峡以东的油轮排队现象愈发严重，3月1日从霍尔木兹海峡东行的油轮数量骤减，仅观测到三艘满载原油和成品油的船只。",
-          "url": "https://flash.jin10.com/detail/20260302141104126800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "阿里巴巴AI品牌统一为千问",
-          "url": "https://wallstreetcn.com/livenews/3061466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "MiniMax2025年全年业绩超预期，AI平台化打开增长空间",
-          "url": "https://wallstreetcn.com/livenews/3061794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时38分"
-        },
-        {
-          "title": "苹果发布配备MagSafe充电功能的iPhone 17e及性能更强的iPad Air",
-          "url": "https://wallstreetcn.com/livenews/3061982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "AI技术会如何改变现代战争形态",
-          "url": "https://www.toutiao.com/trending/7612471183472070163/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "FF：正式启动EAI机器人交付，首个交付季目标交付200台",
-          "url": "https://wallstreetcn.com/livenews/3061454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "海湾基石石油公司：暂时关停了在伊拉克库尔德地区的Shaikan油田生产作业；公司资产未受影响。",
-          "url": "https://flash.jin10.com/detail/20260302151649234800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "AI参与打击伊朗：现代化战争再升级丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260302190319035800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "揭底战争背后的AI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E5%BA%95%E6%88%98%E4%BA%89%E8%83%8C%E5%90%8E%E7%9A%84AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "英伟达斥资40亿美元强化AI光学供应链 巩固算力基建",
-          "url": "https://flash.jin10.com/detail/20260302213153055800",
-          "source": "金十数据",
+          "title": "iPadAir 没高刷",
+          "url": "https://s.weibo.com/weibo?q=iPadAir%20%E6%B2%A1%E9%AB%98%E5%88%B7&t=31&band_rank=29&Refer=top",
+          "source": "微博",
           "ranks": [
             29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "日本央行副行长冰见野良三：即使整体通胀率降至2%以下，如果我们判断潜在通胀正加速向我们的价格目标靠拢，我们仍可能将利率上调至中性水平。",
-          "url": "https://flash.jin10.com/detail/20260302132916040800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         },
         {
-          "title": "分析师：地缘局势与节日需求推升印尼短期利率维稳预期",
-          "url": "https://flash.jin10.com/detail/20260302173031053800",
-          "source": "金十数据",
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
           "ranks": [
-            5
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时41分"
+          "time_info": "00时37分"
         },
         {
-          "title": "奥地利央行行长：欧洲央行应做好准备，迅速朝任一方向调整利率。",
-          "url": "https://flash.jin10.com/detail/20260302214155779800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "以色列特拉维夫股市开盘上涨3%；以色列新谢克尔兑美元汇率持平于3.12。",
-          "url": "https://flash.jin10.com/detail/20260302162534674800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（2月27日）担保隔夜融资利率（SOFR）报3.68%，之前一天报3.67%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3061987",
+          "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
+          "url": "https://wallstreetcn.com/livenews/3062029",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
-          "title": "摩根大通预计以色列央行将在3月维持利率不变，下次降息可能在5月。",
-          "url": "https://flash.jin10.com/detail/20260302152632109800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "国开行发行184天期债券，规模20亿元，发行利率1.4889%，预期1.5000%，投标倍数3.58倍，边际倍数12.00倍； 国开行发行3年期债券，规模50亿元，发行利率1.6409%，预期1.6600%，投标倍数5.76倍，边际倍数5.61倍。",
-          "url": "https://wallstreetcn.com/livenews/3061655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "摩根大通现预计土耳其央行不会在3月12日降息，并将2026年底政策利率预测从30%上调至31%。",
-          "url": "https://flash.jin10.com/detail/20260302152533494800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "英国利率期货不再完全定价2026年英国央行将进行两次25个基点的降息。",
-          "url": "https://flash.jin10.com/detail/20260302161827237800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "内蒙古发行15年期普通专项地方债，规模250.0000亿元，发行利率2.3400%，边际倍数1.85倍，倍数预期2.32； 内蒙古发行20年期普通专项地方债，规模250.0000亿元，发行利率2.4900%，边际倍数2.20倍，倍数预期2.48； 内蒙古发行30年期普通专项地方债，规模73.0000亿元，发行利率2.5000%，边际倍数2.09倍，倍数预期2.50。",
-          "url": "https://wallstreetcn.com/livenews/3061463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：难以预见美伊冲突的影响，现阶段不便就这一事件将如何影响日本央行基于特定情景作出的利率决议发表评论。",
-          "url": "https://flash.jin10.com/detail/20260302130807764800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "摩根大通将土耳其2026年末CPI预测从24%上调至25%，理由是油价上涨、经常账户赤字扩大及潜在资本外流。 摩根大通目前预计土耳其在3月12日不会降息，并将2026年末政策利率预测从30%上调至 31%。",
-          "url": "https://wallstreetcn.com/livenews/3061647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为93.6%",
-          "url": "https://flash.jin10.com/detail/20260302060123518800",
-          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "印度卢比兑美元汇率盘中跌破91关口，为一个月来首次。",
-          "url": "https://flash.jin10.com/detail/20260302113145996800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "新加坡金管局： 新加坡元名义有效汇率仍处于升值政策区间内，这将继续抑制输入型通胀压力。",
-          "url": "https://flash.jin10.com/detail/20260302130526200800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：中东局势发展难以预测。 中东局势可能影响日本经济与物价。 油价走势难以预测。 无法断言物价目标已达成。 维持宽松环境是合适的。 难以判断距离中性利率还有多远。 日本央行官员将密切关注价格趋势以作出政策决定。 日本央行的利率立场并未发生转变。 预计日本居民消费通胀将在一段时间内维持在2%以下。",
-          "url": "https://wallstreetcn.com/livenews/3061532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "欧洲央行管委Kocher：欧洲央行应做好迅速调整利率的准备。 汇率“并非欧洲央行的触发参数”。 量化美国对伊朗袭击的影响为时过早。 通货膨胀率正处于你期望的水平。 “尚无迹象表明”拉加德会提前离职。",
-          "url": "https://wallstreetcn.com/livenews/3061945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时56分"
-        },
-        {
-          "title": "中国外汇交易中心（CFETS）：2月27日人民币汇率指数按周涨0.77至98.58。",
-          "url": "https://wallstreetcn.com/livenews/3061368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "time_info": "00时37分"
         }
       ]
     },
     {
       "keyword_group": "iphone apple",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
-          "title": "iPhone17e发布",
-          "url": "https://s.weibo.com/weibo?q=iPhone17e%E5%8F%91%E5%B8%83&t=31&band_rank=12&Refer=top",
+          "title": "iPhone17e浅粉色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17e%E6%B5%85%E7%B2%89%E8%89%B2%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时39分 ~ 23时36分]"
-        },
-        {
-          "title": "苹果推出iPhone 17e 起售价公布",
-          "url": "https://www.toutiao.com/trending/7612660405399506483/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "iPhone17e 远古刘海屏",
-          "url": "https://s.weibo.com/weibo?q=iPhone17e%20%E8%BF%9C%E5%8F%A4%E5%88%98%E6%B5%B7%E5%B1%8F&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        },
-        {
-          "title": "iPhone 17e机模测评",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%2017e%E6%9C%BA%E6%A8%A1%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黑石房地产基金Breit自2022年以来首次录得资金净流入。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3061916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时41分"
-        },
-        {
-          "title": "上海楼市新政三连发 该不该上车",
-          "url": "https://www.toutiao.com/trending/7611194524198731817/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时48分 ~ 15时45分]"
-        },
-        {
-          "title": "深圳二手房价格连续3个月上涨，2月均价达6.2万元/㎡",
-          "url": "https://wallstreetcn.com/livenews/3061439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟币 币安 比特币 以太坊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比特币短线拉升，从66500美元下方转而涨至将近67340美元。据央视报道，伊朗军方称美“林肯”号航母遭到伊朗4枚弹道导弹袭击。",
-          "url": "https://wallstreetcn.com/livenews/3061214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
-        },
-        {
-          "title": "集体下跌！沙特阿拉伯股指跌2%，埃及股指跌超5%，比特币回落至6.7万美元下方",
-          "url": "https://wallstreetcn.com/articles/3766457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "比特币充当地缘政治\"晴雨表\"，周一市场会高开吗？",
-          "url": "https://wallstreetcn.com/articles/3766462",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克变性女儿登上米兰时装周T台",
-          "url": "https://www.toutiao.com/trending/7611736772854595611/",
-          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 14时49分]"
-        },
-        {
-          "title": "马斯克：X单日使用量再创新高。",
-          "url": "https://flash.jin10.com/detail/20260302085451346800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 12时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Notion 上线首个开源权重模型，MiniMax M2.5 加入 Custom Agents",
-          "url": "https://wallstreetcn.com/livenews/3061524",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 00时37分]"
         }
       ]
     }
