@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T14:42:01.051551+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-03-03T15:38:23.113833+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -71,11 +71,12 @@
             12,
             21,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 14时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 15时38分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -101,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 14时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时25分 ~ 15时38分]"
         },
         {
           "title": "AI参战对伊空袭",
@@ -112,8 +113,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -147,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "多平台公布2月涉“AI魔改”视频治理结果",
+          "url": "https://wallstreetcn.com/livenews/3062527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -221,6 +233,30 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
+          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2011932852577650327",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 15时38分]"
+        },
+        {
           "title": "Anthropic：已经处理好Claude Opus 4.6出现的错误。 正调查Claude.AI中出错率偏高这个问题。",
           "url": "https://wallstreetcn.com/livenews/3062080",
           "source": "华尔街见闻-快讯",
@@ -268,28 +304,6 @@
           "time_info": "[07时20分 ~ 07时21分]"
         },
         {
-          "title": "如何评价 Apple 在 3 月 2 日 晚更新的 iPad Air M4，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2011932852577650327",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
-        },
-        {
-          "title": "AI生成 男女身高",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
-        },
-        {
           "title": "iPadAir 没高刷",
           "url": "https://s.weibo.com/weibo?q=iPadAir%20%E6%B2%A1%E9%AB%98%E5%88%B7&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -334,6 +348,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "卡塔尔停产之后，印度对工业用户实施天然气配给供应。 GAIL、印度石油公司自周二起削减对本地用户的天然气供应。 印度最大进口商Petronet已通知GAIL及其他天然气公司，卡塔尔方面的液化天然气供应将减少。",
+          "url": "https://wallstreetcn.com/livenews/3062509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
           "url": "https://wallstreetcn.com/livenews/3062029",
           "source": "华尔街见闻-快讯",
@@ -359,7 +384,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国前财长耶伦：伊朗局势让美联储的利率政策“更加会按兵不动”。",
@@ -397,6 +422,17 @@
           "time_info": "[01时41分 ~ 02时37分]"
         },
         {
+          "title": "农发行发行2年期债券，规模30亿元，发行利率1.5434%，预期1.5700%，投标倍数5.42倍，边际倍数2.77倍； 农发行发行2年期债券，规模60亿元，发行利率1.4804%，预期1.5300%，投标倍数4.28倍，边际倍数1.43倍； 农发行发行7年期债券，规模20亿元，发行利率1.7810%，预期1.7900%，投标倍数5.58倍，边际倍数51.50倍。",
+          "url": "https://wallstreetcn.com/livenews/3062519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "广东发行10年期一般债地方债，规模47.9200亿元，发行利率1.9500%，边际倍数1.10倍，倍数预期1.93； 广东发行10年期其他专项地方债，规模79.7978亿元，发行利率1.9700%，边际倍数1.88倍，倍数预期1.96； 广东发行15年期其他专项地方债，规模68.9234亿元，发行利率2.3000%，边际倍数2.49倍，倍数预期2.29； 广东发行20年期其他专项地方债，规模159.1164亿元，发行利率2.4600%，边际倍数12.32倍，倍数预期2.45； 广东发行30年期其他专项地方债，规模149.8735亿元，发行利率2.4800%，边际倍数1.87倍，倍数预期2.47； 广东发行30年期其他专项地方债，规模144.4319亿元，发行利率2.4800%，边际倍数1.70倍，倍数预期2.47； 广东发行30年期其他专项地方债，规模41.4000亿元，发行利率2.4800%，边际倍数1.20倍，倍数预期2.47； 广东发行10年期一般债地方债，规模124.9681亿元，发行利率1.9600%，边际倍数3.39倍，倍数预期1.92； 广东发行15年期普通专项地方债，规模103.4028亿元，发行利率2.3000%，边际倍数2.85倍，倍数预期2.28。",
           "url": "https://wallstreetcn.com/livenews/3062379",
           "source": "华尔街见闻-快讯",
@@ -408,6 +444,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "交易员：在土耳其央行采取流动性措施后，周二市场上的土耳其里拉隔夜利率将接近40%，高于上周五的37%。",
+          "url": "https://flash.jin10.com/detail/20260303152341274800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "澳洲联储主席布洛克：澳元上涨反映了利率差异。",
           "url": "https://flash.jin10.com/detail/20260303060612828800",
           "source": "金十数据",
@@ -417,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "山东发行7年期棚改专项地方债，规模15.7700亿元，发行利率1.7700%，边际倍数5.99倍，倍数预期1.74； 山东发行30年期其他专项地方债，规模49.3600亿元，发行利率2.4900%，边际倍数23.79倍，倍数预期2.49； 山东发行15年期其他专项地方债，规模49.6700亿元，发行利率2.3100%，边际倍数5.74倍，倍数预期2.31； 山东发行10年期其他专项地方债，规模2.7400亿元，发行利率1.9500%，边际倍数1.18倍，倍数预期1.98； 山东发行10年期其他专项地方债，规模6.1000亿元，发行利率1.9500%，边际倍数1.03倍，倍数预期1.98； 山东发行15年期其他专项地方债，规模14.5100亿元，发行利率2.3100%，边际倍数2.64倍，倍数预期2.31； 山东发行10年期一般债地方债，规模82.7800亿元，发行利率1.9600%，边际倍数1.99倍，倍数预期1.97； 山东发行10年期普通专项地方债，规模43.2200亿元，发行利率1.9600%，边际倍数1.32倍，倍数预期1.98； 山东发行10年期普通专项地方债，规模18.9200亿元，发行利率1.9700%，边际倍数2.21倍，倍数预期1.98； 山东发行15年期普通专项地方债，规模50.3400亿元，发行利率2.3100%，边际倍数9.27倍，倍数预期2.30； 山东发行30年期普通专项地方债，规模38.4300亿元，发行利率2.4900%，边际倍数7.38倍，倍数预期2.49。",
+          "url": "https://wallstreetcn.com/livenews/3062506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "离岸人民币同业拆息利率多数续跌",
@@ -531,7 +589,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
@@ -564,11 +622,12 @@
             12,
             20,
             26,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时25分 ~ 14时42分]"
+          "appearance_count": 9,
+          "time_info": "[09时25分 ~ 15时38分]"
         },
         {
           "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
@@ -587,33 +646,36 @@
           "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%8F%AA%E7%94%A8%E4%B8%80%E4%B8%AA%E6%9C%88%E6%A9%99%E8%89%B2%E5%8F%98%E7%B2%89%E8%89%B2%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时42分]"
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 15时38分]"
         },
         {
           "title": "2026 年苹果推出高性价比 iPhone 17e，定价 4499 元起售，你看好其市场前景吗？",
           "url": "https://www.zhihu.com/question/1996006356193411086",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时41分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[14时41分 ~ 15时38分]"
         },
         {
           "title": "iPhone 17e浅粉色",
           "url": "https://www.douyin.com/hot/2417229",
           "source": "抖音",
           "ranks": [
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
         },
         {
           "title": "iPhone 17e机模测评",
@@ -719,8 +781,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时37分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[02时37分 ~ 15时38分]"
         }
       ]
     },
@@ -733,11 +795,29 @@
           "url": "https://wallstreetcn.com/livenews/3062482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟币 币安 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币下跌2.2%，以太币下跌2.43%。",
+          "url": "https://wallstreetcn.com/livenews/3062498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "15时38分"
         }
       ]
     }
