@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T13:44:17.049146+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-03-03T14:42:01.051551+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -70,11 +70,12 @@
             11,
             12,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 13时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 14时42分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -91,15 +92,17 @@
           "time_info": "[04时30分 ~ 09时26分]"
         },
         {
-          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
-          "url": "https://www.cls.cn/detail/2299598",
-          "source": "财联社热门",
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时41分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 14时42分]"
         },
         {
           "title": "AI参战对伊空袭",
@@ -109,20 +112,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
-          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
-          "url": "https://wallstreetcn.com/articles/3766555",
-          "source": "华尔街见闻",
+          "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
+          "url": "https://www.cls.cn/detail/2299598",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 13时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时36分 ~ 01时41分]"
         },
         {
           "title": "华为首次在海外展出全液冷AI超节点",
@@ -172,6 +174,18 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 14时42分]"
+        },
+        {
           "title": "Anthropic：Claude.AI中出错率偏高这个问题得到解决。",
           "url": "https://wallstreetcn.com/livenews/3062084",
           "source": "华尔街见闻-快讯",
@@ -219,17 +233,6 @@
           "time_info": "[01时41分 ~ 02时37分]"
         },
         {
-          "title": "Claude卷入美以空袭伊朗实战？AI大模型正被纳入军事杀伤链引发担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32684906",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
-        },
-        {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3062077",
           "source": "华尔街见闻-快讯",
@@ -274,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
+          "title": "AI生成 男女身高",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%94%9F%E6%88%90%20%E7%94%B7%E5%A5%B3%E8%BA%AB%E9%AB%98&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
         },
         {
           "title": "iPadAir 没高刷",
@@ -441,7 +455,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
@@ -509,6 +523,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
+          "url": "https://wallstreetcn.com/livenews/3062468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "iPhone17e浅粉色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17e%E6%B5%85%E7%B2%89%E8%89%B2%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            11,
+            16,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 09时26分]"
+        },
+        {
+          "title": "iPhone17e正式发布",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            20,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 14时42分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
+          "url": "https://www.cls.cn/detail/2300445",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 14时42分]"
+        },
+        {
+          "title": "iPhone17只用一个月橙色变粉色",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%8F%AA%E7%94%A8%E4%B8%80%E4%B8%AA%E6%9C%88%E6%A9%99%E8%89%B2%E5%8F%98%E7%B2%89%E8%89%B2%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 14时42分]"
+        },
+        {
+          "title": "2026 年苹果推出高性价比 iPhone 17e，定价 4499 元起售，你看好其市场前景吗？",
+          "url": "https://www.zhihu.com/question/1996006356193411086",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
+        },
+        {
+          "title": "iPhone 17e浅粉色",
+          "url": "https://www.douyin.com/hot/2417229",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
+          "title": "iPhone 17e机模测评",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%2017e%E6%9C%BA%E6%A8%A1%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
         }
       ]
     },
@@ -587,85 +703,6 @@
       ]
     },
     {
-      "keyword_group": "iphone apple",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "iPhone17e浅粉色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17e%E6%B5%85%E7%B2%89%E8%89%B2%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            11,
-            16,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 09时26分]"
-        },
-        {
-          "title": "iPhone17e正式发布",
-          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 13时44分]"
-        },
-        {
-          "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
-          "url": "https://www.cls.cn/detail/2300445",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时08分 ~ 13时44分]"
-        },
-        {
-          "title": "iPhone17只用一个月橙色变粉色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%8F%AA%E7%94%A8%E4%B8%80%E4%B8%AA%E6%9C%88%E6%A9%99%E8%89%B2%E5%8F%98%E7%B2%89%E8%89%B2%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
-        },
-        {
-          "title": "iPhone 17e浅粉色",
-          "url": "https://www.douyin.com/hot/2417229",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 13时44分]"
-        },
-        {
-          "title": "iPhone 17e机模测评",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%2017e%E6%9C%BA%E6%A8%A1%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时21分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 1,
       "titles": [
@@ -678,11 +715,29 @@
             16,
             14,
             15,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时37分 ~ 13时44分]"
+          "appearance_count": 18,
+          "time_info": "[02时37分 ~ 14时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里桌面Agent QoderWork全面开放",
+          "url": "https://wallstreetcn.com/livenews/3062482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         }
       ]
     }
