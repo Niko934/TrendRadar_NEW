@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T17:35:39.279435+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-03-03T18:32:58.044558+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,19 @@
           "time_info": "[00时36分 ~ 13时44分]"
         },
         {
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 18时32分]"
+        },
+        {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
           "url": "https://wallstreetcn.com/premium/articles/3766415?layout=wscn-layout",
           "source": "华尔街见闻",
@@ -47,18 +60,6 @@
           "time_info": "[00时36分 ~ 07时21分]"
         },
         {
-          "title": "AI参战对伊空袭",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 17时35分]"
-        },
-        {
           "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
           "url": "https://wallstreetcn.com/articles/3766555",
           "source": "华尔街见闻",
@@ -68,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 18时32分]"
         },
         {
           "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
@@ -563,7 +564,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -607,7 +608,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
@@ -640,6 +641,18 @@
           "time_info": "09时26分"
         },
         {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时32分]"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
           "url": "https://wallstreetcn.com/livenews/3062140",
           "source": "华尔街见闻-快讯",
@@ -650,18 +663,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时22分]"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时32分 ~ 17时35分]"
         },
         {
           "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
@@ -741,8 +742,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 18时32分]"
         },
         {
           "title": "iPhone17只用一个月橙色变粉色",
@@ -758,6 +759,21 @@
           "time_info": "[13时43分 ~ 17时35分]"
         },
         {
+          "title": "iPhone 17e浅粉色",
+          "url": "https://www.douyin.com/hot/2417229",
+          "source": "抖音",
+          "ranks": [
+            26,
+            18,
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时43分 ~ 18时32分]"
+        },
+        {
           "title": "苹果发布iPhone 17e：4499元起售 较16e“加量不加价”",
           "url": "https://www.cls.cn/detail/2300445",
           "source": "财联社热门",
@@ -768,20 +784,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 14时42分]"
-        },
-        {
-          "title": "iPhone 17e浅粉色",
-          "url": "https://www.douyin.com/hot/2417229",
-          "source": "抖音",
-          "ranks": [
-            26,
-            18,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 17时35分]"
         },
         {
           "title": "2026 年苹果推出高性价比 iPhone 17e，定价 4499 元起售，你看好其市场前景吗？",
@@ -900,8 +902,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[02时37分 ~ 17时35分]"
+          "appearance_count": 23,
+          "time_info": "[02时37分 ~ 18时32分]"
         },
         {
           "title": "为何今年被视为楼市转折点",
@@ -910,7 +912,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
