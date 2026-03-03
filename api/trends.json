@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T07:21:04.648395+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-03-03T09:26:09.459777+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "阿尔特曼回应“牵手”五角大楼：仓促、观感差 但我们是为了AI行业",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 09时26分]"
         },
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -42,19 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 07时21分]"
-        },
-        {
-          "title": "剑星AI作图抄袭,反手拉黑原创",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 09时26分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -63,11 +52,38 @@
           "ranks": [
             17,
             13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时30分 ~ 09时26分]"
+        },
+        {
+          "title": "剑星AI作图抄袭,反手拉黑原创",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351206&amp;topic_name=%E5%89%91%E6%98%9FAI%E4%BD%9C%E5%9B%BE%E6%8A%84%E8%A2%AD%2C%E5%8F%8D%E6%89%8B%E6%8B%89%E9%BB%91%E5%8E%9F%E5%88%9B",
+          "source": "贴吧",
+          "ranks": [
+            11,
             12
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 09时26分]"
+        },
+        {
+          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
+          "url": "https://www.zhihu.com/question/2010702851366674730",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            14,
+            10
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[04时30分 ~ 07时21分]"
+          "time_info": "[05时26分 ~ 09时26分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -87,22 +103,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "演员王劲松遭 AI 盗用形象生成视频，如何界定 AI 侵权，普通人该如何防范？",
-          "url": "https://www.zhihu.com/question/2010702851366674730",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时26分 ~ 07时21分]"
         },
         {
           "title": "摩根大通CEO戴蒙：人工智能（AI）可以将工作时长缩短至一周四天。 政府应该对使用AI的人设置年龄限制。 推动AI不会造成“赢家通吃”的局面。",
@@ -142,6 +145,18 @@
           "time_info": "[01时41分 ~ 02时37分]"
         },
         {
+          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
+          "url": "https://www.cls.cn/detail/2300191",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 09时26分]"
+        },
+        {
           "title": "财晓得丨播放量暴涨181倍！AI漫剧狂飙背后：资本涌入和版权争议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659631",
           "source": "澎湃新闻",
@@ -163,6 +178,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 02时37分]"
+        },
+        {
+          "title": "苹果发布iPhone 17e与新款iPad Air，定价不变主打中端市场",
+          "url": "https://wallstreetcn.com/articles/3766555",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
         },
         {
           "title": "Reflection AI寻求按20亿美元估值进行新一轮融资。（英国金融时报）",
@@ -187,17 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时27分]"
-        },
-        {
-          "title": "中东战云密布，A股波澜不惊？十大基金公司解盘：黄金、原油、AI谁主沉浮",
-          "url": "https://www.cls.cn/detail/2300191",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "如何评价 AI 顶会 ICLR 提出 「 经济学的神经网络 」 Behavior Learning ?",
@@ -239,7 +254,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -264,13 +279,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：考虑在金融实践中使用AI至关重要。",
+          "url": "https://wallstreetcn.com/livenews/3062235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
+          "url": "https://flash.jin10.com/detail/20260303091907467800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们一直与国防部合作，对我们的协议进行一些补充，以使我们的原则非常明确。",
+          "url": "https://flash.jin10.com/detail/20260303091855339800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
+          "url": "https://wallstreetcn.com/livenews/3062140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时27分 ~ 06时22分]"
+        },
+        {
+          "title": "OpenAI与美国国防部在合作协议中新增更多监控保护条款。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3062254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260303052851593800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "大批OpenAI用户转投Anthropic 后者登顶美国APP下载榜",
+          "url": "https://flash.jin10.com/detail/20260303044811624800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "马斯克称赞阿里巴巴Qwen模型",
+          "url": "https://wallstreetcn.com/livenews/3062268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
         {
           "title": "据知情人士透露，马斯克旗下xAI计划最快下周赎回30亿美元2025年6月发行的债券。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3062081",
@@ -376,7 +486,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -387,55 +497,15 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
-          "url": "https://wallstreetcn.com/livenews/3062140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时27分 ~ 06时22分]"
-        },
-        {
-          "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260303052851593800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
-          "title": "大批OpenAI用户转投Anthropic 后者登顶美国APP下载榜",
-          "url": "https://flash.jin10.com/detail/20260303044811624800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iphone apple",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "iPhone17e浅粉色",
@@ -449,8 +519,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 07时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 09时26分]"
+        },
+        {
+          "title": "iPhone17e正式发布",
+          "url": "https://search.bilibili.com/all?keyword=iPhone17e%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
         },
         {
           "title": "iPhone 17e机模测评",
@@ -477,11 +558,12 @@
             19,
             16,
             14,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时37分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[02时37分 ~ 09时26分]"
         }
       ]
     }
