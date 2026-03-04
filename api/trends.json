@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:34:39.662789+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2026-03-04T16:32:05.499367+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 09时21分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时03分 ~ 16时32分]"
         },
         {
           "title": "马云，新年现身！谈了AI",
@@ -42,23 +54,12 @@
             18,
             17,
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时38分 ~ 15时34分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时34分]"
+          "appearance_count": 14,
+          "time_info": "[01时38分 ~ 16时32分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -72,6 +73,33 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时28分 ~ 12时03分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时03分 ~ 16时32分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时39分 ~ 16时32分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -121,31 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时39分 ~ 14时39分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 15时34分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时39分 ~ 15时34分]"
         },
         {
           "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
@@ -208,6 +211,17 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
           "title": "Claude崩了，全球AI因何“熔断”？",
           "url": "https://wallstreetcn.com/articles/3766631",
           "source": "华尔街见闻",
@@ -236,7 +250,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -280,7 +294,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -302,7 +316,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         }
@@ -310,7 +324,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.03亿美元。",
@@ -440,7 +454,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -451,9 +465,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
+        },
+        {
+          "title": "已与银行达成协议将境内贷款利率下调约100BP？万科A回应",
+          "url": "https://wallstreetcn.com/livenews/3063471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "日本央行行长植田和男：日本央行将与市场沟通，以维持长期利率稳定。 将逐次会议做出恰当的政策决定。",
@@ -462,7 +487,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -587,6 +612,57 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中金：北上楼市拐点渐行渐近",
+          "url": "https://www.toutiao.com/trending/7613208948836929043/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时34分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-03-04）",
+          "url": "https://flash.jin10.com/detail/20260304155551312800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
+          "url": "https://wallstreetcn.com/livenews/3062874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "中金：北京、上海楼市拐点渐行渐近",
+          "url": "https://wallstreetcn.com/livenews/3063108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone apple",
       "match_count": 4,
       "titles": [
@@ -641,46 +717,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中金：北上楼市拐点渐行渐近",
-          "url": "https://www.toutiao.com/trending/7613208948836929043/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时34分]"
-        },
-        {
-          "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
-          "url": "https://wallstreetcn.com/livenews/3062874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "中金：北京、上海楼市拐点渐行渐近",
-          "url": "https://wallstreetcn.com/livenews/3063108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         }
       ]
     },
