@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T13:39:47.907475+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2026-03-04T14:39:22.709426+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时38分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[01时38分 ~ 14时39分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -45,8 +45,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 13时39分]"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 14时39分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -60,29 +72,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时28分 ~ 12时03分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时39分]"
-        },
-        {
-          "title": "代表建议为AI内容添加不可去除水印",
-          "url": "https://www.toutiao.com/trending/7613178493744087103/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -122,6 +111,43 @@
           "time_info": "[04时26分 ~ 05时28分]"
         },
         {
+          "title": "代表建议为AI内容添加不可去除水印",
+          "url": "https://www.toutiao.com/trending/7613178493744087103/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时39分 ~ 14时39分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时39分]"
+        },
+        {
           "title": "建议为AI生成内容添加不可去除水印",
           "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
           "source": "百度热搜",
@@ -158,27 +184,16 @@
           "time_info": "[04时26分 ~ 05时28分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时39分]"
-        },
-        {
-          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2012296941925581663",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时39分]"
+          "time_info": "[13时39分 ~ 14时39分]"
         },
         {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
@@ -204,17 +219,6 @@
           "time_info": "09时21分"
         },
         {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3062945",
           "source": "华尔街见闻-快讯",
@@ -232,7 +236,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -348,7 +352,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -359,7 +363,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -370,7 +374,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -381,7 +385,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -576,7 +580,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "加拿大2月温哥华基准住房价格同比下降6.8%。 2月温哥华住房销售同比下滑9.8%。",
@@ -599,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "中金：北上楼市拐点渐行渐近",
+          "url": "https://www.toutiao.com/trending/7613208948836929043/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
