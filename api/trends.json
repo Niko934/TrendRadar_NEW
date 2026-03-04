@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T09:21:29.906559+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-03-04T12:03:48.814438+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 09时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 12时03分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -40,11 +40,12 @@
             20,
             19,
             18,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时38分 ~ 09时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 12时03分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -52,11 +53,23 @@
           "source": "今日头条",
           "ranks": [
             1,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时28分 ~ 09时21分]"
+          "appearance_count": 5,
+          "time_info": "[05时28分 ~ 12时03分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -64,11 +77,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 12时03分]"
         },
         {
           "title": "美国明尼苏达州起诉总统特朗普将医保资金（MediCAid fund）“武器化”。",
@@ -93,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时28分]"
+        },
+        {
+          "title": "建议为AI生成内容添加不可去除水印",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时03分]"
         },
         {
           "title": "英特尔任命Craig H. Barratt为董事长，接替Frank Yeary。",
@@ -131,26 +157,26 @@
           "time_info": "[06时22分 ~ 07时20分]"
         },
         {
-          "title": "建议为AI生成内容添加不可去除水印",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
           "title": "Claude崩了，全球AI因何“熔断”？",
           "url": "https://wallstreetcn.com/articles/3766631",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
@@ -162,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
@@ -209,7 +246,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -307,7 +344,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.03亿美元。",
@@ -343,6 +380,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "中国财政部发行63天期债券，规模300亿元，发行利率1.0971%，边际利率1.1552%，预期1.2000%，投标倍数3.76倍，边际倍数8.51倍； 中国财政部发行91天期债券，规模400亿元，发行利率1.1222%，边际利率1.1746%，预期1.2300%，投标倍数3.69倍，边际倍数3.42倍； 中国财政部发行182天期债券，规模450亿元，发行利率1.1801%，边际利率1.2207%，预期1.2800%，投标倍数3.63倍。",
+          "url": "https://wallstreetcn.com/livenews/3063273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "欧洲央行管委卡扎克斯：就我所见，当前利率处于合适水平。",
           "url": "https://flash.jin10.com/detail/20260304003212745800",
           "source": "金十数据",
@@ -352,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "随着中东冲突加剧经济风险，印度卢比兑美元汇率跌破92。",
+          "url": "https://flash.jin10.com/detail/20260304113546124800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "美联储3月维持利率不变的概率为97.4%",
@@ -371,7 +430,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -418,7 +477,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -457,7 +516,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
