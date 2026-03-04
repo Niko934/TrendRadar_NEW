@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T12:03:48.814438+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-03-04T13:39:47.907475+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -29,8 +29,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时38分 ~ 12时03分]"
+          "appearance_count": 11,
+          "time_info": "[01时38分 ~ 13时39分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -41,11 +41,12 @@
             19,
             18,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时38分 ~ 12时03分]"
+          "appearance_count": 10,
+          "time_info": "[01时38分 ~ 13时39分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -65,11 +66,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时39分]"
+        },
+        {
+          "title": "代表建议为AI内容添加不可去除水印",
+          "url": "https://www.toutiao.com/trending/7613178493744087103/",
+          "source": "今日头条",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时39分"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -145,6 +158,29 @@
           "time_info": "[04时26分 ~ 05时28分]"
         },
         {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时39分]"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 13时39分]"
+        },
+        {
           "title": "Meta与新闻集团News Corp.达成人工智能（AI）许可协议，未来至少三年、每年将向后者支付至多0.5亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3063025",
           "source": "华尔街见闻-快讯",
@@ -168,15 +204,15 @@
           "time_info": "09时21分"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时39分"
         },
         {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
@@ -190,15 +226,15 @@
           "time_info": "02时39分"
         },
         {
-          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2012296941925581663",
-          "source": "知乎",
+          "title": "岳雨婷缺席balmain看秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时03分"
+          "time_info": "13时39分"
         },
         {
           "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
@@ -232,6 +268,144 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.03亿美元。",
+          "url": "https://flash.jin10.com/detail/20260304021655795800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "美国至3月3日6周国债竞拍-得标利率配置百分比 85.61%，前值74.93%。",
+          "url": "https://flash.jin10.com/detail/20260304003410648800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "美国至3月3日6周国债竞拍-得标利率 3.64%，前值3.64%。",
+          "url": "https://flash.jin10.com/detail/20260304003402232800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "中国财政部发行63天期债券，规模300亿元，发行利率1.0971%，边际利率1.1552%，预期1.2000%，投标倍数3.76倍，边际倍数8.51倍； 中国财政部发行91天期债券，规模400亿元，发行利率1.1222%，边际利率1.1746%，预期1.2300%，投标倍数3.69倍，边际倍数3.42倍； 中国财政部发行182天期债券，规模450亿元，发行利率1.1801%，边际利率1.2207%，预期1.2800%，投标倍数3.63倍。",
+          "url": "https://wallstreetcn.com/livenews/3063273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "欧洲央行管委卡扎克斯：就我所见，当前利率处于合适水平。",
+          "url": "https://flash.jin10.com/detail/20260304003212745800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "随着中东冲突加剧经济风险，印度卢比兑美元汇率跌破92。",
+          "url": "https://flash.jin10.com/detail/20260304113546124800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "日本央行行长植田和男：与过去相比，企业正更积极地转嫁受汇率变动影响的成本，我们在制定政策时对此保持高度警惕。",
+          "url": "https://flash.jin10.com/detail/20260304131034384800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "日本央行行长植田和男：密切关注汇率对价格的影响。 目前汇率更有可能影响企业行为。 政府维持财政状况健康的信任至关重要。",
+          "url": "https://wallstreetcn.com/livenews/3063341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "日本央行行长植田和男：不评论汇率水平。",
+          "url": "https://flash.jin10.com/detail/20260304130907004800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：汇率是由多种因素决定的。 以极高紧迫感关注市场趋势。",
+          "url": "https://wallstreetcn.com/livenews/3063337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为97.4%",
+          "url": "https://flash.jin10.com/detail/20260304060652798800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "韩国央行：将密切关注汇率和利率的过度波动。 外汇、利率和股票市场的波动可能还会持续。 韩国央行与政府将协同行动，必要时应对市场跟风行为。",
+          "url": "https://wallstreetcn.com/livenews/3063098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -339,100 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的12.03亿美元。",
-          "url": "https://flash.jin10.com/detail/20260304021655795800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "美国至3月3日6周国债竞拍-得标利率配置百分比 85.61%，前值74.93%。",
-          "url": "https://flash.jin10.com/detail/20260304003410648800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "美国至3月3日6周国债竞拍-得标利率 3.64%，前值3.64%。",
-          "url": "https://flash.jin10.com/detail/20260304003402232800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "中国财政部发行63天期债券，规模300亿元，发行利率1.0971%，边际利率1.1552%，预期1.2000%，投标倍数3.76倍，边际倍数8.51倍； 中国财政部发行91天期债券，规模400亿元，发行利率1.1222%，边际利率1.1746%，预期1.2300%，投标倍数3.69倍，边际倍数3.42倍； 中国财政部发行182天期债券，规模450亿元，发行利率1.1801%，边际利率1.2207%，预期1.2800%，投标倍数3.63倍。",
-          "url": "https://wallstreetcn.com/livenews/3063273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "欧洲央行管委卡扎克斯：就我所见，当前利率处于合适水平。",
-          "url": "https://flash.jin10.com/detail/20260304003212745800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "随着中东冲突加剧经济风险，印度卢比兑美元汇率跌破92。",
-          "url": "https://flash.jin10.com/detail/20260304113546124800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为97.4%",
-          "url": "https://flash.jin10.com/detail/20260304060652798800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "韩国央行：将密切关注汇率和利率的过度波动。 外汇、利率和股票市场的波动可能还会持续。 韩国央行与政府将协同行动，必要时应对市场跟风行为。",
-          "url": "https://wallstreetcn.com/livenews/3063098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         }
       ]
     },
