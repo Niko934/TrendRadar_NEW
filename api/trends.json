@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T21:58:19.932936+08:00",
-  "total_titles_processed": 1973,
+  "generated_at": "2026-03-05T22:44:14.308421+08:00",
+  "total_titles_processed": 2050,
   "failed_sources": [],
   "trends": [
     {
@@ -92,8 +92,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时35分 ~ 21时58分]"
+          "appearance_count": 25,
+          "time_info": "[00时35分 ~ 22时44分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -107,6 +107,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时35分 ~ 07时24分]"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时44分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时32分 ~ 22时44分]"
         },
         {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
@@ -133,19 +157,6 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 21时58分]"
-        },
-        {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
           "url": "https://wallstreetcn.com/livenews/3063902",
           "source": "华尔街见闻-快讯",
@@ -155,17 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时32分 ~ 21时58分]"
         },
         {
           "title": "代表：所有的工种都不会被AI取代",
@@ -381,7 +381,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -433,7 +433,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国至3月4日4个月国债竞拍-得标利率 3.59%，前值3.59%。",
@@ -445,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "交易员增加对欧洲央行的利率押注，预计今年将加息18个基点",
+          "url": "https://wallstreetcn.com/livenews/3064561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "欧洲央行会议纪要：欧洲央行官员称汇率未对通胀产生实质性影响。 欧洲央行官员称欧元在2025年出现显著升值。 欧洲央行官员认为全球经济将保持强劲增长。 欧元区尚未出现经济显著降温的情况。",
@@ -545,7 +556,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -644,7 +655,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -812,7 +823,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -867,7 +878,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         },
@@ -881,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
+          "url": "https://flash.jin10.com/detail/20260305222046201800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
@@ -899,11 +921,12 @@
             19,
             14,
             12,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时06分 ~ 21时58分]"
+          "appearance_count": 14,
+          "time_info": "[12时06分 ~ 22时44分]"
         },
         {
           "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
@@ -1027,7 +1050,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时58分"
         }
