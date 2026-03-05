@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T13:43:43.291593+08:00",
-  "total_titles_processed": 1141,
+  "generated_at": "2026-03-05T14:42:17.582486+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
@@ -70,11 +70,12 @@
             11,
             10,
             25,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 13时43分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 14时42分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -155,8 +156,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -181,6 +182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "一键进入AI幻想世界",
+          "url": "https://www.douyin.com/hot/2419330",
+          "source": "抖音",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
           "title": "百度AIGC舌尖遇顺德",
@@ -277,7 +290,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -291,17 +304,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
-        },
-        {
-          "title": "一键进入AI幻想世界",
-          "url": "https://www.douyin.com/hot/2419330",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         }
       ]
     },
@@ -328,8 +330,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "英伟达CEO黄仁勋：目前并不存在1000亿美元投资机会。 OpenAI（潜在的）IPO限制投资机会。 与OpenAI、Anthropic的协议可能是最后一轮。",
@@ -490,7 +492,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -501,7 +503,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -553,8 +555,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时42分]"
         },
         {
           "title": "如何评价 Apple 新发布的 Macbook Neo，4599 元起，有哪些亮点，值得入手吗？",
@@ -564,8 +566,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "iPhone17e上手体验",
@@ -573,11 +575,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "iPhone17e上手",
@@ -597,7 +600,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -698,18 +701,30 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "代表：房地产有望成为消费新动能",
           "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E6%B6%88%E8%B4%B9%E6%96%B0%E5%8A%A8%E8%83%BD",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时42分]"
+        },
+        {
+          "title": "政府工作报告用185字定调楼市",
+          "url": "https://www.toutiao.com/trending/7613402593448820777/",
+          "source": "今日头条",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "14时42分"
         }
       ]
     },
