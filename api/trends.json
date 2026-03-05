@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T15:38:43.858922+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-03-05T16:33:20.778531+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -71,11 +71,12 @@
             10,
             25,
             22,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时35分 ~ 14时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 16时33分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -102,6 +103,18 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时33分]"
+        },
+        {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
           "url": "https://wallstreetcn.com/livenews/3063902",
           "source": "华尔街见闻-快讯",
@@ -122,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时38分]"
         },
         {
           "title": "华为发布AI数据平台，加速企业AI落地应用",
@@ -158,6 +160,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时33分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -218,13 +232,24 @@
           "time_info": "12时07分"
         },
         {
+          "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
+          "url": "https://wallstreetcn.com/livenews/3064358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "因担心AI冲击就业和经济，英国央行拟开展情景评估并纳入银行压力测试",
           "url": "https://wallstreetcn.com/livenews/3064319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -238,17 +263,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        },
-        {
-          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
-          "url": "https://www.cls.cn/detail/2303258",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         },
         {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
@@ -306,6 +320,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "阿联酋工业和先进技术部长、阿布扎比国家石油公司集团CEO阿尔·贾比尔：Ruwais液化天然气项目建设进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/3064333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美军称AI工具在对伊行动中发挥关键作用",
           "url": "https://flash.jin10.com/detail/20260305124103778800",
           "source": "金十数据",
@@ -345,17 +370,6 @@
           "time_info": "00时36分"
         },
         {
-          "title": "国开行发行1年期债券，规模40亿元，发行利率1.4242%，预期1.4600%，投标倍数5.20倍，边际倍数4.20倍； 国开行发行3年期债券，规模30亿元，发行利率1.5211%，预期1.5500%，投标倍数4.42倍，边际倍数1.27倍； 国开行发行5年期债券，规模100亿元，发行利率1.6675%，预期1.6700%，投标倍数3.86倍，边际倍数10.42倍； 国开行发行10年期债券，规模180亿元，发行利率1.9200%，预期1.9300%，投标倍数3.81倍，边际倍数5.50倍。",
-          "url": "https://wallstreetcn.com/livenews/3064327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
-        },
-        {
           "title": "美国财政部拍卖四个月期国债，得标利率3.590%，投标倍数3.25。",
           "url": "https://wallstreetcn.com/livenews/3063779",
           "source": "华尔街见闻-快讯",
@@ -367,6 +381,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时36分 ~ 02时39分]"
+        },
+        {
+          "title": "国开行发行1年期债券，规模40亿元，发行利率1.4242%，预期1.4600%，投标倍数5.20倍，边际倍数4.20倍； 国开行发行3年期债券，规模30亿元，发行利率1.5211%，预期1.5500%，投标倍数4.42倍，边际倍数1.27倍； 国开行发行5年期债券，规模100亿元，发行利率1.6675%，预期1.6700%，投标倍数3.86倍，边际倍数10.42倍； 国开行发行10年期债券，规模180亿元，发行利率1.9200%，预期1.9300%，投标倍数3.81倍，边际倍数5.50倍。",
+          "url": "https://wallstreetcn.com/livenews/3064327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时33分]"
         },
         {
           "title": "美联储3月维持利率不变的概率为97.3%",
@@ -420,7 +446,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -442,7 +468,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -609,8 +635,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时33分]"
         },
         {
           "title": "iPhone17e上手体验",
@@ -623,8 +649,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 16时33分]"
         },
         {
           "title": "iPhone 17e上手体验",
@@ -632,11 +658,12 @@
           "source": "抖音",
           "ranks": [
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 16时33分]"
         },
         {
           "title": "不到4600元！苹果推出最平价笔记本MacBook Neo，首次以iPhone芯片杀入低端PC市场",
@@ -645,7 +672,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -719,7 +746,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
         },
@@ -733,6 +760,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "代表：房地产有望成为消费新动能",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E6%B6%88%E8%B4%B9%E6%96%B0%E5%8A%A8%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时33分]"
+        },
+        {
+          "title": "政府工作报告用185字定调楼市",
+          "url": "https://www.toutiao.com/trending/7613402593448820777/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 16时33分]"
+        },
+        {
+          "title": "政府工作报告部署2026房地产政策方向: 控增量、去库存、优供给 |两会财经眼",
+          "url": "https://www.cls.cn/detail/2303744",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 16时33分]"
+        },
+        {
+          "title": "政府工作报告：持续用力稳楼市",
+          "url": "https://www.douyin.com/hot/2419495",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     },
@@ -774,46 +854,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "代表：房地产有望成为消费新动能",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E6%B6%88%E8%B4%B9%E6%96%B0%E5%8A%A8%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时38分]"
-        },
-        {
-          "title": "政府工作报告用185字定调楼市",
-          "url": "https://www.toutiao.com/trending/7613402593448820777/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时38分]"
-        },
-        {
-          "title": "政府工作报告部署2026房地产政策方向: 控增量、去库存、优供给 |两会财经眼",
-          "url": "https://www.cls.cn/detail/2303744",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时38分"
         }
       ]
     },
