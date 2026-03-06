@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T05:24:16.111420+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-03-07T06:21:45.327769+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "“龙虾” 炸翻AI圈！雷军下场 鹅厂排长队",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000",
@@ -51,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "TES上报Naiyou不当行为",
@@ -65,8 +65,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "他把AI模型卖给美军，如今却害怕成为“末日博士”",
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "TES 发布公告「打野选手 Naiyou 存在违反赛事公平性行为」，对此你有什么想说的？",
@@ -96,11 +96,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "AI短剧霍去病持续刷屏",
@@ -209,7 +210,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
         }
@@ -230,8 +231,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时30分 ~ 05时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时30分 ~ 06时21分]"
         },
         {
           "title": "美联储哈马克：利率政策很可能在相当长一段时间内按兵不动",
@@ -317,11 +318,12 @@
           "url": "https://www.zhihu.com/question/2013221026566202540",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 05时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 06时21分]"
         },
         {
           "title": "在研究编程 Agent，Agent 核心就几十行代码，那剩下的几万行到底在解决什么问题？",
