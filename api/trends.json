@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T14:31:41.172805+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-03-07T15:24:26.720367+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "逐帧分析TES赛场Naiyou操作",
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 14时31分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时24分]"
         },
         {
           "title": "真实锐评TES打野Naiyou被调查",
@@ -137,8 +138,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时24分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -147,11 +148,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 14时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 15时24分]"
         },
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -162,8 +164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 14时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 15时24分]"
         },
         {
           "title": "AI眼镜助失明姑娘独立出行",
@@ -257,6 +259,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "AI时代人的创作还有意义吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%88%9B%E4%BD%9C%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
+          "title": "委员谈OpenClaw“养龙虾”火出AI圈",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%91%98%E8%B0%88OpenClaw%E2%80%9C%E5%85%BB%E9%BE%99%E8%99%BE%E2%80%9D%E7%81%AB%E5%87%BAAI%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
