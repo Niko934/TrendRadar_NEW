@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T16:23:47.181236+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-03-08T17:23:19.216834+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
@@ -79,6 +79,21 @@
           "time_info": "[00时20分 ~ 07时17分]"
         },
         {
+          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 17时23分]"
+        },
+        {
           "title": "假如AI取代了UP主",
           "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E5%8F%96%E4%BB%A3%E4%BA%86UP%E4%B8%BB",
           "source": "bilibili 热搜",
@@ -100,20 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时05分 ~ 16时23分]"
-        },
-        {
-          "title": "会见企业家｜何小鹏：AI将改变物理世界，也是未来增长的支点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32715203",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时24分 ~ 16时23分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -199,11 +200,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时23分]"
+        },
+        {
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时23分]"
+          "time_info": "[16时23分 ~ 17时23分]"
         },
         {
           "title": "AI龙虾爆火有人几天赚了26万",
@@ -216,6 +230,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 13时39分]"
+        },
+        {
+          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
+          "url": "https://www.zhihu.com/question/2013564166326215304",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 17时23分]"
         },
         {
           "title": "院士：不要天天想AI替代谁",
@@ -266,16 +293,17 @@
           "time_info": "[00时20分 ~ 03时17分]"
         },
         {
-          "title": "人社部表示正研究措施，发挥人工智能创造新岗位作用，会带来哪些影响？未来可能会出现哪些 AI 新职业？",
-          "url": "https://www.zhihu.com/question/2013564166326215304",
-          "source": "知乎",
+          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
+          "url": "https://wallstreetcn.com/livenews/3065837",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            8
+            6,
+            10,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时24分 ~ 12时05分]"
+          "time_info": "[15时27分 ~ 17时23分]"
         },
         {
           "title": "AI龙虾到底能干什么",
@@ -314,18 +342,6 @@
           "time_info": "[12时05分 ~ 14时35分]"
         },
         {
-          "title": "千问AI眼镜G1现货开售，3小时全平台登顶第一",
-          "url": "https://wallstreetcn.com/livenews/3065837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 16时23分]"
-        },
-        {
           "title": "院士说不要天天想AI替代谁",
           "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E8%AF%B4%E4%B8%8D%E8%A6%81%E5%A4%A9%E5%A4%A9%E6%83%B3AI%E6%9B%BF%E4%BB%A3%E8%B0%81%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -346,17 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时34分 ~ 14时35分]"
-        },
-        {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
         },
         {
           "title": "年轻人为何排队疯抢AI龙虾",
