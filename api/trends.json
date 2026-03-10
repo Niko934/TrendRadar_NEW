@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:28:22.810753+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-03-10T20:43:25.627599+08:00",
+  "total_titles_processed": 1882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
@@ -20,20 +20,6 @@
           "time_info": "[00时51分 ~ 07时25分]"
         },
         {
-          "title": "工信部提醒AI养虾安全风险",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 19时28分]"
-        },
-        {
           "title": "AI“养龙虾”爆火！OpenClaw概念走强 多家上市公司回应相关业务最新进展|聚焦",
           "url": "https://www.cls.cn/detail/2307537",
           "source": "财联社热门",
@@ -45,6 +31,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 09时19分]"
+        },
+        {
+          "title": "工信部提醒AI养虾安全风险",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BF%A1%E9%83%A8%E6%8F%90%E9%86%92AI%E5%85%BB%E8%99%BE%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 20时43分]"
         },
         {
           "title": "中国传媒大学砍掉翻译、摄影等 16 个本科专业，怎样看待这一变化？这些专业真的能被 AI 替代吗？",
@@ -128,6 +129,17 @@
           "time_info": "[09时18分 ~ 09时19分]"
         },
         {
+          "title": "央视网评AI养“龙虾”狂欢：我们怕的不是风险，是掉队",
+          "url": "https://wallstreetcn.com/livenews/3067302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "AI龙虾为何那么“生猛”",
           "url": "https://www.douyin.com/hot/2425335",
           "source": "抖音",
@@ -173,8 +185,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时28分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 20时43分]"
         },
         {
           "title": "小红书：将封禁主页所有公开笔记均为AI托管代发的账号",
@@ -224,6 +236,17 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
+          "url": "https://wallstreetcn.com/articles/3767089",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "恒生指数收盘涨2.17%，AIGC概念领涨，腾讯控股涨超7%",
           "url": "https://wallstreetcn.com/livenews/3067156",
           "source": "华尔街见闻-快讯",
@@ -241,9 +264,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "阿联酋最大的炼油厂Ruwais炼油厂在无人机袭击后出于安全考虑暂停运营。",
+          "url": "https://wallstreetcn.com/livenews/3067294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "AI背锅,内存降价遥遥无期",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351653&amp;topic_name=AI%E8%83%8C%E9%94%85%2C%E5%86%85%E5%AD%98%E9%99%8D%E4%BB%B7%E9%81%A5%E9%81%A5%E6%97%A0%E6%9C%9F",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "腾讯股价涨超6%，领涨恒生科技指数成分股，此前腾讯正式推出AI智能助手WorkBuddy，花旗将腾讯此举视为其AI发展的里程碑。",
@@ -263,9 +308,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
+        },
+        {
+          "title": "应用材料与美光科技合作开发AI存储解决方案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3067287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "亚马逊在发生AI相关停机事故后召开工程会议。（英国金融时报）",
@@ -299,6 +355,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "亚马逊发行最长50年期债券 筹资发展AI",
+          "url": "https://flash.jin10.com/detail/20260310201132402800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "市场消息：阿联酋Ruwais炼油厂在无人机袭击后预防性停产。",
+          "url": "https://flash.jin10.com/detail/20260310200902980800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
@@ -359,7 +437,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -403,7 +481,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时28分"
         },
@@ -527,6 +605,34 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "部分市县交易升温！海南楼市呈现结构性回暖",
+          "url": "https://wallstreetcn.com/livenews/3067099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "上海新一年度个人住房房产税应税房价分界线公布",
+          "url": "https://wallstreetcn.com/livenews/3067283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -541,23 +647,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "部分市县交易升温！海南楼市呈现结构性回暖",
-          "url": "https://wallstreetcn.com/livenews/3067099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
         }
       ]
     },
