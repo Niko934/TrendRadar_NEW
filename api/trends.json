@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T14:43:19.955708+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-03-11T15:40:13.436684+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 14时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 15时40分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -50,11 +51,12 @@
           "ranks": [
             11,
             12,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 14时43分]"
+          "appearance_count": 13,
+          "time_info": "[01时23分 ~ 15时40分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -91,7 +93,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -127,6 +129,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时04分 ~ 15时40分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -166,6 +181,31 @@
           "time_info": "[12时04分 ~ 13时44分]"
         },
         {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 15时40分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 15时40分]"
+        },
+        {
           "title": "豆包限制AI成毅",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E9%99%90%E5%88%B6AI%E6%88%90%E6%AF%85%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -177,18 +217,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时21分 ~ 09时19分]"
-        },
-        {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时43分]"
         },
         {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
@@ -203,16 +231,15 @@
           "time_info": "[06时21分 ~ 07时22分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时43分]"
+          "time_info": "[15时39分 ~ 15时40分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -260,24 +287,13 @@
           "time_info": "[04时27分 ~ 05时25分]"
         },
         {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
           "url": "https://wallstreetcn.com/livenews/3067827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -288,7 +304,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -299,7 +315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -340,7 +356,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "欧洲央行管委内格尔：支持目前对利率采取观望态度。",
@@ -349,7 +365,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -448,6 +464,17 @@
           "time_info": "[01时23分 ~ 01时41分]"
         },
         {
+          "title": "欧洲央行管委Kazimir：受伊朗局势影响，加息可能比此前预期更近。 如果冲突推高通胀预期，欧洲央行或采取行动。 欧洲央行的利率仍处于适宜水平。 欧洲央行目前仍处于“良好状态”。 如果有必要，欧洲央行将做好采取行动的准备。 通胀上行风险显然占据主导地位。 对滞胀并不太担心，对经济增长持乐观态度。 若无新预测，我对加息无保留意见。",
+          "url": "https://wallstreetcn.com/livenews/3067880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "中信证券：短期内存单利率进一步下行的空间或有限",
           "url": "https://flash.jin10.com/detail/20260311083601002800",
           "source": "金十数据",
@@ -470,11 +497,96 @@
           "time_info": "05时25分"
         },
         {
+          "title": "农发行发行1年期债券，规模40亿元，发行利率1.4000%，预期1.4200%，投标倍数6.56倍，边际倍数5.87倍。",
+          "url": "https://wallstreetcn.com/livenews/3067866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "农发行发行3年期债券，规模60亿元，发行利率1.5733%，预期1.5900%，投标倍数4.55倍，边际倍数1.82倍； 农发行发行10年期债券，规模70亿元，发行利率1.9400%，预期1.9500%，投标倍数7.11倍，边际倍数523.75倍。",
+          "url": "https://wallstreetcn.com/livenews/3067864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
           "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
           "url": "https://flash.jin10.com/detail/20260311120547264800",
           "source": "金十数据",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
+          "url": "https://wallstreetcn.com/livenews/3067532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时34分 ~ 05时25分]"
+        },
+        {
+          "title": "马斯克批评“养虾热潮”",
+          "url": "https://www.toutiao.com/trending/7615377810491998214/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 14时43分]"
+        },
+        {
+          "title": "马斯克：X数字支付系统下月开启早期测试",
+          "url": "https://flash.jin10.com/detail/20260311084826309800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://wallstreetcn.com/livenews/3067779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -534,58 +646,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
-          "url": "https://wallstreetcn.com/livenews/3067532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 05时25分]"
-        },
-        {
-          "title": "马斯克批评“养虾热潮”",
-          "url": "https://www.toutiao.com/trending/7615377810491998214/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 14时43分]"
-        },
-        {
-          "title": "马斯克：X数字支付系统下月开启早期测试",
-          "url": "https://flash.jin10.com/detail/20260311084826309800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://wallstreetcn.com/livenews/3067779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -624,9 +684,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为推出“鸿蒙版龙虾”小艺Claw 知情人士：将Agent竞争拉回“系统与安全”",
+          "url": "https://wallstreetcn.com/livenews/3067852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18Pro或无屏下FaceID",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%88%96%E6%97%A0%E5%B1%8F%E4%B8%8BFaceID%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
         }
       ]
     }
