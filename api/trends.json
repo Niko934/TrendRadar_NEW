@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T15:40:13.436684+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-11T16:33:14.315536+08:00",
+  "total_titles_processed": 1393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "高校出手,AI龙虾被禁",
@@ -15,11 +15,12 @@
             4,
             12,
             13,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 15时40分]"
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 16时33分]"
         },
         {
           "title": "英伟达下场！将推“类OpenClaw式”AI智能体开源平台",
@@ -52,11 +53,12 @@
             11,
             12,
             20,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 15时40分]"
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 16时33分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -85,6 +87,34 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时23分 ~ 06时21分]"
+        },
+        {
+          "title": "建议AI应用设计多考虑残疾人",
+          "url": "https://www.douyin.com/hot/2426364",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时04分 ~ 16时33分]"
+        },
+        {
+          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
+          "url": "https://www.cls.cn/detail/2309250",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时44分 ~ 16时33分]"
         },
         {
           "title": "韩国总统府AI首席秘书官：鉴于阿联酋加强国防能力的需要，预计冲突结束后，韩国与阿联酋的人工智能合作有望加速推进。",
@@ -131,17 +161,16 @@
           "time_info": "07时22分"
         },
         {
-          "title": "建议AI应用设计多考虑残疾人",
-          "url": "https://www.douyin.com/hot/2426364",
-          "source": "抖音",
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
           "ranks": [
-            14,
-            13,
-            10
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时04分 ~ 15时40分]"
+          "time_info": "[14时43分 ~ 16时33分]"
         },
         {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
@@ -181,29 +210,15 @@
           "time_info": "[12时04分 ~ 13时44分]"
         },
         {
-          "title": "黄仁勋亲写博文：AI是“五层蛋糕”基础设施，还需数万亿美元建设！",
-          "url": "https://www.cls.cn/detail/2309250",
-          "source": "财联社热门",
+          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
+          "url": "https://wallstreetcn.com/articles/3767169",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            9,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时44分 ~ 15时40分]"
-        },
-        {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时40分]"
+          "time_info": "[15时39分 ~ 16时33分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -231,15 +246,15 @@
           "time_info": "[06时21分 ~ 07时22分]"
         },
         {
-          "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
-          "url": "https://wallstreetcn.com/articles/3767169",
-          "source": "华尔街见闻",
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -285,6 +300,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时25分]"
+        },
+        {
+          "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
+          "url": "https://www.toutiao.com/trending/7615866634636365339/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
         },
         {
           "title": "集邦咨询：预估CPO在AI数据中心光通信模块的渗透率将逐年成长，有机会于2030年达35%",
@@ -356,7 +382,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "欧洲央行管委内格尔：支持目前对利率采取观望态度。",
@@ -470,9 +496,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
+        },
+        {
+          "title": "机构：日本央行3月料将维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260311160238460800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "中信证券：短期内存单利率进一步下行的空间或有限",
@@ -503,7 +540,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -514,7 +551,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         },
@@ -549,6 +586,17 @@
           "time_info": "[03时34分 ~ 05时25分]"
         },
         {
+          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 16时33分]"
+        },
+        {
           "title": "马斯克批评“养虾热潮”",
           "url": "https://www.toutiao.com/trending/7615377810491998214/",
           "source": "今日头条",
@@ -569,17 +617,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32746579",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
         },
         {
           "title": "福布斯年度富豪榜：马斯克8390亿美元蝉联全球首富，张一鸣中国首富",
@@ -701,7 +738,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
         }
