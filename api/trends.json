@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T20:42:13.847103+08:00",
-  "total_titles_processed": 1836,
+  "generated_at": "2026-03-12T21:59:46.509866+08:00",
+  "total_titles_processed": 1949,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时44分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 21时59分]"
         },
         {
           "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
@@ -55,11 +55,12 @@
             7,
             9,
             10,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时41分 ~ 20时42分]"
+          "appearance_count": 11,
+          "time_info": "[15时41分 ~ 21时59分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -92,8 +93,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时43分 ~ 20时42分]"
+          "appearance_count": 24,
+          "time_info": "[00时43分 ~ 21时59分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -181,6 +182,17 @@
           "time_info": "[17时36分 ~ 18时33分]"
         },
         {
+          "title": "“乐山大佛是大禹雕像”系AI生成",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 21时59分]"
+        },
+        {
           "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
           "url": "https://www.cls.cn/detail/2310349",
           "source": "财联社热门",
@@ -215,17 +227,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 09时19分]"
-        },
-        {
-          "title": "“乐山大佛是大禹雕像”系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%E2%80%9D%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 20时42分]"
         },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
@@ -356,7 +357,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -743,7 +744,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
