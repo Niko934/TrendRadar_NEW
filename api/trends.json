@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T16:35:02.504293+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-03-12T17:36:44.512701+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
@@ -18,6 +18,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 07时19分]"
+        },
+        {
+          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
+          "url": "https://www.cls.cn/detail/2310365",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时08分 ~ 17时36分]"
         },
         {
           "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
@@ -49,21 +63,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时35分]"
-        },
-        {
-          "title": "2026AWE探营：家电AI化，大模型“养龙虾”，机器人、智能眼镜齐亮相",
-          "url": "https://www.cls.cn/detail/2310365",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时08分 ~ 16时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时36分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -112,8 +113,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时44分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[14时44分 ~ 17时36分]"
+        },
+        {
+          "title": "德施曼推出全新AI智能锁产品矩阵",
+          "url": "https://wallstreetcn.com/livenews/3068797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "港口运营商APM Terminals Bahrain：将立即暂停哈利法·本·萨勒曼港的港口运营，包括泊位和闸口的作业。此次停业措施将于3月12日和13日继续生效。",
@@ -122,9 +134,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
+          "url": "https://www.zhihu.com/question/2015029846779065089",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 17时36分]"
         },
         {
           "title": "摩根士丹利：阿里巴巴取代腾讯为首选标的，完整AI技术栈构成结构性优势",
@@ -139,16 +164,16 @@
           "time_info": "[12时08分 ~ 13时45分]"
         },
         {
-          "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
-          "url": "https://www.zhihu.com/question/2015029846779065089",
-          "source": "知乎",
+          "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
+          "url": "https://www.cls.cn/detail/2310349",
+          "source": "财联社热门",
           "ranks": [
             7,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时36分]"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -163,6 +188,18 @@
           "time_info": "[00时43分 ~ 09时19分]"
         },
         {
+          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
+          "url": "https://www.zhihu.com/question/2015067278698312603",
+          "source": "知乎",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 17时36分]"
+        },
+        {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
           "source": "财联社热门",
@@ -172,17 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时44分]"
-        },
-        {
-          "title": "SkillHub上线 腾讯推出“中国专供”的AI Skills社区",
-          "url": "https://www.cls.cn/detail/2310349",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "Salesforce 250亿美元发债需求疲软，折射AI焦虑",
@@ -195,17 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时19分]"
-        },
-        {
-          "title": "亚马逊将禁止初级工程师直接提交 AI 代码，如何评价这一举措？AI 提效与工程质量如何平衡？",
-          "url": "https://www.zhihu.com/question/2015067278698312603",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
         },
         {
           "title": "德意志银行：出于对人工智能（AI）未来造成干扰的恐惧，投资者对美联储降息前景的定价可能超过了美国经济所能保证的程度。",
@@ -252,6 +267,28 @@
           "time_info": "14时45分"
         },
         {
+          "title": "老板电器发布全球首款AI烹饪眼镜",
+          "url": "https://wallstreetcn.com/livenews/3068770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "AI生产一台大屏电视只需20秒",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%94%9F%E4%BA%A7%E4%B8%80%E5%8F%B0%E5%A4%A7%E5%B1%8F%E7%94%B5%E8%A7%86%E5%8F%AA%E9%9C%8020%E7%A7%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "AI编程初创公司Cursor正与投资者就新一轮融资进行谈判。若交易达成，该公司的估值将达到约500亿美元，相较于去年秋季时几乎翻了一番。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3068424",
           "source": "华尔街见闻-快讯",
@@ -269,7 +306,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -288,7 +325,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国开行发行1年期债券，规模40亿元，发行利率1.4106%，预期1.4000%，投标倍数4.58倍，边际倍数2.86倍； 国开行发行3年期债券，规模30亿元，发行利率1.4984%，预期1.5500%，投标倍数3.68倍，边际倍数12.00倍； 国开行发行5年期债券，规模100亿元，发行利率1.6835%，预期1.6900%，投标倍数4.49倍，边际倍数1.60倍； 国开行发行10年期债券，规模180亿元，发行利率1.9329%，预期1.9400%，投标倍数3.44倍，边际倍数6.61倍。",
@@ -357,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "独家 | 超10万亿同业存款或将迎来利率下调潮 业内称自律管理措施升级版出台",
+          "url": "https://www.cls.cn/detail/2309747",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "天津发行5年期一般债地方债，规模18.5460亿元，发行利率1.6000%，边际倍数1.47倍，倍数预期1.63； 天津发行3年期普通专项地方债，规模1.5000亿元，发行利率1.4200%，边际倍数1.67倍，倍数预期1.45。",
@@ -431,7 +479,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -454,8 +502,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[07时19分 ~ 17时36分]"
         },
         {
           "title": "标普500指数初步收跌0.1%，日用消费品、房地产板块跌1.2%，金融板块跌0.8%，电信板块持平，科技板块涨0.3%，能源板块涨2.3%。 纳斯达克100指数初步大致收平，成分股中，核电股CEG跌5.2%，AppLovin跌3.3%，迈威尔科技跌3.3%，特斯拉涨2%，英特尔涨2.6%，Datadog涨3.6%，美光科技涨3.8%。 SHW跌2.3%，宝洁、Visa、波音至少跌1.7%，领跌道指成分股，英伟达涨0.6%，联合健康涨1.3%，雪佛龙涨2.8%。",
