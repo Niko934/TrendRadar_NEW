@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T17:34:14.524100+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2026-03-13T18:29:56.350172+08:00",
+  "total_titles_processed": 1625,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             15,
             18,
             16,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时23分 ~ 17时34分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 18时29分]"
         },
         {
           "title": "未来乡村会比AI生成的还漂亮",
@@ -73,6 +74,20 @@
           "time_info": "[00时54分 ~ 09时23分]"
         },
         {
+          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
+          "url": "https://www.zhihu.com/question/2012836051480178728",
+          "source": "知乎",
+          "ranks": [
+            20,
+            4,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时40分 ~ 18时29分]"
+        },
+        {
           "title": "理想汽车 2025 年净利润 11 亿元，连续三年盈利，AI 相关投入占比 50%，怎样看其业绩表现？",
           "url": "https://www.zhihu.com/question/2015481604898858354",
           "source": "知乎",
@@ -87,19 +102,6 @@
           "time_info": "[13时43分 ~ 16时32分]"
         },
         {
-          "title": "竖屏市场格局突变，真人短剧项目骤减，AI 漫剧迎爆发式增长规模突破 200 亿，怎样看待未来发展趋势？",
-          "url": "https://www.zhihu.com/question/2012836051480178728",
-          "source": "知乎",
-          "ranks": [
-            20,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时40分 ~ 17时34分]"
-        },
-        {
           "title": "揭秘龙虾AI智能体",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E9%BE%99%E8%99%BEAI%E6%99%BA%E8%83%BD%E4%BD%93",
           "source": "bilibili 热搜",
@@ -109,6 +111,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
+          "url": "https://www.zhihu.com/question/2002762540602581922",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时06分 ~ 18时29分]"
         },
         {
           "title": "贝莱德分析师：中东战火与AI浪潮助力“绿能”觉醒",
@@ -133,18 +147,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时54分 ~ 03时39分]"
-        },
-        {
-          "title": "为什么说「2026 年，AI 在疯狂寻找物理外壳」？你看到哪些好玩有趣的 AI 硬件产品？",
-          "url": "https://www.zhihu.com/question/2002762540602581922",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 17时34分]"
         },
         {
           "title": "Coherent增强面向AI网络的多轨传输平台",
@@ -326,7 +328,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时34分"
         }
