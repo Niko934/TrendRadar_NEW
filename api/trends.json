@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-14T20:35:02.969809+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-03-14T21:42:02.958965+08:00",
+  "total_titles_processed": 1538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时05分 ~ 20时35分]"
+          "appearance_count": 15,
+          "time_info": "[12时05分 ~ 21时42分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -35,8 +35,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时40分 ~ 20时35分]"
+          "appearance_count": 14,
+          "time_info": "[13时40分 ~ 21时42分]"
         },
         {
           "title": "AI带路寻美食,吧友吃到自闭",
@@ -50,11 +50,12 @@
             17,
             18,
             20,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 20时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 21时42分]"
         },
         {
           "title": "naiyou单曲无关风月",
@@ -69,11 +70,12 @@
             25,
             17,
             30,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 19时19分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 21时42分]"
         },
         {
           "title": "鹅厂抄袭AI龙虾,创始人开喷",
@@ -151,6 +153,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时27分 ~ 18时21分]"
+        },
+        {
+          "title": "Meta据称拟裁员20%，扎克伯格曾谈AI效率：一个人顶一个团队！",
+          "url": "https://wallstreetcn.com/articles/3767512",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 21时42分]"
         },
         {
           "title": "亚马逊计划利用Cerebras Systems Inc.的芯片搭配自家Trainium处理器来改善人工智能（AI）软件/模型的运行效果。",
