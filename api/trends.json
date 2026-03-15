@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T16:29:26.653498+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2026-03-15T17:28:32.416485+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 16时29分]"
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 17时28分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -59,8 +59,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 16时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 17时28分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -137,8 +137,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 17时28分]"
+        },
+        {
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 17时28分]"
         },
         {
           "title": "马斯克xAI联创团队几乎全跑了",
@@ -152,18 +165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时29分]"
-        },
-        {
-          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
-          "url": "https://www.cls.cn/detail/2313116",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时29分]"
         },
         {
           "title": "xAI核心团队跑光 马斯克致歉",
@@ -183,7 +184,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -230,8 +231,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 16时29分]"
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 17时28分]"
         }
       ]
     }
