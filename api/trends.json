@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T14:02:45.045959+08:00",
-  "total_titles_processed": 777,
+  "generated_at": "2026-03-15T15:40:43.900736+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 14时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 15时40分]"
         },
         {
           "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
@@ -54,11 +54,12 @@
           "ranks": [
             12,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 14时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 15时40分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -98,6 +99,17 @@
           "time_info": "[12时27分 ~ 12时28分]"
         },
         {
+          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
+          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时40分]"
+        },
+        {
           "title": "xAI核心团队基本跑光",
           "url": "https://www.toutiao.com/trending/7617270651551747634/",
           "source": "今日头条",
@@ -107,23 +119,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "84岁奶奶给AI霸总写情书，消费近万元还要嫁给他",
-          "url": "https://news.ifeng.com/c/8rVgjRH0pNM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Space X IPO，马斯克要学“马老师”",
@@ -131,11 +132,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时40分]"
+        },
+        {
+          "title": "马斯克xAI联创团队几乎全跑了",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时02分 ~ 15时40分]"
         },
         {
           "title": "xAI核心团队跑光 马斯克致歉",
@@ -144,20 +158,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
         {
-          "title": "马斯克xAI联创团队几乎全跑了",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E8%81%94%E5%88%9B%E5%9B%A2%E9%98%9F%E5%87%A0%E4%B9%8E%E5%85%A8%E8%B7%91%E4%BA%86",
-          "source": "百度热搜",
+          "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
+          "url": "https://www.cls.cn/detail/2313116",
+          "source": "财联社热门",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时02分"
+          "time_info": "15时40分"
         }
       ]
     },
@@ -202,8 +216,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时40分]"
         }
       ]
     }
