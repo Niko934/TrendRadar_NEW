@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-03-15T09:46:38.325467+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-03-15T12:28:11.778561+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时46分]"
-        },
         {
           "title": "“算电协同”含金量还在提升！AI的HALO时刻来了？",
           "url": "https://www.cls.cn/detail/2312637",
           "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时28分]"
+        },
+        {
+          "title": "AI语料“投毒”产业链揭秘①只花100元，虚构的保健品就被大模型“推荐”了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32760391",
+          "source": "澎湃新闻",
           "ranks": [
             2,
             3,
@@ -51,11 +52,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351797&amp;topic_name=AI%E5%B8%A6%E8%B7%AF%E5%AF%BB%E7%BE%8E%E9%A3%9F%2C%E5%90%A7%E5%8F%8B%E5%90%83%E5%88%B0%E8%87%AA%E9%97%AD",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 12时28分]"
         },
         {
           "title": "据The Information：因与好莱坞存在版权纠纷，字节跳动暂停推出视频AI模型。",
@@ -82,23 +84,91 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时46分]"
+        },
+        {
+          "title": "AI时代家长如何教育孩子",
+          "url": "https://www.toutiao.com/trending/7616957895850246154/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        },
+        {
+          "title": "xAI核心团队基本跑光",
+          "url": "https://www.toutiao.com/trending/7617270651551747634/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高盛：由于全球避险情绪升温以及能源价格急剧上涨，乌克兰央行或优先考虑谨慎行事，预计乌克兰央行下周将按兵不动，利率维持在15.00%不变，与市场预期一致。",
           "url": "https://flash.jin10.com/detail/20260315091427326800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时28分]"
+        },
+        {
+          "title": "高盛：俄罗斯2月份环比通胀率回落、更接近4%目标，预计俄罗斯央行下周五将把政策利率下调50个基点至15.00%（市场共识：15.00%），延续其降息周期。",
+          "url": "https://flash.jin10.com/detail/20260315094621291800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时46分"
+          "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
+          "url": "https://wallstreetcn.com/articles/3767525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Space X IPO，马斯克要学“马老师”",
+          "url": "https://wallstreetcn.com/articles/3767527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时28分]"
         }
       ]
     }
