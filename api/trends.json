@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T10:54:22.035688+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-07-03T14:25:40.193483+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 42,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -19,6 +19,20 @@
           "time_info": "[01时32分 ~ 10时54分]"
         },
         {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时32分 ~ 14时25分]"
+        },
+        {
           "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
           "url": "https://wallstreetcn.com/articles/3776029",
           "source": "华尔街见闻",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时32分 ~ 07时58分]"
-        },
-        {
-          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2415745",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时32分 ~ 10时54分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -69,6 +70,18 @@
           "time_info": "[01时32分 ~ 07时58分]"
         },
         {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时25分]"
+        },
+        {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
           "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
@@ -78,6 +91,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时32分 ~ 04时58分]"
+        },
+        {
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时25分]"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -118,28 +143,6 @@
           "time_info": "[01时32分 ~ 07时58分]"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "AI软件开发公司ElevenLabs与投资者洽谈按大约220亿美元估值进行二次（股票）发行。",
           "url": "https://wallstreetcn.com/livenews/3128187",
           "source": "华尔街见闻-快讯",
@@ -150,6 +153,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时14分 ~ 04时58分]"
+        },
+        {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时04分 ~ 14时25分]"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -163,16 +178,15 @@
           "time_info": "[01时32分 ~ 03时14分]"
         },
         {
-          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
-          "url": "https://www.cls.cn/detail/2415788",
-          "source": "财联社热门",
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时04分 ~ 10时54分]"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时25分]"
         },
         {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
@@ -185,6 +199,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时58分]"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时25分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 14时25分]"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -210,6 +247,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "美国总统特朗普：无论好坏，我们都有AI。",
           "url": "https://wallstreetcn.com/livenews/3128236",
           "source": "华尔街见闻-快讯",
@@ -221,26 +269,26 @@
           "time_info": "06时04分"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
           "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时54分"
+          "time_info": "14时25分"
+        },
+        {
+          "title": "全球AI疯狂重创千元机市场",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -265,17 +313,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时54分"
-        },
-        {
           "title": "Meta回应鼠标追踪软件审查结果：员工数据未被用于AI训练",
           "url": "https://flash.jin10.com/detail/20260703051247176800",
           "source": "金十数据",
@@ -285,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "据韩媒ChosunBiz：韩国政府正在研究开发自主AI基础模型，并计划扩大AI数据中心建设，预计到2029年建成8.4吉瓦的数据中心容量，到2035年再新增10吉瓦的数据中心容量。",
+          "url": "https://flash.jin10.com/detail/20260703134056042800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -342,6 +390,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
+          "url": "https://wallstreetcn.com/livenews/3128427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "传特斯拉控AI成本 员工每周不得超过200美元",
           "url": "https://flash.jin10.com/detail/20260703032727582800",
           "source": "金十数据",
@@ -353,6 +412,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "KB证券：SK海力士下半年料将受益于AI投资加速",
+          "url": "https://flash.jin10.com/detail/20260703133535476800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "扎克伯格：过去四个月里，AI智能体开发并未“如我们预期的那样加速”",
           "url": "https://wallstreetcn.com/livenews/3128190",
           "source": "华尔街见闻-快讯",
@@ -362,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "AI泡沫破裂会有什么后果",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%B3%A1%E6%B2%AB%E7%A0%B4%E8%A3%82%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8E%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "据The Information：特斯拉(TSLA.O)将员工AI支出上限设定为每周200美元。",
@@ -381,7 +462,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -464,7 +545,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -522,7 +603,7 @@
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "报道：美国政府和Anthropic并未讨论政府参股事宜",
@@ -535,6 +616,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 03时14分]"
+        },
+        {
+          "title": "我决定卸载Claude Code",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%86%B3%E5%AE%9A%E5%8D%B8%E8%BD%BDClaude%20Code",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "黑石面向富裕人士的基金5月创下最强单月表现，得益于投资Anthropic",
