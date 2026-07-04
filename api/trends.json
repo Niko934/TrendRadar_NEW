@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T10:09:52.008981+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-07-04T14:13:32.634333+08:00",
+  "total_titles_processed": 854,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             12,
             14,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 10时09分]"
+          "appearance_count": 11,
+          "time_info": "[01时16分 ~ 14时13分]"
         },
         {
           "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
@@ -95,20 +96,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
-          "url": "https://flash.jin10.com/detail/20260704095032353800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 14时13分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -175,6 +165,18 @@
           "time_info": "[04时56分 ~ 07时09分]"
         },
         {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 14时13分]"
+        },
+        {
           "title": "Meta股价因AI进展不及预期下跌",
           "url": "https://www.douyin.com/hot/2556589",
           "source": "抖音",
@@ -216,11 +218,12 @@
           "url": "https://wallstreetcn.com/articles/3776134",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 14时13分]"
         },
         {
           "title": "韩国政府趁热打铁：斥资312万亿韩元在东南地区打造物理AI中心",
@@ -229,7 +232,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         },
@@ -240,7 +243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
         }
@@ -312,9 +315,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宇树高管谈具身智能ChatGPT时刻",
+          "url": "https://flash.jin10.com/detail/20260704110855518800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     }
