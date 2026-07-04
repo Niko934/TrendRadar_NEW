@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T01:59:11.188375+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-07-05T03:11:06.239102+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
-        },
-        {
-          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
-          "url": "https://wallstreetcn.com/livenews/3128944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时11分]"
         },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -39,8 +28,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时11分]"
+        },
+        {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "time_info": "[00时06分 ~ 03时11分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -64,11 +64,12 @@
           "url": "https://www.douyin.com/hot/2557979",
           "source": "抖音",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时11分]"
         }
       ]
     }
