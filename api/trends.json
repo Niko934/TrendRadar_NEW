@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T10:25:16.906367+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-07-05T14:34:12.702611+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -27,11 +27,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时06分 ~ 10时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时06分 ~ 14时34分]"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 10时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 14时34分]"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -52,9 +54,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
+          "url": "https://wallstreetcn.com/articles/3776203",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时34分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -69,27 +83,26 @@
           "time_info": "[04时47分 ~ 05时52分]"
         },
         {
-          "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
-          "url": "https://wallstreetcn.com/articles/3776203",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时25分]"
-        },
-        {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
           "url": "https://flash.jin10.com/detail/20260705082204108800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
+          "url": "https://flash.jin10.com/detail/20260705113833548800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
@@ -101,12 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "“AI+”OPC供需生态对接会在珠海举行",
+          "url": "https://flash.jin10.com/detail/20260705103842899800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "印度正调查泄密iPhone事件",
@@ -119,6 +143,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时06分 ~ 06时52分]"
+        },
+        {
+          "title": "iPhone17销量冲击4000万台大关",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E9%94%80%E9%87%8F%E5%86%B2%E5%87%BB4000%E4%B8%87%E5%8F%B0%E5%A4%A7%E5%85%B3%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "iPhone18Pro配苹果史上最大电池",
