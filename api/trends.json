@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T21:15:35.938784+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2026-07-05T23:09:02.401400+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -50,6 +50,18 @@
           "time_info": "[00时06分 ~ 17时37分]"
         },
         {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 23时09分]"
+        },
+        {
           "title": "苹果AI功能未能引爆换机潮，瑞银调查显示用户升级意愿持续下滑",
           "url": "https://wallstreetcn.com/articles/3776203",
           "source": "华尔街见闻",
@@ -62,38 +74,28 @@
           "time_info": "[07时56分 ~ 19时25分]"
         },
         {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时15分]"
-        },
-        {
-          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
-          "url": "https://wallstreetcn.com/livenews/3129011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
           "title": "智能体下线,AI女友凉了？",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 21时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 23时09分]"
+        },
+        {
+          "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
+          "url": "https://flash.jin10.com/detail/20260705225805600800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "AI投资进入落地阶段 半导体价格开始显著上涨",
@@ -105,6 +107,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
+          "url": "https://wallstreetcn.com/livenews/3129011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 23时09分]"
         },
         {
           "title": "美蓓亚三美将提高用于AI数据中心的轴承产量",
@@ -124,11 +138,23 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 23时09分]"
+        },
+        {
+          "title": "短视频最火声音被AI偷走了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E8%A7%86%E9%A2%91%E6%9C%80%E7%81%AB%E5%A3%B0%E9%9F%B3%E8%A2%ABAI%E5%81%B7%E8%B5%B0%E4%BA%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时15分]"
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
@@ -140,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "SK海力士寻求通过在美上市吸引更多AI投资者",
+          "url": "https://flash.jin10.com/detail/20260705221127542800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "野村证券：当前全球存储行业仍严重供应短缺 AI驱动的结构性需求增长尚未见顶",
@@ -189,7 +226,7 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度正调查泄密iPhone事件",
@@ -213,6 +250,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "印度工厂泄露 iPhone18Pro 机密，这如何影响苹果在印度的布局？",
+          "url": "https://www.zhihu.com/question/2056716909140354522",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         },
         {
           "title": "iPhone17销量冲击4000万台大关",
@@ -248,11 +296,29 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 21时15分]"
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 23时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国内的房地产开发商为什么都不看重隔音？",
+          "url": "https://www.zhihu.com/question/2656149571",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时08分 ~ 23时09分]"
         }
       ]
     },
