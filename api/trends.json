@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:56:08.859502+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-07-06T08:01:54.745472+08:00",
+  "total_titles_processed": 564,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时01分]"
         },
         {
           "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
@@ -26,11 +27,12 @@
           "ranks": [
             13,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时01分]"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -38,11 +40,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 08时01分]"
         },
         {
           "title": "智能体下线,AI女友凉了？",
@@ -50,11 +53,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 06时56分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 08时01分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -75,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            15
+            15,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时55分 ~ 06时56分]"
+          "appearance_count": 3,
+          "time_info": "[05时55分 ~ 08时01分]"
         },
         {
           "title": "谁在提前退出AI盛宴",
@@ -107,8 +112,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时01分]"
         }
       ]
     },
@@ -126,8 +131,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时01分]"
         }
       ]
     },
@@ -143,11 +148,12 @@
             7,
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时00分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[01时00分 ~ 08时01分]"
         }
       ]
     }
