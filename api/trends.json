@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:58:26.239433+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-07-12T05:46:15.538154+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,20 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 05时46分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 05时46分]"
         },
         {
           "title": "重回AI一线？Meta单周大涨15%",
@@ -48,11 +48,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 05时46分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -62,19 +63,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 05时46分]"
         },
         {
           "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
           "url": "https://flash.jin10.com/detail/20260712032711538800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时46分]"
         }
       ]
     },
@@ -83,19 +85,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "GPT-5.6发布之际 马斯克与奥尔特曼隔空互怼",
-          "url": "https://flash.jin10.com/detail/20260712013158657800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时50分 ~ 04时58分]"
-        },
-        {
           "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
           "url": "https://www.cls.cn/detail/2423447",
           "source": "财联社热门",
@@ -103,8 +92,22 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 04时58分]"
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 05时46分]"
+        },
+        {
+          "title": "GPT-5.6发布之际 马斯克与奥尔特曼隔空互怼",
+          "url": "https://flash.jin10.com/detail/20260712013158657800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时50分 ~ 05时46分]"
         }
       ]
     },
@@ -117,11 +120,12 @@
           "url": "https://flash.jin10.com/detail/20260712043502920800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时58分 ~ 05时46分]"
         }
       ]
     },
