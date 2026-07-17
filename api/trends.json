@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T06:42:20.414196+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-07-18T07:45:46.014367+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "UP主手搓WAIC逛展小助手",
@@ -15,11 +15,12 @@
             2,
             3,
             6,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时45分]"
         },
         {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
@@ -30,8 +31,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时45分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时45分]"
         },
         {
           "title": "大瓦特·让每一度电都有AI",
@@ -54,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时45分]"
         },
         {
           "title": "一图世界｜外媒渲染“陷阱”，开源和闭源AI究竟有什么区别？",
@@ -66,8 +68,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 06时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 07时45分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -101,8 +103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时42分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时45分]"
         },
         {
           "title": "报道：美国考虑设立类似FINRA的监管机构，来审查顶尖AI模型",
@@ -110,11 +112,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时42分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时45分]"
         },
         {
           "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
@@ -122,11 +125,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时42分]"
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 07时45分]"
         },
         {
           "title": "今年的世界人工智能大会（WAIC）有哪些看点？",
@@ -195,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "经纬度：AI走向物理世界，经济新引擎的机遇与考验",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时45分"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850575&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/07/NxIIi4xiQ8YloH102nPfv.jpg/lite\" height=\"120\"/></a>",
