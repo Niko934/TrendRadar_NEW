@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T19:02:53.973858+08:00",
-  "total_titles_processed": 1363,
+  "generated_at": "2026-07-22T20:43:53.746235+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "英媒爆料：中美正计划9月举行AI会谈",
@@ -85,6 +85,28 @@
           "time_info": "[09时56分 ~ 16时12分]"
         },
         {
+          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
+          "url": "https://www.cls.cn/detail/2433795",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时43分]"
+        },
+        {
+          "title": "看见中国AI产业的“硬核家底”",
+          "url": "https://www.toutiao.com/trending/7664428554470113321/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时43分]"
+        },
+        {
           "title": "专访UCL教授：AI正抽走职业梯子的最底层，大学必须补上这一环",
           "url": "https://m.thepaper.cn/newsDetail_forward_33622414",
           "source": "澎湃新闻",
@@ -98,48 +120,40 @@
           "time_info": "[00时24分 ~ 07时52分]"
         },
         {
-          "title": "历史性调仓！AI硬科技接管公募核心仓位，消费股罕见缺席十大重仓",
-          "url": "https://www.cls.cn/detail/2433795",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 19时02分]"
-        },
-        {
-          "title": "看见中国AI产业的“硬核家底”",
-          "url": "https://www.toutiao.com/trending/7664428554470113321/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 19时02分]"
-        },
-        {
           "title": "两个AI演员比内娱待爆艺人都火",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB",
           "source": "百度热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
         },
         {
           "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
+        },
+        {
+          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
+          "url": "https://wallstreetcn.com/articles/3777595",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 20时43分]"
         },
         {
           "title": "“看到AI脸产生生理性厌恶”",
@@ -165,6 +179,19 @@
           "time_info": "06时57分"
         },
         {
+          "title": "两个AI演员比内娱待爆艺人都火",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时43分]"
+        },
+        {
           "title": "英伟达发布Spectrum-6以太网交换系统，面向下一代超大规模AI工厂",
           "url": "https://wallstreetcn.com/livenews/3137680",
           "source": "华尔街见闻-快讯",
@@ -177,16 +204,16 @@
           "time_info": "[00时24分 ~ 02时12分]"
         },
         {
-          "title": "两个AI演员比内娱待爆艺人都火",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AAAI%E6%BC%94%E5%91%98%E6%AF%94%E5%86%85%E5%A8%B1%E5%BE%85%E7%88%86%E8%89%BA%E4%BA%BA%E9%83%BD%E7%81%AB&t=31&band_rank=17&Refer=top",
+          "title": "别再给AI乱传文件了",
+          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            17,
+            28,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时12分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 20时43分]"
         },
         {
           "title": "英伟达详解下一代AI专用Vera CPU，向AMD和英特尔发起挑战",
@@ -199,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 02时12分]"
-        },
-        {
-          "title": "AMD AI大会前英伟达秀亮CPU“战果”，Vera Rubin全面量产，超300合作伙伴部署",
-          "url": "https://wallstreetcn.com/articles/3777595",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 19时02分]"
         },
         {
           "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
@@ -338,6 +353,17 @@
           "time_info": "13时14分"
         },
         {
+          "title": "国务院国资委：深入实施“AI+”专项行动",
+          "url": "https://flash.jin10.com/detail/20260722200541476800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "AI 的「最后一公里」，应该怎么走？",
           "url": "https://www.zhihu.com/parker/campaign/2058682220576035800?zh_hide_nav_bar=true",
           "source": "知乎",
@@ -371,6 +397,17 @@
           "time_info": "16时12分"
         },
         {
+          "title": "国务院国资委：深入实施“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3138207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "首部AI长剧要来了",
           "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E9%83%A8AI%E9%95%BF%E5%89%A7%E8%A6%81%E6%9D%A5%E4%BA%86&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -391,6 +428,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "【中微半导：预计2026年上半年净利润同比增长90.82%】中微半导公告，预计2026年半年度实现归属于母公司所有者的净利润1.65亿元左右，与上年同期相比，将增加7853.04万元左右，同比增长90.82%左右。本期业绩大幅增长，受益于全球AI及算力需求持续爆发，一方面挤占了MCU产能，另一方面带动了MCU需求增长，以及MCU在原有的消费电子、智能家电、工业控制、汽车电子等领域的市场需求稳步复苏，造成公司MCU市场需求增速超过公司MCU产能增速，出现产能相对紧缺状态，产品出货量增长的同时产品价格上涨，公司营收及利润实现双增长。",
+          "url": "https://wallstreetcn.com/livenews/3138201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "机构：2026年AI基建支出料增长56%至4970亿美元 Arm架构取代x86成主流算力平台",
+          "url": "https://flash.jin10.com/detail/20260722200136509800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "SpaceXAI：将把GROK引入微软Outlook。GROK的前景是一个Microsoft 365插件，今天已向所有付费X和SUPERGROK用户开放。",
@@ -459,17 +518,6 @@
           "time_info": "04时16分"
         },
         {
-          "title": "别再给AI乱传文件了",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "AI算力产业链成为上海出口重要增长动能",
           "url": "https://wallstreetcn.com/livenews/3138049",
           "source": "华尔街见闻-快讯",
@@ -484,7 +532,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Kimi 员工震惊和 OpenAI 算力的差距，为什么在这么大差距下 Kimi 还能做出来 K3 ？",
@@ -495,8 +543,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时13分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 20时43分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -535,6 +583,18 @@
           "time_info": "[04时16分 ~ 05时59分]"
         },
         {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时43分]"
+        },
+        {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
           "url": "https://wallstreetcn.com/livenews/3137675",
           "source": "华尔街见闻-快讯",
@@ -544,17 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
         },
         {
           "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
@@ -577,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "市场消息：OpenAI将推出面向企业的新软件OpenAI Presence。",
+          "url": "https://flash.jin10.com/detail/20260722200848203800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "史无前例！OpenAI模型“失控”攻入全球最大AI开源社区 中国开源模型参与取证",
@@ -709,11 +769,12 @@
           "ranks": [
             7,
             12,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 20时43分]"
         },
         {
           "title": "SpaceX做空比例飙至32% 马斯克警告空头：几无存活可能！",
@@ -741,6 +802,48 @@
       ]
     },
     {
+      "keyword_group": "anthropic claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061356466783642903",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时58分 ~ 09时57分]"
+        },
+        {
+          "title": "AMD与Anthropic签署重大芯片及投资协议。作为芯片协议的一部分，AMD将向Anthropic投资50亿美元。Anthropic将购买高达2吉瓦（算力规模）的AMD最新一代芯片。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3138224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "据AXIOS：Anthropic今年上半年用于美国政府游说的支出已超过去年全年水平。",
+          "url": "https://flash.jin10.com/detail/20260722025942201800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone apple apple watch",
       "match_count": 3,
       "titles": [
@@ -762,7 +865,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -780,33 +883,19 @@
       ]
     },
     {
-      "keyword_group": "anthropic claude",
-      "match_count": 2,
+      "keyword_group": "agent",
+      "match_count": 1,
       "titles": [
         {
-          "title": "Kimi 新模型 K3 跑分力压 ClaudeFable5 登顶，这将对大模型市场格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2061356466783642903",
-          "source": "知乎",
-          "ranks": [
-            18,
-            14,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时58分 ~ 09时57分]"
-        },
-        {
-          "title": "据AXIOS：Anthropic今年上半年用于美国政府游说的支出已超过去年全年水平。",
-          "url": "https://flash.jin10.com/detail/20260722025942201800",
+          "title": "宏利金融公司：将采用微软(MSFT.O)前沿套件并部署Microsoft Agent 365用于企业人工智能应用。",
+          "url": "https://flash.jin10.com/detail/20260722200158003800",
           "source": "金十数据",
           "ranks": [
-            24
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时16分"
+          "time_info": "20时43分"
         }
       ]
     }
