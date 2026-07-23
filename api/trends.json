@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T10:04:06.126047+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2026-07-23T13:47:16.128719+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "马斯克母亲吐槽纽约脏乱差",
@@ -85,6 +85,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时47分]"
+        },
+        {
           "title": "特斯拉美股盘后维持下跌3%的状态，马斯克在电话会议上讲话。",
           "url": "https://wallstreetcn.com/livenews/3138429",
           "source": "华尔街见闻-快讯",
@@ -109,15 +120,15 @@
           "time_info": "[06时00分 ~ 07时07分]"
         },
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
+          "title": "从震动硅谷到喊话马斯克“欢迎掰手腕”，Kimi做对了哪些",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33637839",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌幅扩大至5%，马斯克称扩大Optimus机器人产能将面临困难。",
@@ -355,8 +366,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 10时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时47分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -366,8 +377,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时47分]"
         },
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -377,19 +388,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时47分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
           "url": "https://wallstreetcn.com/articles/3777723",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时47分]"
         },
         {
           "title": "谷歌母公司Alphabet：Gemini APP月活用户数（Maus）达到9.5亿。",
@@ -540,8 +552,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5,
+            23,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时47分]"
+        },
         {
           "title": "为什么要说尽量少跟AI倾诉聊天",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
@@ -568,19 +594,6 @@
           "time_info": "[00时21分 ~ 06时00分]"
         },
         {
-          "title": "用AI通关高难度跑步游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 10时04分]"
-        },
-        {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
           "url": "https://wallstreetcn.com/articles/3777614",
           "source": "华尔街见闻",
@@ -588,8 +601,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时07分 ~ 10时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 13时47分]"
+        },
+        {
+          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
+          "url": "https://www.cls.cn/detail/2434534",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时47分]"
         },
         {
           "title": "别再给AI乱传文件了",
@@ -605,17 +630,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 07时07分]"
-        },
-        {
-          "title": "云积压订单超5000亿美元也难救股价？Alphabet财报会实录：巨额AI投入引分歧",
-          "url": "https://www.cls.cn/detail/2434534",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "如何看待《第九区》导演发布 13 分钟全 AI 短片《阴兵》，并计划拍长片， AI 电影发展到哪步了？",
@@ -662,11 +676,56 @@
           "url": "https://wallstreetcn.com/articles/3777694",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 13时47分]"
+        },
+        {
+          "title": "五巨头加码AI投资 是空中加油还是强弩之末？",
+          "url": "https://www.cls.cn/detail/2434755",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "男子AI伪造烂水果仅退款连累全县",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E4%BC%AA%E9%80%A0%E7%83%82%E6%B0%B4%E6%9E%9C%E4%BB%85%E9%80%80%E6%AC%BE%E8%BF%9E%E7%B4%AF%E5%85%A8%E5%8E%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI模型：非常优秀，就该用",
+          "url": "https://news.ifeng.com/c/8uzEep2s55A",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
+        {
+          "title": "AI演员生成毛孔瑕疵 真人演员磨皮",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%94%E5%91%98%E7%94%9F%E6%88%90%E6%AF%9B%E5%AD%94%E7%91%95%E7%96%B5%20%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E7%A3%A8%E7%9A%AE&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "rain淘汰猎鹰高光集锦",
@@ -678,6 +737,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
+        },
+        {
+          "title": "实探物理AI教学基地",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8E%A2%E7%89%A9%E7%90%86AI%E6%95%99%E5%AD%A6%E5%9F%BA%E5%9C%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "特斯拉(TSLA.O)AI业务副总裁：预计未来在更多城市推出Robotaxi所需的时间将继续缩短。",
@@ -697,25 +767,25 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 10时04分]"
-        },
-        {
           "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
           "url": "https://wallstreetcn.com/articles/3777699",
           "source": "华尔街见闻",
           "ranks": [
             5,
             3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时47分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
             4
           ],
           "is_new": false,
@@ -830,8 +900,19 @@
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
+        },
         {
           "title": "Anthropic首席执行官表示，Mythos为IBM和Red Hat创造了数十亿美元的潜在市场规模（TAM）。",
           "url": "https://flash.jin10.com/detail/20260723051022272800",
@@ -847,18 +928,30 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "iPhone18系列已量产",
           "url": "https://www.douyin.com/hot/2580964",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 10时04分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时47分]"
+        },
+        {
+          "title": "苹果拟推出设备租赁计划，iPhone 可租用 24 个月，月付租机的模式可行吗？你会考虑租苹果设备吗？",
+          "url": "https://www.zhihu.com/question/2063258715155686223",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         }
       ]
     }
