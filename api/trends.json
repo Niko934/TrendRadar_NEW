@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:05:37.612355+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-07-25T08:09:05.079483+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -19,6 +19,19 @@
           "time_info": "[00时37分 ~ 05时59分]"
         },
         {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 08时09分]"
+        },
+        {
           "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 05时59分]"
-        },
-        {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时05分]"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -80,6 +81,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时37分 ~ 04时14分]"
+        },
+        {
+          "title": "如何看微软联合发布的「开源权重模型对健康的 AI 生态系统至关重要」？",
+          "url": "https://www.zhihu.com/question/2064113274627609443",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
         },
         {
           "title": "Anthropic推出更具成本效益的日常任务AI模型",
@@ -160,11 +172,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 08时09分]"
         },
         {
           "title": "近日马斯克称其 2 万亿新模型「可能超越 Kimi」，可能超越 Kimi 的具体依据是什么？对此你们是怎么看？",
@@ -173,11 +186,12 @@
           "ranks": [
             20,
             19,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时37分 ~ 07时05分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 08时09分]"
         },
         {
           "title": "马斯克：开源获得压倒性支持。",
@@ -185,11 +199,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时09分]"
         },
         {
           "title": "马斯克：特斯拉计划开源Model S和Model X的软件。",
@@ -197,11 +212,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时09分]"
         },
         {
           "title": "马斯克：打算让特斯拉Model S与Model X软件开源。",
@@ -209,11 +225,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时09分]"
         },
         {
           "title": "马斯克的艰难一周：特斯拉遭遇2022年以来最大跌幅，星舰试飞前夕SpaceX股价下挫",
@@ -221,11 +238,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时09分]"
         },
         {
           "title": "马斯克：Grok 4.6将在未来两周发布，Grok 4.7将在未来四周。",
@@ -273,11 +291,12 @@
           "ranks": [
             8,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 07时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时37分 ~ 08时09分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -459,7 +478,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
         }
