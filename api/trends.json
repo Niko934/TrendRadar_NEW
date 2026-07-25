@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T02:57:24.988838+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-07-26T04:09:01.049147+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -37,11 +37,12 @@
           "ranks": [
             3,
             14,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "有人呼吁美“封杀”中国大模型，黄仁勋等人急了：快开源美国AI",
@@ -51,8 +52,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "卖脸给AI游本昌王祖贤1个好评1个挨骂",
@@ -60,11 +61,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "黄仁勋发布首条推文力挺开源AI：世界需要前沿的开源模型",
@@ -75,8 +77,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -87,8 +89,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时09分]"
         },
         {
           "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
@@ -98,8 +100,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时09分]"
         },
         {
           "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
@@ -108,9 +110,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时57分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时57分 ~ 04时09分]"
         }
       ]
     },
@@ -127,8 +129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "黄仁勋首推支持开源AI模型，奥特曼意外呼应，马斯克称所有涉及X系统的代码将开源",
@@ -139,8 +141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         },
         {
           "title": "马斯克：中国很有可能成AI领导者",
@@ -148,11 +150,29 @@
           "source": "今日头条",
           "ranks": [
             24,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
+          "url": "https://flash.jin10.com/detail/20260726031905539800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
@@ -168,8 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时00分 ~ 02时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 04时09分]"
         }
       ]
     }
