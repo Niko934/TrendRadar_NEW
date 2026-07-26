@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:58:40.514040+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-07-26T21:11:25.177254+08:00",
+  "total_titles_processed": 1228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
@@ -89,8 +89,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 19时58分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 21时11分]"
         },
         {
           "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
@@ -128,15 +128,17 @@
           "time_info": "[00时02分 ~ 06时46分]"
         },
         {
-          "title": "美国发生AI失控事故",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "AI还要跌多久",
+          "url": "https://wallstreetcn.com/articles/3777943",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            10,
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时13分 ~ 21时11分]"
         },
         {
           "title": "为AI投资腾资金？美国科技巨头年内裁员近14万人",
@@ -165,6 +167,17 @@
           "time_info": "[06时45分 ~ 10时03分]"
         },
         {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时53分 ~ 21时11分]"
+        },
+        {
           "title": "AI已经摸不透柯洁了",
           "url": "https://www.douyin.com/hot/2584747",
           "source": "抖音",
@@ -178,27 +191,29 @@
           "time_info": "[05时46分 ~ 13时54分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
+          "title": "美国发生AI失控事故",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9FAI%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时53分 ~ 18时38分]"
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 21时11分]"
         },
         {
-          "title": "AI还要跌多久",
-          "url": "https://wallstreetcn.com/articles/3777943",
-          "source": "华尔街见闻",
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
           "ranks": [
-            10,
-            7
+            19,
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时13分 ~ 19时58分]"
+          "time_info": "[18时38分 ~ 21时11分]"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -269,16 +284,16 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
+          "title": "谁还没跳ACAI拖拉机舞",
+          "url": "https://www.douyin.com/hot/2586099",
+          "source": "抖音",
           "ranks": [
-            19,
-            13
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时58分]"
+          "time_info": "[19时58分 ~ 21时11分]"
         },
         {
           "title": "严浩翔对AI写rap词的反应",
@@ -337,17 +352,6 @@
           "time_info": "13时54分"
         },
         {
-          "title": "谁还没跳ACAI拖拉机舞",
-          "url": "https://www.douyin.com/hot/2586099",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
           "title": "AI 会让艺术「更繁荣」还是「更廉价」？",
           "url": "https://www.zhihu.com/question/2056403801884423338",
           "source": "知乎",
@@ -365,7 +369,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -376,9 +380,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
+        },
+        {
+          "title": "周鸿祎：AI竞争规则正发生巨变",
+          "url": "https://www.toutiao.com/trending/7666792197408165395/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "游戏CG导演自制三角洲AI电影",
@@ -428,7 +443,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SpaceX星舰第13次试飞成功，发动机重启、溅落精准，马斯克：星舰完好无损",
@@ -477,8 +492,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时53分 ~ 19时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时53分 ~ 21时11分]"
         },
         {
           "title": "马斯克说未来中国极可能成为AI领导者",
@@ -490,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
+          "url": "https://wallstreetcn.com/livenews/3139836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "马斯克身价暴跌，调侃自己是“前万亿富翁”",
@@ -567,11 +593,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 19时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 21时11分]"
         },
         {
           "title": "不满谷歌被重罚，特朗普威胁对欧盟征收巨额关税",
@@ -610,8 +637,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时00分 ~ 19时58分]"
+          "appearance_count": 19,
+          "time_info": "[00时00分 ~ 21时11分]"
         }
       ]
     }
