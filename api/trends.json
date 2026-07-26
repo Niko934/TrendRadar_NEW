@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:53:18.274688+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2026-07-27T06:53:55.465733+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -29,21 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时53分]"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 03时01分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "AI还要跌多久",
@@ -53,8 +40,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
+        },
+        {
+          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
+          "url": "https://www.zhihu.com/question/2063915578427963194",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -65,11 +66,12 @@
             10,
             8,
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -78,11 +80,12 @@
           "ranks": [
             19,
             23,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "中国AI反超,老美急眼下黑手",
@@ -94,8 +97,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 06时53分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
@@ -103,11 +106,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时13分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时13分 ~ 06时53分]"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -116,11 +120,36 @@
           "ranks": [
             25,
             26,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 06时53分]"
+        },
+        {
+          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
+          "url": "https://flash.jin10.com/detail/20260727043919947800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时53分]"
+        },
+        {
+          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
+          "url": "https://flash.jin10.com/detail/20260727041540869800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时53分]"
         },
         {
           "title": "开源 Ai 性能接近闭源，那些闭源模型的估值怎么维持？",
@@ -156,28 +185,6 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "“停火期间”发胜利AI图，伊媒指特朗普“投资”虚拟火力",
-          "url": "https://flash.jin10.com/detail/20260727043919947800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
-          "url": "https://flash.jin10.com/detail/20260727041540869800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
           "url": "https://flash.jin10.com/detail/20260726213859697800",
           "source": "金十数据",
@@ -204,8 +211,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "黄仁勋、马斯克，最新涉华表态",
@@ -215,8 +222,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "马斯克、黄仁勋最新涉华表态：中国注定会产出卓越的AI技术，美国就算禁用也挡不住",
@@ -256,8 +263,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         }
       ]
     },
@@ -271,11 +278,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 06时53分]"
         }
       ]
     }
