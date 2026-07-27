@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:54:41.285355+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-07-27T10:10:42.997276+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
         },
         {
           "title": "不要长期向AI倾泻心事",
@@ -27,22 +27,24 @@
             5,
             6,
             4,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "AI还要跌多久",
           "url": "https://wallstreetcn.com/articles/3777943",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "AI冲击短剧行业 “戏王”也扛不住了",
@@ -54,11 +56,12 @@
             8,
             12,
             15,
-            16
+            16,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "谁还没跳ACAI拖拉机舞",
@@ -72,8 +75,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -99,8 +102,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 10时10分]"
+        },
+        {
+          "title": "现代汽车携手英伟达等科技企业 打造自动驾驶与物理AI生态",
+          "url": "https://flash.jin10.com/detail/20260727100434725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "AI短剧《被裁掉的女孩》播放破2亿",
@@ -141,6 +155,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时53分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时10分]"
         },
         {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
@@ -188,15 +214,26 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
+          "title": "李在明喊话：AI是韩国的“新火种”！9500亿美元芯片大单应声落地",
+          "url": "https://www.cls.cn/detail/2437139",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时10分"
+        },
+        {
+          "title": "2026 年菲尔兹奖会成为「最后一届没有 AI 的菲尔兹奖」吗？",
+          "url": "https://www.zhihu.com/question/2062890686072845429",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "假如莫奈遇上AI机器人",
@@ -205,7 +242,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -224,7 +261,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄仁勋、马斯克同日发声：中国的人工智能注定卓越 将成为全球领导者",
@@ -234,11 +271,12 @@
             10,
             8,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "黄仁勋、马斯克，最新涉华表态",
@@ -273,12 +311,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "马斯克：未来某个时刻中国极有可能成为AI领导者，美国就算禁用中国模型也挡不住",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33661243",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -287,7 +336,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -298,7 +347,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -309,9 +358,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
@@ -329,8 +389,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 10时10分]"
         }
       ]
     },
