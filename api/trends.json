@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-07-28T18:28:57.752686+08:00",
-  "total_titles_processed": 1326,
-  "failed_sources": [],
+  "generated_at": "2026-07-28T20:51:12.275640+08:00",
+  "total_titles_processed": 1485,
+  "failed_sources": [
+    "cls-hot"
+  ],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
@@ -15,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 20时51分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -44,6 +46,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时51分 ~ 15时36分]"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时51分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -110,7 +123,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -141,28 +154,6 @@
           "time_info": "05时59分"
         },
         {
-          "title": "抖火杯AI番外大电影",
-          "url": "https://www.douyin.com/hot/2588435",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "贝莱德避开AI债券滑铁卢，123亿美元债务发行受追捧",
           "url": "https://wallstreetcn.com/livenews/3140555",
           "source": "华尔街见闻-快讯",
@@ -172,6 +163,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "抖火杯AI番外大电影",
+          "url": "https://www.douyin.com/hot/2588435",
+          "source": "抖音",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时51分]"
+        },
+        {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 20时51分]"
         },
         {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
@@ -214,17 +231,16 @@
           "time_info": "[02时20分 ~ 07时02分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
           "ranks": [
             8,
-            20,
-            27
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时10分 ~ 05时59分]"
+          "time_info": "[18时28分 ~ 20时51分]"
         },
         {
           "title": "全球AI竞争将如何发展",
@@ -259,6 +275,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 02时20分]"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 20时50分]"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -308,6 +336,17 @@
           "time_info": "[02时20分 ~ 04时16分]"
         },
         {
+          "title": "AI科技板块大跌原因",
+          "url": "https://www.baidu.com/s?wd=AI%E7%A7%91%E6%8A%80%E6%9D%BF%E5%9D%97%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 20时51分]"
+        },
+        {
           "title": "Microsoft AI：推出MAI-Cyber-1-Flash，这是我们自主研发的新型网络安全模型。",
           "url": "https://flash.jin10.com/detail/20260728014141537800",
           "source": "金十数据",
@@ -317,28 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "港股午评：恒指收跌0.11% AI硬件股大幅回调",
@@ -358,7 +375,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -501,7 +518,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -556,7 +573,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -578,7 +595,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -589,7 +606,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -641,7 +658,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -671,6 +688,18 @@
           "time_info": "02时20分"
         },
         {
+          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
+          "url": "https://wallstreetcn.com/articles/3778049",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 20时51分]"
+        },
+        {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3140521",
           "source": "华尔街见闻-快讯",
@@ -683,15 +712,15 @@
           "time_info": "[05时59分 ~ 07时02分]"
         },
         {
-          "title": "绑定SK集团与OpenAI！英伟达卷入7500亿美元豪赌，AI“循环融资”警报再响",
-          "url": "https://wallstreetcn.com/articles/3778049",
-          "source": "华尔街见闻",
+          "title": "ChatGPT反过来跟我倾诉",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%8F%8D%E8%BF%87%E6%9D%A5%E8%B7%9F%E6%88%91%E5%80%BE%E8%AF%89&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "英伟达在OpenAI联合创始人伊利亚·苏茨克沃的安全超级智能项目中投资达数十亿美元。（The Information）",
@@ -703,6 +732,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "苹果：在美国推出Apple Upgrade设备租赁计划。 Apple Upgrade的iPhone租赁方案起价为每月17.99美元。 苹果将不再在美国提供iPhone升级计划和iPhone分期付款。",
+          "url": "https://wallstreetcn.com/livenews/3141017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "苹果(AAPL.O)：iPhone17 Pro 256GB 租赁每月31.99美元（24个月），每月45.99美元（12个月）。",
+          "url": "https://flash.jin10.com/detail/20260728202113640800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "苹果推出“Apple Upgrade”计划，提供新的产品租赁服务",
+          "url": "https://flash.jin10.com/detail/20260728201937912800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "苹果(AAPL.O)：在美国地区停止iPhone升级计划和iPhone支付服务。",
+          "url": "https://flash.jin10.com/detail/20260728201900380800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "苹果(AAPL.O)：iPhone和Apple Watch提供12至24个月的租赁，Mac和iPad则提供24至36个月的租赁。",
+          "url": "https://flash.jin10.com/detail/20260728201747473800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "苹果(AAPL.O)：Klarna租赁服务提供iPhone月租17.99美元起，Apple Watch月租11.99美元起。",
+          "url": "https://flash.jin10.com/detail/20260728201734283800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     },
@@ -780,7 +881,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
