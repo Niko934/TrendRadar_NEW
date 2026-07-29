@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T21:52:00.233543+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-07-29T23:47:12.655188+08:00",
+  "total_titles_processed": 1617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI泡沫的金丝雀，刚刚死去.....",
@@ -62,6 +62,21 @@
           "time_info": "[01时21分 ~ 16时26分]"
         },
         {
+          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
+          "url": "https://www.zhihu.com/question/2065158710427751418",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 23时47分]"
+        },
+        {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
@@ -74,20 +89,6 @@
           "time_info": "[01时21分 ~ 06时54分]"
         },
         {
-          "title": "如何看待某历史学老师在期中考试的题目中加入白色隐藏文字，导致 35 位学生中的 32 位因使用 AI 成绩不及格？",
-          "url": "https://www.zhihu.com/question/2065158710427751418",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 21时52分]"
-        },
-        {
           "title": "费城半导体指数跌破11200点关键支撑，AI牛市悬了！",
           "url": "https://wallstreetcn.com/articles/3778137",
           "source": "华尔街见闻",
@@ -98,8 +99,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时53分 ~ 21时52分]"
+          "appearance_count": 14,
+          "time_info": "[06时53分 ~ 23时47分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -142,6 +143,18 @@
           "time_info": "[05时01分 ~ 07时54分]"
         },
         {
+          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
+          "url": "https://wallstreetcn.com/articles/3778177",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时15分 ~ 23时47分]"
+        },
+        {
           "title": "AI公司 原版书籍销毁",
           "url": "https://s.weibo.com/weibo?q=AI%E5%85%AC%E5%8F%B8%20%E5%8E%9F%E7%89%88%E4%B9%A6%E7%B1%8D%E9%94%80%E6%AF%81&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -155,18 +168,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[03时12分 ~ 09时54分]"
-        },
-        {
-          "title": "股价仍跌超10%！SK海力士电话会：未见AI投资放缓迹象，HBM4已提前量产，长协不会导致供应过剩",
-          "url": "https://wallstreetcn.com/articles/3778177",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时15分 ~ 21时52分]"
         },
         {
           "title": "AI剧 一本万利",
@@ -186,9 +187,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时47分]"
         },
         {
           "title": "花40亿token做出AI督学官",
@@ -255,23 +269,26 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 21时52分]"
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 23时47分]"
         },
         {
-          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
-          "url": "https://www.cls.cn/detail/2440260",
-          "source": "财联社热门",
+          "title": "赢学入脑,法国声称AI超中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            11,
-            9
+            7,
+            12,
+            13,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时17分 ~ 21时52分]"
+          "time_info": "[16时26分 ~ 23时47分]"
         },
         {
           "title": "AI存储需求炸裂，希捷上季营收超预期增近50%、毛利率大幅跃升突破50%，指引更强劲｜财报见闻",
@@ -285,6 +302,30 @@
           "time_info": "[19时17分 ~ 21时52分]"
         },
         {
+          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2065710393360479149",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 23时47分]"
+        },
+        {
+          "title": "AI手机大战全面开打",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 23时47分]"
+        },
+        {
           "title": "会计被AI取代的概率",
           "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E7%9A%84%E6%A6%82%E7%8E%87&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -294,19 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时15分 ~ 16时26分]"
-        },
-        {
-          "title": "赢学入脑,法国声称AI超中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356609&amp;topic_name=%E8%B5%A2%E5%AD%A6%E5%85%A5%E8%84%91%2C%E6%B3%95%E5%9B%BD%E5%A3%B0%E7%A7%B0AI%E8%B6%85%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 21时52分]"
         },
         {
           "title": "明星为什么愿意把脸“卖”给AI",
@@ -344,15 +372,15 @@
           "time_info": "[19时17分 ~ 19时18分]"
         },
         {
-          "title": "有说法称印度成首个被 AI 做空的国家，真的是这样吗？会对印度经济产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2065710393360479149",
-          "source": "知乎",
+          "title": "扎克伯格反对封禁中国AI：美国应解决自身问题 而非封禁竞争对手",
+          "url": "https://www.cls.cn/detail/2440344",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "AI帮他69次投递拿下工作",
@@ -366,15 +394,26 @@
           "time_info": "[13时15分 ~ 13时16分]"
         },
         {
-          "title": "AI手机大战全面开打",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E5%A4%A7%E6%88%98%E5%85%A8%E9%9D%A2%E5%BC%80%E6%89%93",
-          "source": "百度热搜",
+          "title": "外交部批日本右翼利用AI歪曲侵华历史",
+          "url": "https://www.toutiao.com/trending/7667310119856570418/",
+          "source": "今日头条",
           "ranks": [
-            21
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
+          "title": "伊拉克真主党旅（Kataib Hezbollah）：将“不可避免地”对美沙联合打击作出回应，可能针对美国在沙特境内的“工具”。 向伊拉克政府下最后通牒，要求在8月6日之前证明其能够捍卫伊拉克的主权。",
+          "url": "https://wallstreetcn.com/livenews/3141783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "AI热潮推动数据存储需求，希捷科技第四财季利润飙升",
@@ -441,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "AI漫剧走红,国动流量狂跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356621&amp;topic_name=AI%E6%BC%AB%E5%89%A7%E8%B5%B0%E7%BA%A2%2C%E5%9B%BD%E5%8A%A8%E6%B5%81%E9%87%8F%E7%8B%82%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "闲鱼：AI订单半年成交近千万，同比增157%",
@@ -526,9 +576,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "摩根大通在市场情报（JPM Market Intel）警告称，下一轮抛售将不仅重创个股，还会波及各大指数。 “目前的焦点依然牢牢锁定在AI/科技/动量股（MOMO）的平仓解杠杆上。核心担忧包括来自中国的竞争威胁——即开源模型和DUV（深紫外光刻）生产，尽管今天中国特殊目的实体（SPEs）的股价再次下跌；此外还有循环融资以及杠杆所扮演的角色。英伟达信用违约互换（CDS）的利差走阔（作为资本支出的接收方，其自由现金流FCF正在上升）比超大规模云服务商（hyperscalers）的CDS走势更令人担忧。 由于我们账面上的拥挤交易风险尚未完全出清，我们继续维持因子对冲。值得注意的是，我们需要考虑从这里再下一个台阶时，是否会伴随着指数相关性的显著上升。”",
+          "url": "https://wallstreetcn.com/livenews/3141766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "美国千名AI公司员工发联名信 寻求建立协同放缓前沿AI发展的机制",
@@ -649,6 +710,120 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌据悉承诺投入440亿美元用于数据中心租赁项目的担保",
+          "url": "https://flash.jin10.com/detail/20260729023402802800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "谷歌为macOS版Gemini应用新增Fn键唤醒语音控制功能。",
+          "url": "https://wallstreetcn.com/livenews/3141787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
+          "url": "https://wallstreetcn.com/livenews/3141128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 03时12分]"
+        },
+        {
+          "title": "谷歌：Gemini语音功能支持屏幕上下文推理。",
+          "url": "https://flash.jin10.com/detail/20260729231413227800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "谷歌：Gemini MACOS语音模式启用智能听写功能。",
+          "url": "https://flash.jin10.com/detail/20260729231407077800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克的“微信梦”迈出关键一步 世界首富撒钱推广电子钱包业务",
+          "url": "https://www.cls.cn/detail/2439484",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时16分]"
+        },
+        {
+          "title": "烤肉师傅回应长相酷似马斯克走红",
+          "url": "https://www.toutiao.com/trending/7666765320216166441/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时54分]"
+        },
+        {
+          "title": "这次，马斯克都看不下去了",
+          "url": "https://news.ifeng.com/c/8vA3lGhS6lv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
+          "title": "马斯克与《经济学人》主编谈了什么",
+          "url": "https://www.toutiao.com/trending/7667920426818866742/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 3,
       "titles": [
@@ -684,65 +859,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌据悉承诺投入440亿美元用于数据中心租赁项目的担保",
-          "url": "https://flash.jin10.com/detail/20260729023402802800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "谷歌公司：在文本文档中推出Gemini支持的评论工作流（Comment Workflows）。",
-          "url": "https://wallstreetcn.com/livenews/3141128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 03时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克的“微信梦”迈出关键一步 世界首富撒钱推广电子钱包业务",
-          "url": "https://www.cls.cn/detail/2439484",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 13时16分]"
-        },
-        {
-          "title": "烤肉师傅回应长相酷似马斯克走红",
-          "url": "https://www.toutiao.com/trending/7666765320216166441/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 07时54分]"
         }
       ]
     },
