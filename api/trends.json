@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:45:21.288182+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-08-07T19:41:01.986484+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -15,11 +15,24 @@
             12,
             8,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时50分 ~ 18时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 19时41分]"
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时41分]"
         },
         {
           "title": "ai漫剧男主唯一塌房方式被找到了",
@@ -44,6 +57,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时53分 ~ 16时10分]"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            25,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时09分 ~ 19时41分]"
+        },
+        {
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时09分 ~ 19时41分]"
         },
         {
           "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
@@ -93,19 +132,6 @@
           "time_info": "[17时54分 ~ 18时45分]"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            25,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时09分 ~ 18时45分]"
-        },
-        {
           "title": "戚薇AI短剧 雷霆视角",
           "url": "https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87AI%E7%9F%AD%E5%89%A7%20%E9%9B%B7%E9%9C%86%E8%A7%86%E8%A7%92&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -119,15 +145,29 @@
           "time_info": "[14时07分 ~ 17时54分]"
         },
         {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时09分 ~ 18时45分]"
+          "time_info": "[17时54分 ~ 19时41分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时54分 ~ 19时41分]"
         },
         {
           "title": "美银CEO：美联储年内或连加三次息，但AI投资不会因高利率踩刹车",
@@ -154,6 +194,18 @@
           "time_info": "[10时14分 ~ 14时07分]"
         },
         {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时41分]"
+        },
+        {
           "title": "Alphabet又发债了！一文读懂：AI天量资本支出疑云仍未散去？",
           "url": "https://www.cls.cn/detail/2447998",
           "source": "财联社热门",
@@ -177,15 +229,15 @@
           "time_info": "[14时07分 ~ 16时10分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时45分]"
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
@@ -211,29 +263,6 @@
           "time_info": "[07时53分 ~ 10时14分]"
         },
         {
-          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
-          "url": "https://www.cls.cn/detail/2448228",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时45分]"
-        },
-        {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时54分 ~ 18时45分]"
-        },
-        {
           "title": "AI漫剧男主如此小众的塌房方式",
           "url": "https://www.baidu.com/s?wd=AI%E6%BC%AB%E5%89%A7%E7%94%B7%E4%B8%BB%E5%A6%82%E6%AD%A4%E5%B0%8F%E4%BC%97%E7%9A%84%E5%A1%8C%E6%88%BF%E6%96%B9%E5%BC%8F",
           "source": "百度热搜",
@@ -243,6 +272,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时09分 ~ 16时10分]"
+        },
+        {
+          "title": "非洲开发者更愿用中国AI模型说明啥",
+          "url": "https://www.toutiao.com/trending/7671214313847131702/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "戚薇用AI解锁末世",
@@ -277,17 +317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
-        },
-        {
-          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
-          "url": "https://www.cls.cn/detail/2448537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "美联储盯上AI投资狂潮：不是2008年泡沫，但金融风险正在升温",
@@ -413,6 +442,72 @@
       ]
     },
     {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
+          "url": "https://wallstreetcn.com/articles/3778845",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 16时10分]"
+        },
+        {
+          "title": "iPhone18Pro十二大升级",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            23,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时14分 ~ 16时10分]"
+        },
+        {
+          "title": "iPhone18Pro系列价格预测",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 17时54分]"
+        },
+        {
+          "title": "iPhone18Pro十二大升级",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
+          "title": "苹果上调多款iPhone以旧换新折抵价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E4%B8%8A%E8%B0%83%E5%A4%9A%E6%AC%BEiPhone%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E6%8A%98%E6%8A%B5%E4%BB%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -489,50 +584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：苹果紧急抢购DRAM内存，距iPhone 18发布仅剩几周",
-          "url": "https://wallstreetcn.com/articles/3778845",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 16时10分]"
-        },
-        {
-          "title": "iPhone18Pro十二大升级",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            23,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时14分 ~ 16时10分]"
-        },
-        {
-          "title": "iPhone18Pro系列价格预测",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%E9%A2%84%E6%B5%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时09分 ~ 17时54分]"
         }
       ]
     },
