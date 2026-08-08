@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:31:56.562596+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-08-08T17:31:55.629399+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "中国人能飞AI版vs实拍版",
@@ -21,11 +21,12 @@
             21,
             15,
             20,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时01分 ~ 16时31分]"
+          "appearance_count": 23,
+          "time_info": "[00时01分 ~ 17时31分]"
         },
         {
           "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
@@ -65,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时01分 ~ 16时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时01分 ~ 17时31分]"
         },
         {
           "title": "国民党推出AI发言人“郑小文”迎战民进党",
@@ -91,8 +92,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[03时46分 ~ 16时31分]"
+          "appearance_count": 16,
+          "time_info": "[03时46分 ~ 17时31分]"
         },
         {
           "title": "释疑｜建多少数据中心才够？美国AI基建热潮撞上“社区保卫战”",
@@ -141,11 +142,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 17时31分]"
         },
         {
           "title": "自媒体红利期只剩AI了",
@@ -154,11 +156,12 @@
           "ranks": [
             18,
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时48分 ~ 16时31分]"
+          "appearance_count": 7,
+          "time_info": "[12时48分 ~ 17时31分]"
         },
         {
           "title": "爆仓之后，资本反而扑向\"AI股神\"",
@@ -167,11 +170,12 @@
           "ranks": [
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 17时31分]"
         },
         {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
@@ -187,6 +191,19 @@
           "time_info": "[11时19分 ~ 13时37分]"
         },
         {
+          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
+          "url": "https://wallstreetcn.com/livenews/3146973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时43分 ~ 17时31分]"
+        },
+        {
           "title": "AI大模型迈向分时定价",
           "url": "https://wallstreetcn.com/livenews/3146821",
           "source": "华尔街见闻-快讯",
@@ -199,6 +216,18 @@
           "time_info": "[00时02分 ~ 00时44分]"
         },
         {
+          "title": "戚薇谈把脸交给AI",
+          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时31分]"
+        },
+        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -209,18 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时44分]"
-        },
-        {
-          "title": "朋友圈可AI帮写、点评？腾讯客服：AI相关功能逐步开放中",
-          "url": "https://wallstreetcn.com/livenews/3146973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时43分 ~ 16时31分]"
         },
         {
           "title": "AI大模型迈向分时定价",
@@ -257,15 +274,15 @@
           "time_info": "03时47分"
         },
         {
-          "title": "戚薇谈把脸交给AI",
-          "url": "https://www.baidu.com/s?wd=%E6%88%9A%E8%96%87%E8%B0%88%E6%8A%8A%E8%84%B8%E4%BA%A4%E7%BB%99AI",
-          "source": "百度热搜",
+          "title": "我用AI造了奥德赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%94%A8AI%E9%80%A0%E4%BA%86%E5%A5%A5%E5%BE%B7%E8%B5%9B",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时31分"
+          "time_info": "17时31分"
         },
         {
           "title": "据The Information：法律AI初创公司Harvey正洽谈融资，估值达155亿美元。",
@@ -321,6 +338,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果官网显示，Apple智能可配合阿里巴巴千问模型工作。",
+          "url": "https://wallstreetcn.com/livenews/3146987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "iPhone18系列发布节奏",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时39分]"
+        },
+        {
+          "title": "iPhone18Pro十二大升级",
+          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 00时02分]"
+        },
+        {
+          "title": "iPhone 18 Pro升级曝光",
+          "url": "https://www.douyin.com/hot/2600808",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
@@ -425,8 +495,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 16时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 17时31分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -454,11 +524,12 @@
             3,
             5,
             11,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时49分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 17时31分]"
         },
         {
           "title": "消息人士：马斯克拒绝让乌克兰用“星链”打击俄境内目标",
@@ -474,37 +545,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时49分 ~ 16时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "iPhone18系列发布节奏",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            16,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时39分]"
-        },
-        {
-          "title": "iPhone18Pro十二大升级",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%8D%81%E4%BA%8C%E5%A4%A7%E5%8D%87%E7%BA%A7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
         }
       ]
     }
