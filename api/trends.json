@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T19:39:49.959149+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-08-11T23:54:18.608800+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "MLCC供应告急引发抢货潮！国巨：越来越多AI客户抢签长协锁定产能",
@@ -42,8 +42,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时08分 ~ 23时54分]"
+        },
+        {
+          "title": "城市竞争进入AI答案时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时08分 ~ 19时39分]"
+          "time_info": "[13时00分 ~ 23时54分]"
         },
         {
           "title": "用AI重返那年相遇的青涩夏天",
@@ -60,16 +73,33 @@
           "time_info": "[09时08分 ~ 19时39分]"
         },
         {
-          "title": "城市竞争进入AI答案时代",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
-          "source": "澎湃新闻",
+          "title": "给AI时代一点手搓实拍的小震撼",
+          "url": "https://www.douyin.com/hot/2605459",
+          "source": "抖音",
           "ranks": [
-            8,
-            9
+            9,
+            6,
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时00分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 23时54分]"
+        },
+        {
+          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
+          "url": "https://wallstreetcn.com/articles/3779130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 23时54分]"
         },
         {
           "title": "AI在黎曼猜想上做出了什么突破",
@@ -117,11 +147,12 @@
           "ranks": [
             1,
             2,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 23时54分]"
         },
         {
           "title": "TaiLung被永久禁赛有何内幕",
@@ -133,20 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "回应“5000亿美元融资质疑”！黄仁勋：英伟达“AI工厂”正成为“投资级资产”，需求真实存在，绝非“循环融资”",
-          "url": "https://wallstreetcn.com/articles/3779130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 19时39分]"
         },
         {
           "title": "英伟达宣布联手六大金融巨头，布局5000亿美元AI基建融资体系",
@@ -171,6 +188,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
+          "url": "https://www.cls.cn/detail/2451347",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "理想汽车：根据当前规划，第二代理想AI眼镜 Livis预计将在明年下半年到来",
           "url": "https://flash.jin10.com/detail/20260811142206160800",
           "source": "金十数据",
@@ -182,17 +210,31 @@
           "time_info": "14时54分"
         },
         {
-          "title": "给AI时代一点手搓实拍的小震撼",
-          "url": "https://www.douyin.com/hot/2605459",
+          "title": "AI打开了我童年记忆的百宝箱",
+          "url": "https://www.douyin.com/hot/2605425",
           "source": "抖音",
           "ranks": [
+            10,
             9,
-            6,
-            11
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 23时54分]"
+        },
+        {
+          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时06分 ~ 23时54分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -207,30 +249,18 @@
           "time_info": "[04时34分 ~ 06时30分]"
         },
         {
-          "title": "AI打开了我童年记忆的百宝箱",
-          "url": "https://www.douyin.com/hot/2605425",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 19时39分]"
-        },
-        {
           "title": "干湿之困：AI制药如何打通“最后一公里”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753718",
           "source": "澎湃新闻",
           "ranks": [
             12,
             13,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 19时39分]"
+          "appearance_count": 4,
+          "time_info": "[14时54分 ~ 23时54分]"
         },
         {
           "title": "英伟达：联手高盛等华尔街巨头，建立AI算力基础设施融资平台，来撬动超过5000亿美元的第三方资本",
@@ -251,18 +281,6 @@
           "ranks": [
             10,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 19时39分]"
-        },
-        {
-          "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710549",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -313,6 +331,17 @@
           "time_info": "[06时29分 ~ 06时30分]"
         },
         {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "Meta发布可单卡运行轻量AI模型，扎克伯格描绘“个人赋能新时代”",
           "url": "https://wallstreetcn.com/livenews/3147602",
           "source": "华尔街见闻-快讯",
@@ -333,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "AI存储繁荣还能持续多久？华尔街：涨价潮或降温，但供应紧张料持续",
+          "url": "https://www.cls.cn/detail/2451331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "AI前沿日报-8月11日",
@@ -377,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "对话复旦大学李银胜：AI会带来“文化人”的黄金时代",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33757463",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -437,7 +488,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "澳洲联储主席Bullock：正在认真思考何时可能适合加息。 房地产市场并不是让我们按兵不动的理由。 支持加息的理由包括通胀仍然过高，以及中东局势带来的通胀上行风险。 决定等待更多信息，但加息仍是首要考量。",
@@ -507,12 +558,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "美国全国房地产经纪人协会首席经济学家劳伦斯·云（Lawrence Yun）：“即便在过去几个月房贷利率上升的环境下，房屋销售依然保持了惊人的稳定性。” “毫无疑问，如果平均房贷利率能回落到6%附近，房地产市场将会蓬勃发展。”",
+          "url": "https://wallstreetcn.com/livenews/3148121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克的新挑战：给光刻机“换束光”",
+          "url": "https://www.cls.cn/detail/2450318",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 09时08分]"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 19时39分]"
+        },
+        {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://wallstreetcn.com/livenews/3148137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "马斯克母子强推中国游",
+          "url": "https://www.toutiao.com/trending/7672030137794248730/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        },
+        {
+          "title": "马斯克：强烈推荐大家去中国看看",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E5%BC%BA%E7%83%88%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E5%8E%BB%E4%B8%AD%E5%9B%BD%E7%9C%8B%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "马斯克一年赚2.16万亿 平均每天59亿",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%B9%B4%E8%B5%9A2.16%E4%B8%87%E4%BA%BF+%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A959%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
@@ -546,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
+          "url": "https://www.zhihu.com/question/2070452772391194651",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "为什么Claude对子代理这么凶",
@@ -623,57 +769,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克的新挑战：给光刻机“换束光”",
-          "url": "https://www.cls.cn/detail/2450318",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 09时08分]"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%AF%8D%E5%AD%90%E5%BC%BA%E6%8E%A8%E4%B8%AD%E5%9B%BD%E6%B8%B8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 19时39分]"
-        },
-        {
-          "title": "马斯克母子强推中国游",
-          "url": "https://www.toutiao.com/trending/7672030137794248730/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
-        },
-        {
-          "title": "马斯克一年赚2.16万亿 平均每天59亿",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%80%E5%B9%B4%E8%B5%9A2.16%E4%B8%87%E4%BA%BF+%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A959%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iphone apple apple watch",
       "match_count": 3,
       "titles": [
@@ -695,7 +790,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -723,7 +818,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
