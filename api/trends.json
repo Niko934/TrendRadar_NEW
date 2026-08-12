@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T13:37:45.874933+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-08-12T15:13:27.648108+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -87,6 +87,18 @@
           "time_info": "[00时50分 ~ 09时15分]"
         },
         {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时13分]"
+        },
+        {
           "title": "城市竞争进入AI答案时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
           "source": "澎湃新闻",
@@ -106,11 +118,12 @@
             6,
             8,
             16,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 13时37分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 15时13分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -148,18 +161,6 @@
           "time_info": "[00时50分 ~ 07时33分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时37分]"
-        },
-        {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
           "url": "https://www.cls.cn/detail/2451840",
           "source": "财联社热门",
@@ -169,8 +170,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时13分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 15时13分]"
+        },
+        {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时13分]"
         },
         {
           "title": "AI云服务巨头Coreweave(CRWV.O)第二财季营收25.8亿美元，市场预期25.6亿美元；第二财季净亏损6.26亿美元，市场预期亏损7.571亿美元；截至2026年6月30日，合同在手订单总额约为1040亿美元。",
@@ -190,32 +215,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时37分]"
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
@@ -248,11 +250,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 15时13分]"
         },
         {
           "title": "港股通重塑AI资产估值中枢，大模型从价格战迈向价值战",
@@ -338,6 +341,17 @@
           "time_info": "[07时32分 ~ 07时33分]"
         },
         {
+          "title": "企业AI降本新路径：开源模型成本仅为闭源8%",
+          "url": "https://flash.jin10.com/detail/20260812150102741800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "Agent经济学拐点：AI Agent电脑操作小时成本已低于离岸人力外包，准确率也更高",
           "url": "https://wallstreetcn.com/articles/3779129",
           "source": "华尔街见闻",
@@ -349,13 +363,24 @@
           "time_info": "09时15分"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
           "url": "https://wallstreetcn.com/livenews/3148411",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -366,7 +391,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -382,13 +407,35 @@
           "time_info": "07时33分"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "鸿海：预计第三季度营收将同比增长。 预计2026财年收入同比增长。 预计第三季度零部件及其他产品营收将实现显著同比增长。 第三季度AI机架出货量环比增长预计将达到高双位数。 AI基础设施正推动增长，对AI服务器前景持强劲看法。 预计强劲的AI需求将推动全年增长。",
+          "url": "https://wallstreetcn.com/livenews/3148458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
           "title": "知情人士透露，AI初创公司Cognition正与投资者就新一轮融资进行早期洽谈，这可能会使这家AI初创公司的估值提升50%以上，达到至少400亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3148404",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -399,7 +446,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -468,6 +515,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "高盛：软件股开始兑现AI红利",
+          "url": "https://flash.jin10.com/detail/20260812144504361800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "韩国拟明年向AI等战略产业主权财富基金注资超7亿美元",
@@ -572,7 +630,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -627,11 +685,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 15时13分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，马斯克密友格拉西亚斯截至2026年6月30日持有SpaceX(SPCX.O)6.5%的被动股权。",
@@ -665,8 +724,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时15分 ~ 15时13分]"
         },
         {
           "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
@@ -676,8 +735,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 15时13分]"
         },
         {
           "title": "马斯克：我们会先解决Grok Bot测试版目前存在的一些基础问题，并在本周晚些时候发布Grok4.6后，向更多用户开放Grok Bot测试。",
@@ -847,11 +906,12 @@
           "url": "https://s.weibo.com/weibo?q=%23iPhone20Pro%E7%88%86%E6%96%99%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 15时13分]"
         },
         {
           "title": "iPhone18Pro成本",
