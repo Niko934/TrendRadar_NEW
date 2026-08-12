@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T15:13:27.648108+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-08-12T17:05:08.981961+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI担忧惹的祸？ 韩国股市7月外资“大撤退” 亚洲股市连续“失血”九个月",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 07时33分]"
+        },
+        {
+          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 17时05分]"
         },
         {
           "title": "每36秒上新一部！AI短剧狂飙，短剧江湖正在换主角",
@@ -87,18 +99,6 @@
           "time_info": "[00时50分 ~ 09时15分]"
         },
         {
-          "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 15时13分]"
-        },
-        {
           "title": "城市竞争进入AI答案时代",
           "url": "https://m.thepaper.cn/newsDetail_forward_33753662",
           "source": "澎湃新闻",
@@ -161,17 +161,30 @@
           "time_info": "[00时50分 ~ 07时33分]"
         },
         {
+          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779219",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 17时05分]"
+        },
+        {
           "title": "但斌回应质疑：没有恐慌割肉、没有大幅减仓，对AI从未动摇，依旧满仓坚守",
           "url": "https://www.cls.cn/detail/2451840",
           "source": "财联社热门",
           "ranks": [
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 17时05分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -182,20 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 15时13分]"
-        },
-        {
-          "title": "AI光通信需求强劲，Lumentum上季营收翻倍，本季指引更超预期，债务重组致超70亿巨亏｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779219",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时37分 ~ 17时05分]"
         },
         {
           "title": "AI云服务巨头Coreweave(CRWV.O)第二财季营收25.8亿美元，市场预期25.6亿美元；第二财季净亏损6.26亿美元，市场预期亏损7.571亿美元；截至2026年6月30日，合同在手订单总额约为1040亿美元。",
@@ -220,6 +221,17 @@
           "time_info": "13时37分"
         },
         {
+          "title": "【腾讯控股：第二季度录得负自由现金流人民币138亿元，若剔除算力采购的预付款项，自由现金流为人民币376亿元】第二季，本集团录得负自由现金流人民币138亿元，此乃由于经营活动所产生的现金净额人民币527亿元，被资本开支付款人民币593亿元、媒体内容付款人民币50亿元及租赁负债付款人民币22亿元超额抵销。我们的经营现金流包括大额AI相关预付款项，用于提供基础设施以支持Hy模型升级、WorkBuddy及CodeBuddy推理的需求、微信AI举措，以及我们各项产品与服务的AI能力建设，同时满足外部客户对我们的云服务持续增长的需求。若剔除算力采购的预付款项，我们的自由现金流为人民币376亿元。",
+          "url": "https://wallstreetcn.com/livenews/3148530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "苹果负责支付与钱包服务的高管Jennifer Bailey将于10月份离职。",
           "url": "https://wallstreetcn.com/livenews/3148201",
           "source": "华尔街见闻-快讯",
@@ -229,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "阿里巴巴前AI架构师创办新公司 获腾讯和红杉投资",
+          "url": "https://wallstreetcn.com/livenews/3148525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "怎么看AI突破黎曼猜想下界",
@@ -282,6 +305,28 @@
           "time_info": "[05时39分 ~ 07时33分]"
         },
         {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.toutiao.com/trending/7672213418782588964/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时05分]"
+        },
+        {
+          "title": "AI科创润童心 网络安全伴成长",
+          "url": "https://www.douyin.com/hot/2607024",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时05分]"
+        },
+        {
           "title": "曝小红书打造全新“AI导购”功能，官方暂无回应",
           "url": "https://wallstreetcn.com/livenews/3148389",
           "source": "华尔街见闻-快讯",
@@ -304,6 +349,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时15分 ~ 11时59分]"
+        },
+        {
+          "title": "事关AI支出激增影响！高盛：多头和空头都判断错了",
+          "url": "https://www.cls.cn/detail/2451842",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "SpaceXAI：Grok聊天机器人已处于测试阶段，今日起向订阅SuperGrok Heavy、Cursor Ultra与Cursor Teams Premium套餐的桌面端及iOS用户开放使用。",
@@ -347,7 +403,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -361,17 +417,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.toutiao.com/trending/7672213418782588964/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
         },
         {
           "title": "机构：AI需求激增 2026年半导体市场增幅上调至94.1%",
@@ -407,26 +452,26 @@
           "time_info": "07时33分"
         },
         {
-          "title": "AI科创润童心 网络安全伴成长",
-          "url": "https://www.douyin.com/hot/2607024",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
           "title": "鸿海：预计第三季度营收将同比增长。 预计2026财年收入同比增长。 预计第三季度零部件及其他产品营收将实现显著同比增长。 第三季度AI机架出货量环比增长预计将达到高双位数。 AI基础设施正推动增长，对AI服务器前景持强劲看法。 预计强劲的AI需求将推动全年增长。",
           "url": "https://wallstreetcn.com/livenews/3148458",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "“千问AI Arena”上线 首个任务聚焦跨境电商",
+          "url": "https://wallstreetcn.com/livenews/3148509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "知情人士透露，AI初创公司Cognition正与投资者就新一轮融资进行早期洽谈，这可能会使这家AI初创公司的估值提升50%以上，达到至少400亿美元。（彭博）",
@@ -438,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "腾讯控股(00700.HK)：最近数周启动了微信内AI智能体小微的小范围灰度测试；小微由专注于用户隐私、微信场景和推理效率的定制化模型WeLM驱动。",
+          "url": "https://flash.jin10.com/detail/20260812163528219800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "易中天用AI解读庄子",
@@ -460,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "AI板块过热叠加能源通胀风险，押注能源股或是完美对冲选择 | 每日市场观察08.12",
+          "url": "https://flash.jin10.com/detail/20260812163445071800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "AI居然学会了势利眼",
@@ -523,7 +590,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -686,11 +753,23 @@
           "ranks": [
             3,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 17时05分]"
+        },
+        {
+          "title": "马斯克推荐“去中国看看”打了谁的脸",
+          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 17时05分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，马斯克密友格拉西亚斯截至2026年6月30日持有SpaceX(SPCX.O)6.5%的被动股权。",
@@ -715,17 +794,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 02时52分]"
-        },
-        {
-          "title": "马斯克推荐“去中国看看”打了谁的脸",
-          "url": "https://news.ifeng.com/c/8vWMaBULmmE",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 15时13分]"
         },
         {
           "title": "马斯克押注智能体再出招：“数字同事”Grok Bot上线",
