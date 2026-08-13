@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T20:53:28.336606+08:00",
-  "total_titles_processed": 1530,
+  "generated_at": "2026-08-13T22:18:46.473137+08:00",
+  "total_titles_processed": 1650,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -31,8 +31,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时53分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[02时53分 ~ 22时18分]"
+        },
+        {
+          "title": "AI给假网,吧友中招银狐病毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时15分 ~ 22时18分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -45,24 +58,12 @@
             16,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 20时53分]"
-        },
-        {
-          "title": "AI给假网,吧友中招银狐病毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357340&amp;topic_name=AI%E7%BB%99%E5%81%87%E7%BD%91%2C%E5%90%A7%E5%8F%8B%E4%B8%AD%E6%8B%9B%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 22时18分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -136,11 +137,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 20时53分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 22时18分]"
         },
         {
           "title": "美国里士满联储主席巴尔金：美国的投资热潮并不仅限于数据中心。 当前通胀很大程度上源于应当会消退的冲击。 包括人工智能在内的一些通胀驱动因素可能具有持续性。 认为加息存在正反两方面的理由。 美国经济在消费者驱动下仍保持韧性。 AI投资似乎对利率水平具有免疫力。",
@@ -149,7 +151,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -173,8 +175,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 20时53分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 22时18分]"
         },
         {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
@@ -226,6 +228,17 @@
           "time_info": "[17时56分 ~ 18时56分]"
         },
         {
+          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779354",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 22时18分]"
+        },
+        {
           "title": "SpaceXAI宣布推出Grok 4.6",
           "url": "https://wallstreetcn.com/livenews/3148703",
           "source": "华尔街见闻-快讯",
@@ -238,26 +251,27 @@
           "time_info": "[00时50分 ~ 02时53分]"
         },
         {
-          "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779354",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
           "title": "AI拍出中国版怪奇物语",
           "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 22时18分]"
+        },
+        {
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
           "source": "抖音",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "22时18分"
         },
         {
           "title": "美股AI算力和存储芯片爆发",
@@ -277,9 +291,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "大疆发布第二代全景相机，AI成为影像产品升级重点",
+          "url": "https://wallstreetcn.com/livenews/3149188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "英国央行料AI泡沫破裂恐使资金同时撤出美股美债 对英国产生连带冲击",
@@ -288,7 +313,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -332,7 +357,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -442,7 +467,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -573,11 +598,12 @@
             21,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时50分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 22时18分]"
         },
         {
           "title": "梁文锋、马斯克同日上新",
@@ -671,8 +697,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时56分 ~ 20时53分]"
+          "appearance_count": 5,
+          "time_info": "[17时56分 ~ 22时18分]"
         },
         {
           "title": "Deepseek V4Pro 正式版发布，相比 Claude Fable 5 等模型，性能如何？性价比高吗？",
@@ -685,6 +711,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时17分 ~ 12时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     }
