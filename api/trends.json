@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T05:38:14.763559+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-08-14T07:34:40.218823+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -15,8 +15,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 07时34分]"
+        },
+        {
+          "title": "用AI给小时候的自己做头像",
+          "url": "https://www.douyin.com/hot/2608882",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
+        },
+        {
+          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
         },
         {
           "title": "AI服务器订单爆发！联想Q1财季营收同比增43%，经调整净利润增176%，股价大涨创新高 | 财报见闻",
@@ -27,43 +53,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
-        },
-        {
-          "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
-        },
-        {
-          "title": "用AI给小时候的自己做头像",
-          "url": "https://www.douyin.com/hot/2608882",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
-        },
-        {
-          "title": "AI拍出中国版怪奇物语",
-          "url": "https://www.douyin.com/hot/2608564",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -71,11 +62,24 @@
           "source": "抖音",
           "ranks": [
             23,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
+        },
+        {
+          "title": "AI拍出中国版怪奇物语",
+          "url": "https://www.douyin.com/hot/2608564",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
@@ -85,8 +89,30 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 07时34分]"
+        },
+        {
+          "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
+          "url": "https://wallstreetcn.com/livenews/3149345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
+          "url": "https://wallstreetcn.com/articles/3779359",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         },
         {
           "title": "受Workday被收购报道影响，AI应用软件股集体冲高，Cloudflare、MongoDB涨超6%，Palantir、赛富时涨超4%，Applovin、ServiceNow涨超3%； 扩展科技软件行业ETF-iShares (IGV.US)涨超2%。",
@@ -113,8 +139,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
         },
         {
           "title": "马斯克安利中国,外网闹麻",
@@ -124,8 +150,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 07时34分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
@@ -134,9 +160,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
+          "url": "https://flash.jin10.com/detail/20260814060455667800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时34分"
         }
       ]
     },
@@ -145,26 +199,28 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
-          "url": "https://wallstreetcn.com/articles/3779332",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 05时38分]"
-        },
-        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[05时37分 ~ 07时34分]"
+        },
+        {
+          "title": "DeepSeek智能体曝光！人人用得起的Agent？",
+          "url": "https://wallstreetcn.com/articles/3779332",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时34分 ~ 07时34分]"
         }
       ]
     },
@@ -173,20 +229,21 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "曝苹果iPhone 18搭载12GB内存",
-          "url": "https://www.toutiao.com/trending/7672947112560197686/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "iPhone18系列发布节奏确认",
           "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 07时34分]"
+        },
+        {
+          "title": "曝苹果iPhone 18搭载12GB内存",
+          "url": "https://www.toutiao.com/trending/7672947112560197686/",
+          "source": "今日头条",
           "ranks": [
             29
           ],
@@ -215,19 +272,19 @@
       ]
     },
     {
-      "keyword_group": "房价 楼市 房地产",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时38分"
+          "time_info": "07时34分"
         }
       ]
     },
