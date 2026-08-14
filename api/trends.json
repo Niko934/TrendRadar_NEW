@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T11:59:58.789803+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-08-14T13:39:21.861337+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI给假网,吧友中招银狐病毒",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时34分 ~ 11时59分]"
+          "appearance_count": 6,
+          "time_info": "[04时34分 ~ 13时39分]"
         },
         {
           "title": "受益AI需求外溢，中芯国际Q2营收突破30亿美元，净利暴增近4倍，Q3收入环比预增2%至4%｜财报见闻",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时34分 ~ 11时59分]"
+          "appearance_count": 7,
+          "time_info": "[04时34分 ~ 13时39分]"
         },
         {
           "title": "用AI给小时候的自己做头像",
@@ -44,8 +44,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时34分 ~ 11时59分]"
+          "appearance_count": 7,
+          "time_info": "[04时34分 ~ 13时39分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
@@ -58,8 +58,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时34分 ~ 11时59分]"
+          "appearance_count": 7,
+          "time_info": "[04时34分 ~ 13时39分]"
         },
         {
           "title": "AI拍出中国版怪奇物语",
@@ -68,22 +68,12 @@
           "ranks": [
             17,
             16,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时34分 ~ 11时59分]"
-        },
-        {
-          "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
-          "url": "https://flash.jin10.com/detail/20260814114429385800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
+          "appearance_count": 7,
+          "time_info": "[04时34分 ~ 13时39分]"
         },
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
@@ -92,7 +82,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时39分]"
+        },
+        {
+          "title": "光速关服,AI虚拟歌姬停运",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时34分 ~ 13时39分]"
+        },
+        {
+          "title": "AMD完成历史最大债券发行！47.5亿美元融资瞄准AI基础设施扩张",
+          "url": "https://flash.jin10.com/detail/20260814114429385800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -109,16 +123,16 @@
           "time_info": "[04时34分 ~ 09时16分]"
         },
         {
-          "title": "光速关服,AI虚拟歌姬停运",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
-          "source": "贴吧",
+          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
+          "url": "https://www.zhihu.com/question/2068993919958742400",
+          "source": "知乎",
           "ranks": [
-            26,
-            27
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时34分 ~ 11时59分]"
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 13时39分]"
         },
         {
           "title": "AI驱动半导体景气度高涨，两大晶圆厂第二季度收入均创新高",
@@ -130,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "戚薇推出数字分身，成为首位内娱开放 AI 授权的艺人，明星拥抱数字分身将带来哪些新变化？",
-          "url": "https://www.zhihu.com/question/2068993919958742400",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时59分"
         },
         {
           "title": "“大空头”再炮轰：英伟达AI扩张有“安然的影子”、危害“高出几个数量级”",
@@ -160,9 +163,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "苹果未来几个月将在中国发布一套AI工具，该AI模型的训练得到阿里巴巴的支持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3149477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "华泰证券：算力升级下AI电源或呈现四大趋势",
@@ -182,7 +196,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -193,7 +207,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -204,7 +218,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -223,7 +237,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克一句“中国太棒了”刷屏海外",
@@ -244,7 +258,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -259,6 +273,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时34分 ~ 11时59分]"
+        },
+        {
+          "title": "马斯克：试试Grok 4.6的图像和视频理解功能，这是一次重大升级。",
+          "url": "https://flash.jin10.com/detail/20260814125846480800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，截至6月30日马斯克持有48.4%的SpaceX(SPCX.O)被动股份。",
@@ -284,7 +309,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -306,7 +331,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
         },
@@ -320,6 +345,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "iPhone18系列发布节奏确认",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 07时34分]"
+        },
+        {
+          "title": "首款折叠iPhone",
+          "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0iPhone&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "曝苹果iPhone 18搭载12GB内存",
+          "url": "https://www.toutiao.com/trending/7672947112560197686/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
         }
       ]
     },
@@ -378,35 +443,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "iPhone18系列发布节奏确认",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E8%8A%82%E5%A5%8F%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 07时34分]"
-        },
-        {
-          "title": "曝苹果iPhone 18搭载12GB内存",
-          "url": "https://www.toutiao.com/trending/7672947112560197686/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
         }
       ]
     },
