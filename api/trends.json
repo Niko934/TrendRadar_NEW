@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T05:14:17.276134+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-08-17T06:14:19.863730+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "全球开源AI大洗牌 中国开源模型加速崛起",
@@ -39,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
@@ -50,8 +50,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "南极冰川现“神秘生物”系AI生成",
@@ -61,8 +61,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "一条AI短片演绎时间焦虑",
@@ -71,11 +71,12 @@
           "ranks": [
             14,
             15,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "AI正在批量制造“幽灵”",
@@ -84,11 +85,12 @@
           "ranks": [
             23,
             21,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "明查｜南极冰川现“神秘生物”？AI又整活了",
@@ -99,8 +101,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "大爷手搓AI长片赛博英雄传",
@@ -112,8 +114,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "AI公司或在抢购未经污染的二手书",
@@ -151,8 +153,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -162,8 +164,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -173,8 +175,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -185,8 +187,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     },
@@ -202,8 +204,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -213,8 +215,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     },
@@ -233,8 +235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     },
@@ -250,8 +252,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 05时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     }
