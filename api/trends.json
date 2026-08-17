@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:25:40.990339+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-08-17T22:21:27.063173+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
@@ -111,6 +111,30 @@
           "time_info": "08时49分"
         },
         {
+          "title": "大批AI博主停更了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 22时21分]"
+        },
+        {
           "title": "AI融资需求不断攀升 Alphabet考虑首次发行澳元债券",
           "url": "https://wallstreetcn.com/livenews/3150129",
           "source": "华尔街见闻-快讯",
@@ -182,18 +206,6 @@
           "time_info": "[11时43分 ~ 14时38分]"
         },
         {
-          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
-          "url": "https://www.zhihu.com/question/2061136311206073648",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 18时25分]"
-        },
-        {
           "title": "哪些券商的Skills率先在work buddy上线了？AI竞争换了战场",
           "url": "https://www.cls.cn/detail/2455726",
           "source": "财联社热门",
@@ -204,6 +216,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时38分 ~ 18时25分]"
+        },
+        {
+          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
+          "url": "https://wallstreetcn.com/articles/3779562",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时21分]"
         },
         {
           "title": "报价30万美元！AI开始“吃”倒闭公司的聊天记录了",
@@ -241,24 +265,13 @@
           "time_info": "[08时48分 ~ 08时49分]"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        },
-        {
           "title": "AI“养蛊”早期观察：Anthropic警告智能体为争夺地盘相互谋划“暗杀”",
           "url": "https://www.cls.cn/detail/2455627",
           "source": "财联社热门",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -280,7 +293,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -305,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "如何评价 Xiaohai（曾卓君）在 2026 美国 CEO 大赛《饿狼传说》项目中成功卫冕？",
+          "url": "https://www.zhihu.com/question/2072607943191696624",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "AI前沿日报-8月17日",
@@ -351,6 +375,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "AI12分钟写完剧本 编剧要失业了吗",
+          "url": "https://www.baidu.com/s?wd=AI12%E5%88%86%E9%92%9F%E5%86%99%E5%AE%8C%E5%89%A7%E6%9C%AC+%E7%BC%96%E5%89%A7%E8%A6%81%E5%A4%B1%E4%B8%9A%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "AI动画版大圣归来",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E7%89%88%E5%A4%A7%E5%9C%A3%E5%BD%92%E6%9D%A5",
           "source": "bilibili 热搜",
@@ -360,12 +395,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美团启动2027届校园招聘，新增十余种AI原生岗位",
+          "url": "https://wallstreetcn.com/livenews/3150521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -438,6 +484,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "英伟达：OpenAI已承诺到2030年大规模部署英伟达AI基础设施，现有及计划中的部署规模约为12吉瓦",
+          "url": "https://wallstreetcn.com/livenews/3150525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "OpenAI：利用模型帮助保障代码安全。 将模型用于基础设施防御工作。 持续投资于安全架构与管控措施。",
+          "url": "https://wallstreetcn.com/livenews/3150523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
@@ -485,6 +553,50 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？",
+          "url": "https://www.zhihu.com/question/2071334965493682184",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            10,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 08时49分]"
+        },
+        {
+          "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
+          "url": "https://www.cls.cn/detail/2456299",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
+          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
+          "url": "https://wallstreetcn.com/articles/3779596",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 22时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "anthropic claude",
       "match_count": 3,
       "titles": [
@@ -525,40 +637,8 @@
       ]
     },
     {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？",
-          "url": "https://www.zhihu.com/question/2071334965493682184",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            10,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 08时49分]"
-        },
-        {
-          "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
-          "url": "https://wallstreetcn.com/articles/3779596",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "iPhone17或全球涨价",
@@ -581,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
+        },
+        {
+          "title": "iPhone17国内销量曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E5%9B%BD%E5%86%85%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     }
