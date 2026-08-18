@@ -1,340 +1,143 @@
 {
-  "generated_at": "2026-08-18T18:21:44.671212+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-08-19T04:15:38.287080+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "大批AI博主停更了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
           "url": "https://wallstreetcn.com/articles/3779638",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
-          "title": "功率半导体又酝酿涨价？AI用电拉动需求 部分企业或10月行动",
-          "url": "https://www.cls.cn/detail/2457030",
-          "source": "财联社热门",
+          "title": "集中撤榜,起点斩杀AI文",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358398&amp;topic_name=%E9%9B%86%E4%B8%AD%E6%92%A4%E6%A6%9C%2C%E8%B5%B7%E7%82%B9%E6%96%A9%E6%9D%80AI%E6%96%87",
+          "source": "贴吧",
           "ranks": [
-            4
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "小米AIoT平台连接设备同比增长17.4%，智能生态粘性持续增强",
-          "url": "https://wallstreetcn.com/livenews/3151037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
           "title": "AI资本开支疑虑缓解，美光、闪迪等存储股迎来重估，带动芯片指数重返牛市",
           "url": "https://wallstreetcn.com/articles/3779645",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 18时21分]"
-        },
-        {
-          "title": "姜月初刷新AI漫剧女打一天花板",
-          "url": "https://www.douyin.com/hot/2613313",
-          "source": "抖音",
-          "ranks": [
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 18时21分]"
-        },
-        {
-          "title": "黄仁勋称失去中国市场美国AI必败",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E5%A4%B1%E5%8E%BB%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%BE%8E%E5%9B%BDAI%E5%BF%85%E8%B4%A5&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "AI暗雷！美科技巨头表外负债膨胀至3万亿美元，约为年资本开支的5倍",
+          "url": "https://wallstreetcn.com/articles/3779679",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
-          "title": "资本关键时刻来临？AI叙事从技术转向融资，巨头现金流告急、债市已拉响警报",
-          "url": "https://wallstreetcn.com/articles/3779562",
+          "title": "“新债王”Gundlach警告：芯片变“新资产类别”是AI牛市见顶信号",
+          "url": "https://wallstreetcn.com/articles/3779682",
           "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
-          "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
-          "url": "https://www.zhihu.com/question/2063294189954250663",
-          "source": "知乎",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A3%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8E%A8%E5%8A%A8AI%E6%9D%BF%E5%9D%97%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
-          "title": "美股收盘：3大利好推动AI板块逆势走强",
-          "url": "https://www.toutiao.com/trending/7675142828237786670/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
-          "title": "微盟上半年实现AI收入1.33亿元 同比增长89.2%",
-          "url": "https://flash.jin10.com/detail/20260818174621862800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "AI大战转折点？与管理层会面后，华尔街的感受：腾讯在打“中途岛战役”",
-          "url": "https://wallstreetcn.com/articles/3779652",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "创业板跌近1%，农业股逆势爆发，年内最贵新股上市首日暴涨超500%，港股阿里午后拉升涨近4%，AI大模型双雄齐跌",
-          "url": "https://wallstreetcn.com/articles/3779668",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
           "title": "新规一刀切,AI漫剧被迫停更",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358152&amp;topic_name=%E6%96%B0%E8%A7%84%E4%B8%80%E5%88%80%E5%88%87%2CAI%E6%BC%AB%E5%89%A7%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
           "source": "贴吧",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
-          "title": "AI漫剧全集花费超过电影票",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%AB%E5%89%A7%E5%85%A8%E9%9B%86%E8%8A%B1%E8%B4%B9%E8%B6%85%E8%BF%87%E7%94%B5%E5%BD%B1%E7%A5%A8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "美国多州收紧数据中心建设 AI扩张面临监管压力",
+          "url": "https://flash.jin10.com/detail/20260819032351208800",
+          "source": "金十数据",
           "ranks": [
-            14
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "UP主用AI给盲人装上眼睛",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
           "title": "公安机关公布14起涉企网络谣言案例：编造智驾事故，AI生成假车祸视频",
           "url": "https://m.thepaper.cn/newsDetail_forward_33803492",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
-          "title": "小米集团 第二季度营收1,089.2亿元人民币，同比下降6.1%，预估1,083.3亿元人民币。 第二季度营业利润108.7亿元人民币，同比下降19%，预估58.5亿元人民币。 第二季度净利润94.6亿元人民币，同比增加21%，预估57.6亿元人民币。 第二季度资本支出36.2亿元人民币，预估23.9亿元人民币。 第二季度智能电动汽车及AI等创新业务收入249.0亿元人民币，同比增长17%，预估249亿元人民币。 上半年营收2,080.6亿元人民币；净利润141.9亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3151006",
-          "source": "华尔街见闻-快讯",
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
           "ranks": [
-            19
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
-          "title": "百度Q2 AI业务收入占比连续过半",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BE%E5%BA%A6Q2+AI%E4%B8%9A%E5%8A%A1%E6%94%B6%E5%85%A5%E5%8D%A0%E6%AF%94%E8%BF%9E%E7%BB%AD%E8%BF%87%E5%8D%8A",
-          "source": "百度热搜",
+          "title": "柯洁装弱智赢AI围棋",
+          "url": "https://s.weibo.com/weibo?q=%E6%9F%AF%E6%B4%81%E8%A3%85%E5%BC%B1%E6%99%BA%E8%B5%A2AI%E5%9B%B4%E6%A3%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            20
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "04时15分"
         },
         {
-          "title": "小米集团：2026年第二季度手机×AIoT分部收入为人民币840亿元",
-          "url": "https://flash.jin10.com/detail/20260818173412879800",
-          "source": "金十数据",
+          "title": "UP主用AI给盲人装上眼睛",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E7%BB%99%E7%9B%B2%E4%BA%BA%E8%A3%85%E4%B8%8A%E7%9C%BC%E7%9D%9B",
+          "source": "bilibili 热搜",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一线城市二手房价格连续5个月环比上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 18时21分]"
+          "time_info": "04时15分"
         },
         {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
-          "source": "财联社热门",
+          "title": "自制AI电影出马仙镇东北",
+          "url": "https://search.bilibili.com/all?keyword=%E8%87%AA%E5%88%B6AI%E7%94%B5%E5%BD%B1%E5%87%BA%E9%A9%AC%E4%BB%99%E9%95%87%E4%B8%9C%E5%8C%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        },
-        {
-          "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
-          "url": "https://www.cls.cn/detail/2456299",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月18日）】<br/>人工智能：<br/><span class=\"section-news\">1. Anthropic年化营收在IPO前突破650亿美元。</span><br/><span class=\"section-news\">2. 字节跳动与美国电影协会签署协议，加强AI模型版权保护。</span><br/><span class=\"section-news\">3. 英伟达与SB Energy合作开发美国俄亥俄州8吉瓦超大规模AI数据中心，并向SB Energy投资15亿美元。</span><br/><span class=\"section-news\">4. 英伟达：OpenAI承诺在2030年前大规模部署英伟达AI基础设施，对应约6000亿美元计算业务规模。</span><br/>其他：<br/><span class=\"section-news\">1. Meta天价索赔案将于周二开始庭审。</span><br/><span class=\"section-news\">2. 九光发布人形机械人 能举起50公斤重杠铃。</span><br/><span class=\"section-news\">3. 中信资本收购阿里旗下灵犀互娱已正式生效。</span><br/><span class=\"section-news\">4. 小米汽车：小米SU7系列，28.5个月交付突破50万台。</span><br/><span class=\"section-news\">5. 宇树机器人原地跳高2米，极限速度12.66m/s，超越全世界全人类原地跳高和奔跑速度记录。 </span>",
-          "url": "https://flash.jin10.com/detail/20260818072606933800",
-          "source": "金十数据",
-          "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "半年翻7倍！Anthropic“年化营收”据传已突破650亿美元",
-          "url": "https://www.cls.cn/detail/2456549",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时47分 ~ 08时48分]"
+          "time_info": "04时15分"
         }
       ]
     }
