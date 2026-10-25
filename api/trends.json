@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T03:29:08.815551+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-10-26T06:13:36.709999+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -49,8 +49,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
@@ -61,8 +61,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
@@ -83,8 +83,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
@@ -94,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
@@ -105,8 +105,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
@@ -117,8 +117,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "丈母娘也开始抢AI人了",
@@ -126,11 +126,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "央视批AI魔改经典名著",
@@ -140,8 +141,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时13分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时13分]"
+        },
+        {
+          "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
+          "url": "https://wallstreetcn.com/livenews/3185242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 06时13分]"
         },
         {
           "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
@@ -179,26 +203,89 @@
           "time_info": "[01时31分 ~ 03时29分]"
         },
         {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
+          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+          "url": "https://www.cls.cn/detail/2514471",
+          "source": "财联社热门",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 03时29分]"
-        },
-        {
-          "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
-          "url": "https://wallstreetcn.com/livenews/3185242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "06时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克：乌克兰人和俄罗斯人之间无休止的杀戮必须停止。",
+          "url": "https://wallstreetcn.com/livenews/3185240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 06时13分]"
+        },
+        {
+          "title": "马斯克：SpaceX为购买GPU完成400亿美元的债务融资。",
+          "url": "https://wallstreetcn.com/livenews/3185256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "马斯克：我们也应该对那些可怜的俄罗斯应征入伍士兵抱有一些同情。这些年轻人别无选择，只能上战场，并在无人机袭击中丧生。",
+          "url": "https://flash.jin10.com/detail/20261026003711430800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "马斯克：债务市场环境严峻，200余家新型算力云企业将迎来整合",
+          "url": "https://wallstreetcn.com/livenews/3185252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "马斯克称SpaceX为采购GPU融资400亿美元",
+          "url": "https://flash.jin10.com/detail/20261026040709068800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "马斯克：SpaceX为购买GPU完成了400亿美元的债务融资。这主要是用于采购将于第一季度和第二季度交付的GPU的可赎回债务，对本季度影响不大。",
+          "url": "https://flash.jin10.com/detail/20261026034305099800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         }
       ]
     },
@@ -214,8 +301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "iPhone Duo防尘测试翻车",
@@ -226,8 +313,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         },
         {
           "title": "iPhone Duo开售2天就跌破官方首发价",
@@ -237,37 +324,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克：乌克兰人和俄罗斯人之间无休止的杀戮必须停止。",
-          "url": "https://wallstreetcn.com/livenews/3185240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 03时29分]"
-        },
-        {
-          "title": "马斯克：我们也应该对那些可怜的俄罗斯应征入伍士兵抱有一些同情。这些年轻人别无选择，只能上战场，并在无人机袭击中丧生。",
-          "url": "https://flash.jin10.com/detail/20261026003711430800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 06时13分]"
         }
       ]
     },
