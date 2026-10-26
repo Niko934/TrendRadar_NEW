@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T08:55:55.519895+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-10-26T13:41:06.726299+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
@@ -30,6 +30,18 @@
           "time_info": "[01时31分 ~ 06时13分]"
         },
         {
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时41分]"
+        },
+        {
           "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
           "url": "https://wallstreetcn.com/articles/3784405",
           "source": "华尔街见闻",
@@ -42,26 +54,52 @@
           "time_info": "[01时31分 ~ 08时55分]"
         },
         {
+          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
+          "url": "https://wallstreetcn.com/articles/3784410",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时31分 ~ 13时41分]"
+        },
+        {
+          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
+          "url": "https://www.cls.cn/detail/2514496",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "中信证券：GPT-6 Astra进入机器人控制 物理AI迎来重大拐点",
           "url": "https://flash.jin10.com/detail/20261026082448290800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
         {
-          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-          "url": "https://wallstreetcn.com/articles/3784282",
-          "source": "华尔街见闻",
+          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
+          "url": "https://www.cls.cn/detail/2514471",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时13分 ~ 13时41分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -82,21 +120,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
-        },
-        {
-          "title": "SemiAnalysis创始人深度解析：AI投资还能撑多久？英伟达护城河还能守住吗？内存荒何时结束？",
-          "url": "https://wallstreetcn.com/articles/3784410",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时31分 ~ 08时55分]"
         },
         {
           "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
@@ -123,6 +149,19 @@
           "time_info": "[01时31分 ~ 08时55分]"
         },
         {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 13时41分]"
+        },
+        {
           "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
           "url": "https://www.cls.cn/detail/2514315",
           "source": "财联社热门",
@@ -147,6 +186,18 @@
           "time_info": "[01时31分 ~ 08时55分]"
         },
         {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 13时41分]"
+        },
+        {
           "title": "2026全球治理论坛（雄安）丨如何应对AI安全风险？中外专家给出了答案",
           "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
           "source": "澎湃新闻",
@@ -157,29 +208,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 06时13分]"
-        },
-        {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 08时55分]"
-        },
-        {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 08时55分]"
         },
         {
           "title": "丈母娘也开始抢AI人了",
@@ -207,16 +235,15 @@
           "time_info": "[03时28分 ~ 08时55分]"
         },
         {
-          "title": "首部AI院线电影《三星堆·未来往事》遇冷，上映3天收获115万票房",
-          "url": "https://www.cls.cn/detail/2514471",
-          "source": "财联社热门",
+          "title": "周末，物理AI“刷屏”",
+          "url": "https://wallstreetcn.com/articles/3784428",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时13分 ~ 08时55分]"
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "日本软银计划计划在马来西亚投资500亿美元发展人工智能（AI）。",
@@ -229,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时29分 ~ 06时13分]"
+        },
+        {
+          "title": "媒体：让AI与骗子周旋值得借鉴",
+          "url": "https://www.toutiao.com/trending/7700775322890829833/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "首部AI院线电影，票房过百万",
@@ -255,13 +293,46 @@
           "time_info": "[01时31分 ~ 03时29分]"
         },
         {
+          "title": "老干妈AI裁员传闻引争议",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%B9%B2%E5%A6%88AI%E8%A3%81%E5%91%98%E4%BC%A0%E9%97%BB%E5%BC%95%E4%BA%89%E8%AE%AE&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "比尔·盖茨谈AI对人类工作的冲击",
+          "url": "https://www.toutiao.com/trending/7700200466793267236/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
+          "title": "AI生成视频已能逃过人脸识别系统",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E5%B7%B2%E8%83%BD%E9%80%83%E8%BF%87%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E7%B3%BB%E7%BB%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
+        },
+        {
           "title": "S16进入大AI时代",
           "url": "https://www.douyin.com/hot/2712181",
           "source": "抖音",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -272,7 +343,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         },
@@ -283,7 +354,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -291,7 +362,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：乌克兰人和俄罗斯人之间无休止的杀戮必须停止。",
@@ -305,6 +376,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时31分 ~ 06时13分]"
+        },
+        {
+          "title": "马斯克官宣：SpaceX举债400亿美元采购GPU 警告新云厂商危机将至",
+          "url": "https://www.cls.cn/detail/2514601",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "马斯克：SpaceX为购买GPU完成400亿美元的债务融资。",
@@ -365,7 +447,7 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果首款折叠屏iPhone Duo出师不利：有人折不到20次就裂屏了",
@@ -377,6 +459,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时31分 ~ 08时55分]"
+        },
+        {
+          "title": "苹果称很多客户取消iPhoneDuo订单",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%A7%B0%E5%BE%88%E5%A4%9A%E5%AE%A2%E6%88%B7%E5%8F%96%E6%B6%88iPhoneDuo%E8%AE%A2%E5%8D%95%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "iPhone Duo防尘测试翻车",
@@ -406,11 +499,23 @@
           "url": "https://www.zhihu.com/question/2097264250158949631",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时55分 ~ 13时41分]"
+        },
+        {
+          "title": "第一批拿到iPhone Duo的人有点烧心",
+          "url": "https://www.baidu.com/s?wd=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%8B%BF%E5%88%B0iPhone+Duo%E7%9A%84%E4%BA%BA%E6%9C%89%E7%82%B9%E7%83%A7%E5%BF%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "第一批拿到iPhone Duo的人还好吗",
@@ -419,7 +524,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
@@ -453,7 +558,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
         }
