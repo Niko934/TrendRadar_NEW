@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-27T06:59:18.002007+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2026-10-27T09:50:30.536594+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
-          "url": "https://www.zhihu.com/question/2098102680065237063",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
-        },
         {
           "title": "菲尔兹奖得主邓煜评论 AI 公司「你不能只在你蒸馏全人类的知识时支持蒸馏」，如何看待模型厂的反蒸馏？",
           "url": "https://www.zhihu.com/question/2097984108207027914",
@@ -30,37 +19,75 @@
           "time_info": "[03时21分 ~ 06时59分]"
         },
         {
-          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
-        },
-        {
           "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
           "url": "https://wallstreetcn.com/articles/3784464",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 09时50分]"
         },
         {
           "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2515881",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 09时50分]"
+        },
+        {
+          "title": "蚂蚁灵光2.0全新升级“能管事的AI助理”",
+          "url": "https://wallstreetcn.com/livenews/3186576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "如何看待老干妈回应「用 AI 把 600 名工人裁到 48 人」，称是不实信息？品牌能挽回消费者信任吗？",
+          "url": "https://www.zhihu.com/question/2098102680065237063",
+          "source": "知乎",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
+        },
+        {
+          "title": "AI被当真人,大肥鱼遭网恋哥骚扰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368128&amp;topic_name=AI%E8%A2%AB%E5%BD%93%E7%9C%9F%E4%BA%BA%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E9%81%AD%E7%BD%91%E6%81%8B%E5%93%A5%E9%AA%9A%E6%89%B0",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
+        },
+        {
+          "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34335625",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
         },
         {
           "title": "周末，物理AI“刷屏”",
@@ -75,16 +102,53 @@
           "time_info": "[03时21分 ~ 06时59分]"
         },
         {
-          "title": "众声丨用AI伪造父亲重病视频诈骗好友，步步踩在人心最不设防处",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34335625",
-          "source": "澎湃新闻",
+          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
+          "url": "https://wallstreetcn.com/articles/3784484",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
+        },
+        {
+          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2098146460403615476",
+          "source": "知乎",
+          "ranks": [
+            8,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
+        },
+        {
+          "title": "央视批AI魔改经典名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
+        },
+        {
+          "title": "B站肥鱼成灾,AI评论泛滥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
         },
         {
           "title": "AI短片《齐天大圣》为何能引发关注",
@@ -99,28 +163,16 @@
           "time_info": "[03时21分 ~ 06时59分]"
         },
         {
-          "title": "如何看待 Anthropic 提交 IPO 申请，将以「ANT」为代码登陆纳斯达克？会给 AI 行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2098146460403615476",
-          "source": "知乎",
+          "title": "微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算",
+          "url": "https://www.cls.cn/detail/2515838",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            11
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
-        },
-        {
-          "title": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药",
-          "url": "https://wallstreetcn.com/articles/3784484",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
+          "time_info": "[06时59分 ~ 09时50分]"
         },
         {
           "title": "AI伪人广告正在集体“霸凌”人类",
@@ -135,37 +187,49 @@
           "time_info": "[03时21分 ~ 06时59分]"
         },
         {
-          "title": "央视批AI魔改经典名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368017&amp;topic_name=%E5%A4%AE%E8%A7%86%E6%89%B9AI%E9%AD%94%E6%94%B9%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97",
-          "source": "贴吧",
+          "title": "Meta拟融资950亿美元砸向AI，英伟达、AMD、博通有意认购至多50亿美元股票",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34335837",
+          "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
+          "time_info": "[06时59分 ~ 09时50分]"
         },
         {
-          "title": "B站肥鱼成灾,AI评论泛滥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368005&amp;topic_name=B%E7%AB%99%E8%82%A5%E9%B1%BC%E6%88%90%E7%81%BE%2CAI%E8%AF%84%E8%AE%BA%E6%B3%9B%E6%BB%A5",
-          "source": "贴吧",
+          "title": "史上最大IPO 史上最亏AI公司",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7IPO+%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%BA%8FAI%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
-        },
-        {
-          "title": "微软向约6万名员工开放自愿离职方案 AI巨额投入挤压人力预算",
-          "url": "https://www.cls.cn/detail/2515838",
-          "source": "财联社热门",
-          "ranks": [
-            12
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "马上评｜老干妈用AI把600名拣椒工裁到48人？宣传AI降本也别忘了人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34336116",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "老干妈HR回应AI裁员传闻",
+          "url": "https://www.douyin.com/hot/2714511",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "IBM与英伟达将AI智能体身份和运行时访问控制绑定。",
@@ -190,15 +254,15 @@
           "time_info": "03时21分"
         },
         {
-          "title": "Meta拟融资950亿美元砸向AI，英伟达、AMD、博通有意认购至多50亿美元股票",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34335837",
-          "source": "澎湃新闻",
+          "title": "S16进入大AI时代",
+          "url": "https://www.douyin.com/hot/2712181",
+          "source": "抖音",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时59分"
+          "time_info": "09时50分"
         },
         {
           "title": "专家：AI视频生成下一步是更高级智能",
@@ -207,7 +271,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -229,7 +293,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -240,7 +304,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         }
@@ -248,8 +312,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "OpenAI公布三项科学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
         {
           "title": "OpenAI推出GPT-6.1 Terra，电脑操作速度提升逾3倍 API价格降低50%",
           "url": "https://wallstreetcn.com/livenews/3186427",
@@ -262,15 +337,48 @@
           "time_info": "03时21分"
         },
         {
+          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2515893",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "OpenAI宣布AI取得三项科学突破，涉及数学猜想、计算机算法及千禧年难题",
           "url": "https://wallstreetcn.com/livenews/3186491",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
+        },
+        {
+          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
+          "url": "https://www.zhihu.com/question/2098291700204622696",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
+          "url": "https://www.zhihu.com/question/2098252387312058852",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "OpenAI推出GPT-6.1 Terra 电脑操作速度提升逾3倍 API价格降低50%",
@@ -290,7 +398,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -312,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -323,7 +431,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         }
@@ -331,8 +439,19 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "苹果回应iPhone Duo内屏开裂：大多数设备不受影响，用户可联系AppleCare换机",
+          "url": "https://www.cls.cn/detail/2515848",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
         {
           "title": "iPhone Duo黄牛行情“高开低走”，上市四日溢价空间已缩至数百元",
           "url": "https://m.thepaper.cn/newsDetail_forward_34334565",
@@ -342,8 +461,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
         },
         {
           "title": "如何看待 iPhone Duo 才开卖一天，网上就很多内屏损坏的案例，而且在同一个位置？",
@@ -381,6 +500,17 @@
           "time_info": "[03时21分 ~ 06时59分]"
         },
         {
+          "title": "苹果回应iPhone Duo内屏开裂",
+          "url": "https://news.ifeng.com/c/8xYWKSwIhRL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
           "title": "iPhoneDuo折叠挑战后摔坏",
           "url": "https://s.weibo.com/weibo?q=iPhoneDuo%E6%8A%98%E5%8F%A0%E6%8C%91%E6%88%98%E5%90%8E%E6%91%94%E5%9D%8F&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -390,6 +520,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "富士康员工曝iPhoneDuo碎屏原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%91%98%E5%B7%A5%E6%9B%9DiPhoneDuo%E7%A2%8E%E5%B1%8F%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "苹果回应iPhone Duo折叠屏开裂",
+          "url": "https://www.toutiao.com/trending/7701119534823951898/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "苹果回应iPhone Duo屏幕开裂投诉",
@@ -417,8 +569,19 @@
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Anthropic正式提交IPO申请！股票代码“ANT”，上半年净亏807亿美元，警示人类“生存危机”",
+          "url": "https://wallstreetcn.com/articles/3784495",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
         {
           "title": "Anthropic正式提交IPO申请！上半年净亏损807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”",
           "url": "https://wallstreetcn.com/articles/3784495",
@@ -437,7 +600,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
         },
@@ -462,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "Anthropic招股书来了：近一年10万美元+营收客户超11900家",
+          "url": "https://www.cls.cn/detail/2515772",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "据Axios：美国联邦贸易委员会（FTC）要求Anthropic高管就一项调查出庭作证。",
@@ -489,8 +663,21 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克：人类在ASI面前是黑猩猩，未来所有钱和工作都将清零！",
+          "url": "https://wallstreetcn.com/articles/3784487",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 09时50分]"
+        },
         {
           "title": "马斯克的AI电影《奥德赛》首秀：画面有了，叙事不足",
           "url": "https://www.cls.cn/detail/2515369",
@@ -503,16 +690,15 @@
           "time_info": "[03时21分 ~ 06时59分]"
         },
         {
-          "title": "马斯克：人类在ASI面前是黑猩猩，未来所有钱和工作都将清零！",
-          "url": "https://wallstreetcn.com/articles/3784487",
+          "title": "马斯克预警：200多家AI云厂商面临清洗，Nebius、CoreWeave盘前跌超4%",
+          "url": "https://wallstreetcn.com/articles/3784479",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 06时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
           "title": "马斯克表示，星链移动网络的建设将需要2至3年时间。",
@@ -535,6 +721,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股房地产板块盘初走低，大名城跌超8%，华发股份、中国国贸、中洲控股、中新集团等跟跌。",
+          "url": "https://flash.jin10.com/detail/20261027094025418800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     }
