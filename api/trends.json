@@ -1,11 +1,297 @@
 {
-  "generated_at": "2026-10-29T09:30:04.961426+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-10-29T15:54:07.009630+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）",
+          "url": "https://wallstreetcn.com/articles/3784708",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
+        },
+        {
+          "title": "AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！",
+          "url": "https://www.cls.cn/detail/2518569",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+          "url": "https://www.cls.cn/detail/2518554",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
+        },
+        {
+          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
+          "url": "https://wallstreetcn.com/articles/3784535",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 05时29分]"
+        },
+        {
+          "title": "男子回应借助AI买彩票中508万",
+          "url": "https://www.toutiao.com/trending/7701562501992824874/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 09时30分]"
+        },
+        {
+          "title": "科普书出现「双头虾」图片，出版社称正在下架召回，为何出现如此明显错误？科普类出版该限制 AI 配图吗？",
+          "url": "https://www.zhihu.com/question/2098771415411291576",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "三星电子：预计2027年AI基础设施资本支出将达到历史水平",
+          "url": "https://wallstreetcn.com/livenews/3189510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "丹斯克银行：AI资本支出指引持平 数据中心产业链涨势或受限",
+          "url": "https://flash.jin10.com/detail/20261029153728605800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34350138",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 09时30分]"
+        },
+        {
+          "title": "AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784713",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
+        },
+        {
+          "title": "【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口",
+          "url": "https://www.cls.cn/detail/2517890",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 05时29分]"
+        },
+        {
+          "title": "AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了",
+          "url": "https://www.cls.cn/detail/2518352",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 05时29分]"
+        },
+        {
+          "title": "陶哲轩发文谴责AI公司",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%8F%91%E6%96%87%E8%B0%B4%E8%B4%A3AI%E5%85%AC%E5%8F%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "华为制药军团表态，其公司定位是医药行业的 AI 赋能者，而不是跟大家抢着做药，意味着什么？背后有哪些考量？",
+          "url": "https://www.zhihu.com/question/2099103184987714518",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "东山精密香港发售认购倍数创近21个月新低 携“AI光环”仍遭散户弃购",
+          "url": "https://www.cls.cn/detail/2518077",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 00时57分]"
+        },
+        {
+          "title": "男子用AI工具搜集配方自制“听话水”，因犯制造毒品罪获刑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34354514",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "首部 AI 院线电影《三星堆：未来往事》票房遇冷，上映前博纳三连板，AI 电影的故事到底还能不能讲下去？",
+          "url": "https://www.zhihu.com/question/2097792623402554999",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "6个AI同台PK谁最嘉豪",
+          "url": "https://search.bilibili.com/all?keyword=6%E4%B8%AAAI%E5%90%8C%E5%8F%B0PK%E8%B0%81%E6%9C%80%E5%98%89%E8%B1%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
+          "title": "首批风云卫星极端天气AI模型发布 台风“体检报告”27秒生成",
+          "url": "https://flash.jin10.com/detail/20261029090217856800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：研发支出增长36%，主要受AI人才招聘及折旧推动。",
+          "url": "https://flash.jin10.com/detail/20261029050131818800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "受AI融资热推动 全球债券发行规模创纪录新高",
+          "url": "https://wallstreetcn.com/livenews/3189668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：日益增长的网络安全隐患正推动对AI驱动安全平台的需求。",
+          "url": "https://flash.jin10.com/detail/20261029045210504800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：正将AI模式下的广告扩展至国际市场。",
+          "url": "https://flash.jin10.com/detail/20261029044559734800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)高管：第三季度AI广告更新提升了满意度、点击量和转化率。",
+          "url": "https://flash.jin10.com/detail/20261029044249254800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "罗翔用AI做了个视频",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
@@ -15,8 +301,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
         },
         {
           "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
@@ -26,19 +312,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
         },
         {
           "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3784714",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：Gemini 4 Carbon将于今年晚些时候向消费者开放。",
@@ -81,19 +368,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
         },
         {
           "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
           "url": "https://www.zhihu.com/question/2098949045934880103",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时54分]"
+        },
+        {
+          "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
+          "url": "https://wallstreetcn.com/articles/3784718",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "time_info": "[15时53分 ~ 15时54分]"
         },
         {
           "title": "电话会：谷歌母公司Alphabet预计全年资本开支1950亿-2050亿美元，分析师预期2022.1亿美元。谷歌A盘后跌幅扩大至10%。",
@@ -234,7 +533,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
@@ -263,258 +562,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
-          "url": "https://wallstreetcn.com/articles/3784535",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 05时29分]"
-        },
-        {
-          "title": "男子回应借助AI买彩票中508万",
-          "url": "https://www.toutiao.com/trending/7701562501992824874/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 09时30分]"
-        },
-        {
-          "title": "沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）",
-          "url": "https://wallstreetcn.com/articles/3784708",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "AI商业化兑现？微软财报亮眼：Azure同比猛增48%，现金流缩水但仍为正！",
-          "url": "https://www.cls.cn/detail/2518569",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
-          "url": "https://www.cls.cn/detail/2518554",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "三星电子：预计2027年AI基础设施资本支出将达到历史水平",
-          "url": "https://wallstreetcn.com/livenews/3189510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "明查｜网传“皇马发布《关于姆巴佩相关言论的说明》截图”由AI生成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34350138",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 09时30分]"
-        },
-        {
-          "title": "【明日主题前瞻】物理AI稀缺的底层资源，真实数据面临巨大的缺口",
-          "url": "https://www.cls.cn/detail/2517890",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 05时29分]"
-        },
-        {
-          "title": "AI烧钱潮撞上融资瓶颈，华尔街买家开始退缩了",
-          "url": "https://www.cls.cn/detail/2518352",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 05时29分]"
-        },
-        {
-          "title": "陶哲轩发文谴责AI公司",
-          "url": "https://search.bilibili.com/all?keyword=%E9%99%B6%E5%93%B2%E8%BD%A9%E5%8F%91%E6%96%87%E8%B0%B4%E8%B4%A3AI%E5%85%AC%E5%8F%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "AI投资回报向好：微软上季Azure收入超预期增48%，资本支出未“失控”，盘后跳涨｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784713",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "东山精密香港发售认购倍数创近21个月新低 携“AI光环”仍遭散户弃购",
-          "url": "https://www.cls.cn/detail/2518077",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 00时57分]"
-        },
-        {
-          "title": "首部 AI 院线电影《三星堆：未来往事》票房遇冷，上映前博纳三连板，AI 电影的故事到底还能不能讲下去？",
-          "url": "https://www.zhihu.com/question/2097792623402554999",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "首批风云卫星极端天气AI模型发布 台风“体检报告”27秒生成",
-          "url": "https://flash.jin10.com/detail/20261029090217856800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：研发支出增长36%，主要受AI人才招聘及折旧推动。",
-          "url": "https://flash.jin10.com/detail/20261029050131818800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：日益增长的网络安全隐患正推动对AI驱动安全平台的需求。",
-          "url": "https://flash.jin10.com/detail/20261029045210504800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：正将AI模式下的广告扩展至国际市场。",
-          "url": "https://flash.jin10.com/detail/20261029044559734800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "Alphabet(GOOG.O)高管：第三季度AI广告更新提升了满意度、点击量和转化率。",
-          "url": "https://flash.jin10.com/detail/20261029044249254800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        },
-        {
-          "title": "罗翔用AI做了个视频",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E7%BF%94%E7%94%A8AI%E5%81%9A%E4%BA%86%E4%B8%AA%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时56分 ~ 09时30分]"
-        },
-        {
-          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
-          "url": "https://www.cls.cn/detail/2518311",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 05时29分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "裂屏风波中的iPhone Duo",
@@ -530,6 +579,17 @@
           "time_info": "[00时56分 ~ 09时30分]"
         },
         {
+          "title": "iPhoneDuo国内首销销量曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E5%9B%BD%E5%86%85%E9%A6%96%E9%94%80%E9%94%80%E9%87%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
+        {
           "title": "iPhone Duo内屏开裂疑因解析",
           "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E5%86%85%E5%B1%8F%E5%BC%80%E8%A3%82%E7%96%91%E5%9B%A0%E8%A7%A3%E6%9E%90",
           "source": "bilibili 热搜",
@@ -541,13 +601,77 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 09时30分]"
+        },
+        {
+          "title": "iPhone Duo为何刚用就炸屏",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E4%B8%BA%E4%BD%95%E5%88%9A%E7%94%A8%E5%B0%B1%E7%82%B8%E5%B1%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时56分 ~ 15时54分]"
+        },
+        {
+          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
+          "url": "https://www.cls.cn/detail/2518311",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 05时29分]"
+        },
+        {
+          "title": "如何评价亚马逊前华人女工程师疑似按照 ChatGPT 的建议自行减少抗癫痫药物后猝死这一事件？",
+          "url": "https://www.zhihu.com/question/2098895782283841766",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
         }
       ]
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Anthropic 宣布「编程面试已死」，程序员靠什么证明自己？",
+          "url": "https://www.zhihu.com/question/2098813429200810819",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 15时54分]"
+        },
         {
           "title": "Anthropic向Claude平台新增超过60个法律类连接器。",
           "url": "https://wallstreetcn.com/livenews/3189273",
