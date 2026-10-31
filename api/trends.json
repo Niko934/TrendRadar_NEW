@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T02:58:54.364778+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-01T06:13:06.631267+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "这届进博会出行有了AI助手",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "美股AI暴跌,万亿市值蒸发",
@@ -37,8 +37,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 06时13分]"
+        },
+        {
+          "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2098823323752690341",
+          "source": "知乎",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
@@ -48,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
@@ -59,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek重磅发布：AI开始指挥AI干活",
@@ -70,41 +82,55 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2098823323752690341",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
-          "url": "https://www.zhihu.com/question/2099418216976102291",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
           "url": "https://www.zhihu.com/question/2096595801644299451",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
+        },
+        {
+          "title": "人民锐评发文驳斥「中国 AI 跑偏论」，如何看待中美在 AI 落地路径上的差异？",
+          "url": "https://www.zhihu.com/question/2099418216976102291",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
+        },
+        {
+          "title": "首部AI电影成本千万周票房不到150万",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
+        },
+        {
+          "title": "AI短片邪修润魂子",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 06时13分]"
         },
         {
           "title": "AI写文被扒,榜一转头开团榜二",
@@ -114,19 +140,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "首部AI电影成本千万周票房不到150万",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "AI回答不合意,老外杠上Grok",
@@ -136,8 +151,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 06时13分]"
         }
       ]
     },
@@ -153,19 +168,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "DeepSeek重磅开源：Agent底座架构！",
-          "url": "https://wallstreetcn.com/livenews/3191979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek发布全新Agent架构",
@@ -175,8 +179,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
+        },
+        {
+          "title": "DeepSeek重磅开源：Agent底座架构！",
+          "url": "https://wallstreetcn.com/livenews/3191979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 06时13分]"
         },
         {
           "title": "DeepSeek发布全新Agent架构",
@@ -192,6 +207,35 @@
       ]
     },
     {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿里宣布与苹果合作，将千问集成至Apple智能",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34374626",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
+        },
+        {
+          "title": "iPhoneDuo 国行版",
+          "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%9B%BD%E8%A1%8C%E7%89%88&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -203,8 +247,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         }
       ]
     },
@@ -217,11 +261,12 @@
           "url": "https://www.cls.cn/detail/2521127",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         }
       ]
     },
@@ -237,8 +282,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         }
       ]
     },
@@ -254,25 +299,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "阿里宣布与苹果合作，将千问集成至Apple智能",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34374626",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 06时13分]"
         }
       ]
     }
