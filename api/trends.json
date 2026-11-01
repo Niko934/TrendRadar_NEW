@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-01T06:13:06.631267+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-11-01T09:45:09.374082+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "这届进博会出行有了AI助手",
@@ -15,30 +15,56 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
+          "url": "https://wallstreetcn.com/articles/3784910",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
         },
         {
           "title": "CRO或成最大赢家？AI重构药企组织范式：“一人管线”横空出世",
           "url": "https://www.cls.cn/detail/2520513",
           "source": "财联社热门",
           "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+          "url": "https://wallstreetcn.com/articles/3784900",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
         },
         {
           "title": "美股AI暴跌,万亿市值蒸发",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 09时45分]"
         },
         {
           "title": "如何看待「三年内，扩散模型将全面替代大语言模型」的说法？这会给 AI Infra 带来哪些变化？",
@@ -53,26 +79,41 @@
           "time_info": "[02时58分 ~ 06时13分]"
         },
         {
-          "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
-          "url": "https://wallstreetcn.com/articles/3784910",
-          "source": "华尔街见闻",
+          "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
+          "url": "https://www.zhihu.com/question/2096595801644299451",
+          "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
-        },
-        {
-          "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
-          "url": "https://wallstreetcn.com/articles/3784900",
-          "source": "华尔街见闻",
-          "ranks": [
+            19,
+            11,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "首部AI电影成本千万周票房不到150万",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "AI短片邪修润魂子",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 09时45分]"
         },
         {
           "title": "DeepSeek重磅发布：AI开始指挥AI干活",
@@ -80,18 +121,6 @@
           "source": "百度热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
-        },
-        {
-          "title": "「豆包们」正在成为医患之间的「第三人」，大量 AI 问诊对门诊医生造成了什么影响？会有哪些困扰？",
-          "url": "https://www.zhihu.com/question/2096595801644299451",
-          "source": "知乎",
-          "ranks": [
-            19,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -110,66 +139,80 @@
           "time_info": "[02时58分 ~ 06时13分]"
         },
         {
-          "title": "首部AI电影成本千万周票房不到150万",
-          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E9%83%A8AI%E7%94%B5%E5%BD%B1%E6%88%90%E6%9C%AC%E5%8D%83%E4%B8%87%E5%91%A8%E7%A5%A8%E6%88%BF%E4%B8%8D%E5%88%B0150%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
-        },
-        {
-          "title": "AI短片邪修润魂子",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E9%82%AA%E4%BF%AE%E6%B6%A6%E9%AD%82%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 06时13分]"
-        },
-        {
           "title": "AI写文被扒,榜一转头开团榜二",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368606&amp;topic_name=AI%E5%86%99%E6%96%87%E8%A2%AB%E6%89%92%2C%E6%A6%9C%E4%B8%80%E8%BD%AC%E5%A4%B4%E5%BC%80%E5%9B%A2%E6%A6%9C%E4%BA%8C",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 09时45分]"
         },
         {
           "title": "AI回答不合意,老外杠上Grok",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368500&amp;topic_name=AI%E5%9B%9E%E7%AD%94%E4%B8%8D%E5%90%88%E6%84%8F%2C%E8%80%81%E5%A4%96%E6%9D%A0%E4%B8%8AGrok",
           "source": "贴吧",
           "ranks": [
-            28
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "12个AI预测BLG对阵HLE",
+          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
     {
       "keyword_group": "agent",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如何评价 Deepseek Harness 发布的 super-agent 构想？",
+          "url": "https://www.zhihu.com/question/2099984457524572950",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
+        },
         {
           "title": "DeepSeek发布全新Agent架构",
           "url": "https://wallstreetcn.com/livenews/3191994",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "DeepSeek重磅开源：Agent底座架构！",
+          "url": "https://wallstreetcn.com/livenews/3191979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时58分 ~ 09时45分]"
         },
         {
           "title": "DeepSeek发布全新Agent架构",
@@ -183,17 +226,6 @@
           "time_info": "[02时58分 ~ 06时13分]"
         },
         {
-          "title": "DeepSeek重磅开源：Agent底座架构！",
-          "url": "https://wallstreetcn.com/livenews/3191979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 06时13分]"
-        },
-        {
           "title": "DeepSeek发布全新Agent架构",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0Agent%E6%9E%B6%E6%9E%84%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -203,6 +235,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
+          "url": "https://www.cls.cn/detail/2521127",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "OpenAI宣布ChatGPT部分功能将与Codex共享额度",
+          "url": "https://flash.jin10.com/detail/20261101090651990800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克，“接管”军队",
+          "url": "https://news.ifeng.com/c/8xfvvUwmKfP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
+        },
+        {
+          "title": "美军把未来战争交给马斯克",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%8A%8A%E6%9C%AA%E6%9D%A5%E6%88%98%E4%BA%89%E4%BA%A4%E7%BB%99%E9%A9%AC%E6%96%AF%E5%85%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时44分 ~ 09时45分]"
         }
       ]
     },
@@ -253,41 +343,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic冲刺IPO：一场与OpenAI的估值、营收和算力竞赛",
-          "url": "https://www.cls.cn/detail/2521127",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克，“接管”军队",
-          "url": "https://news.ifeng.com/c/8xfvvUwmKfP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "anthropic claude",
       "match_count": 1,
       "titles": [
@@ -296,11 +351,12 @@
           "url": "https://wallstreetcn.com/articles/3784903",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 09时45分]"
         }
       ]
     }
