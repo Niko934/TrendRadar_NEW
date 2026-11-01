@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T04:01:51.021811+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-02T07:28:46.416025+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "普通人不配?AI巨头嫌内存浪费",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "AI短片克劳德的救赎",
@@ -48,8 +48,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
+        },
+        {
+          "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
+          "url": "https://wallstreetcn.com/articles/3784943",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "AI“完美风暴”剧本：债市“吹响号角”，财报“雪上加霜”，中选“最后一击”？",
@@ -59,41 +71,44 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
-          "url": "https://wallstreetcn.com/articles/3784943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "AI带着真金白银来了！CXO分化复苏潮下，谁在狂揽“湿实验”订单？",
           "url": "https://www.cls.cn/detail/2521722",
           "source": "财联社热门",
           "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
+        },
+        {
+          "title": "AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34381316",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
           "url": "https://wallstreetcn.com/articles/3784949",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
@@ -103,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "吧友拿十六进制撩AI,回复亮了",
@@ -114,8 +129,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
+        },
+        {
+          "title": "12个AI预测BLG对阵HLE",
+          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”",
@@ -127,39 +164,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI计划将数据中心称为“算力园区” 试图重塑公众形象",
+          "url": "https://flash.jin10.com/detail/20261102063954509800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
+          "title": "奥特曼称 OpenAI 内部新模型让他兴奋到两晚没睡，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2099437165495300675",
+          "source": "知乎",
           "ranks": [
-            17
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "AI给数学教育带来什么？沃尔夫数学奖得主：终结乏味的数学教学方式",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34381316",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "12个AI预测BLG对阵HLE",
-          "url": "https://search.bilibili.com/all?keyword=12%E4%B8%AAAI%E9%A2%84%E6%B5%8BBLG%E5%AF%B9%E9%98%B5HLE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "07时28分"
         }
       ]
     },
@@ -172,11 +204,12 @@
           "url": "https://www.zhihu.com/question/2100203992827557509",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
         },
         {
           "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？",
@@ -203,8 +236,25 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本拟填补税收漏洞 海外居民房地产租赁收入拟纳入征税",
+          "url": "https://flash.jin10.com/detail/20261102070629812800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "07时28分"
         }
       ]
     }
