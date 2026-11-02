@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T11:43:52.796506+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-11-02T19:55:06.511518+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "AI的“火” PCB三季报接住了",
@@ -20,15 +20,52 @@
           "time_info": "[04时01分 ~ 11时43分]"
         },
         {
+          "title": "美中期选战即将来袭：选情远比民调复杂，地方博弈牵动AI算力命运",
+          "url": "https://www.cls.cn/detail/2522308",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 19时55分]"
+        },
+        {
+          "title": "数据局座谈会要求摸清“用数需求” 物理AI爆发前数采环节或先行",
+          "url": "https://www.cls.cn/detail/2522219",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
+          "url": "https://wallstreetcn.com/articles/3784949",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 19时55分]"
         },
         {
           "title": "数学协会抵制AI反致舆论反转",
@@ -37,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -48,7 +85,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -58,11 +95,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 19时55分]"
         },
         {
           "title": "创业板指涨超2%，沪指涨0.7%，深成指涨1.52%，游戏、白酒、AI漫剧、券商等方向领涨，沪深京三市上涨个股近4000只。",
@@ -71,7 +109,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -82,9 +120,47 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34248283",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 19时55分]"
+        },
+        {
+          "title": "吧友拿十六进制撩AI,回复亮了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 19时55分]"
+        },
+        {
+          "title": "美股AI暴跌,万亿市值蒸发",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "贴吧",
+          "ranks": [
+            17,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时01分 ~ 19时55分]"
         },
         {
           "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
@@ -112,25 +188,24 @@
           "time_info": "[04时01分 ~ 11时43分]"
         },
         {
+          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 19时55分]"
+        },
+        {
           "title": "AI短片克劳德的救赎",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%85%8B%E5%8A%B3%E5%BE%B7%E7%9A%84%E6%95%91%E8%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
             6,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 11时43分]"
-        },
-        {
-          "title": "90天暴增近1万亿！AI表外负债悄然突破4.1万亿美元",
-          "url": "https://wallstreetcn.com/articles/3784949",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -144,30 +219,6 @@
             18,
             8,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 11时43分]"
-        },
-        {
-          "title": "吧友拿十六进制撩AI,回复亮了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368713&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%8B%BF%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%92%A9AI%2C%E5%9B%9E%E5%A4%8D%E4%BA%AE%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 11时43分]"
-        },
-        {
-          "title": "美股AI暴跌,万亿市值蒸发",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "贴吧",
-          "ranks": [
-            17,
-            20
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -196,6 +247,17 @@
           "time_info": "[04时01分 ~ 07时28分]"
         },
         {
+          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+          "url": "https://www.cls.cn/detail/2522567",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "媒体：AI模特长着三条腿？如此试衣，怎能让消费者“合身”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34381747",
           "source": "澎湃新闻",
@@ -206,6 +268,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 11时43分]"
+        },
+        {
+          "title": "AI资本开支见顶？高盛：拐点近了，AI正从“超级主题”变成“常规叙事”",
+          "url": "https://wallstreetcn.com/articles/3784962",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "红果日活 1.68 亿，AI 短剧一集可能只赚一块钱，对此你怎么看？AI 短剧为何不赚钱？",
+          "url": "https://www.zhihu.com/question/2098854103598239840",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         },
         {
           "title": "环球下周看点：AI热潮遇考验 美国中期选举、非农与苹果财报接连来袭",
@@ -219,13 +303,35 @@
           "time_info": "[04时01分 ~ 07时28分]"
         },
         {
+          "title": "【午报】创业板指半日涨超3%，全市场超4700只个股飘红，AI漫剧概念涨幅居前",
+          "url": "https://www.cls.cn/detail/2522235",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停",
+          "url": "https://www.cls.cn/detail/2522637",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
           "title": "双十一AI暗战：电商想提升交易 消费者要全网比价",
           "url": "https://www.cls.cn/detail/2521706",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -236,18 +342,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34248283",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -258,18 +353,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -280,7 +364,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -291,7 +375,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -302,7 +386,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -313,7 +397,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -324,7 +408,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -335,7 +419,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         },
@@ -346,9 +430,88 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普：支持马斯克执掌CNN",
+          "url": "https://news.ifeng.com/c/8xhClkTmeKf",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 11时43分]"
+        },
+        {
+          "title": "“太空AI时代”很快到来？马斯克重磅预测：2029年轨道算力将碾压地面！",
+          "url": "https://www.cls.cn/detail/2522452",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "美国总统特朗普：认为马斯克关于“民主党全面获胜”的警告并无不妥。",
+          "url": "https://flash.jin10.com/detail/20261102191704988800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Anthropic更新使用政策",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E6%9B%B4%E6%96%B0%E4%BD%BF%E7%94%A8%E6%94%BF%E7%AD%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
+        },
+        {
+          "title": "怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？",
+          "url": "https://www.zhihu.com/question/2100203992827557509",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 07时28分]"
+        },
+        {
+          "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/2099683580964352612",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         }
       ]
     },
@@ -381,52 +544,6 @@
       ]
     },
     {
-      "keyword_group": "anthropic claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "怎么看 Anthropic IPO 前夕被黑石评为「垃圾级」？",
-          "url": "https://www.zhihu.com/question/2100203992827557509",
-          "source": "知乎",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 07时28分]"
-        },
-        {
-          "title": "Anthropic 账面亏损 807 亿美元却冲刺 2 万亿 IPO，背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/2099683580964352612",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普：支持马斯克执掌CNN",
-          "url": "https://news.ifeng.com/c/8xhClkTmeKf",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时01分 ~ 11时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 1,
       "titles": [
@@ -452,11 +569,29 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 19时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone Duo开售一周后行情快速回落",
+          "url": "https://www.toutiao.com/trending/7702956966594789412/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 19时55分]"
         }
       ]
     }
