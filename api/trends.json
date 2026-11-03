@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T11:14:47.240283+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2026-11-03T19:32:18.368513+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "不到10元，AI眼镜秒变“偷拍神器”！一张遮光贴就能撕开隐私红线？",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -46,11 +46,38 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 11时14分]"
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 19时32分]"
+        },
+        {
+          "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 19时32分]"
+        },
+        {
+          "title": "AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34388778",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时13分 ~ 19时32分]"
         },
         {
           "title": "AI预测TES对战IG谁胜算大",
@@ -59,30 +86,6 @@
           "ranks": [
             10,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 11时14分]"
-        },
-        {
-          "title": "赛博鱼塘!大肥鱼AI涌入鲸鱼吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368798&amp;topic_name=%E8%B5%9B%E5%8D%9A%E9%B1%BC%E5%A1%98%21%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E6%B6%8C%E5%85%A5%E9%B2%B8%E9%B1%BC%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 11时14分]"
-        },
-        {
-          "title": "AI嵌入进博保障：后厨问题“拍照即识”，电梯情况“扫码即知”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34388778",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -112,6 +115,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "AI泡沫或让人先丢积蓄再丢工作",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%B3%A1%E6%B2%AB%E6%88%96%E8%AE%A9%E4%BA%BA%E5%85%88%E4%B8%A2%E7%A7%AF%E8%93%84%E5%86%8D%E4%B8%A2%E5%B7%A5%E4%BD%9C&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
           "url": "https://www.cls.cn/detail/2522567",
           "source": "财联社热门",
@@ -123,13 +137,24 @@
           "time_info": "05时13分"
         },
         {
+          "title": "李佳琦直播间半小时售出 2 万亿 Token，AI Token 会成为未来直播带货的热销品吗？",
+          "url": "https://www.zhihu.com/question/2100704253669069587",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "太平洋投资管理公司（PIMCO）首席执行官：AI融资规模正走向“过高”水平。",
           "url": "https://flash.jin10.com/detail/20261103105655410800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -140,7 +165,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -162,7 +187,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -173,7 +198,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
@@ -190,7 +215,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         },
@@ -199,11 +224,12 @@
           "url": "https://wallstreetcn.com/articles/3785012",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 19时32分]"
         },
         {
           "title": "美股网络安全公司SentinelOne将与Anthropic的Claude Cowork实现对接。",
@@ -230,6 +256,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普放话力保马斯克：若民主党对其展开调查 将提前赦免他",
+          "url": "https://www.cls.cn/detail/2523716",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "创下新纪录！马斯克此次中期选举已经向共和党捐赠4.74亿美元",
+          "url": "https://news.ifeng.com/c/8xkrdGFrkN8",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -240,7 +294,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
@@ -257,9 +311,43 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18再曝",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E5%86%8D%E6%9B%9D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     }
