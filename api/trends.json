@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-04T12:13:31.444454+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-11-04T20:43:50.581888+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "吧友实测:AI偏爱当女孩",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 20时43分]"
         },
         {
           "title": "美股收盘：纳指反弹收高0.83% AI科技巨头集体回暖",
@@ -31,6 +32,17 @@
           "time_info": "[07时51分 ~ 12时13分]"
         },
         {
+          "title": "嫁金钗忘删AI水印了",
+          "url": "https://s.weibo.com/weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "AI时代数学该何去何从",
           "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%95%B0%E5%AD%A6%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
           "source": "bilibili 热搜",
@@ -41,6 +53,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 07时52分]"
+        },
+        {
+          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 20时43分]"
         },
         {
           "title": "AI 零代码手写算子速度比 DeepSeek 人类手写巅峰还快 9.8%，这意味着什么？",
@@ -98,13 +122,24 @@
           "time_info": "[02时56分 ~ 07时52分]"
         },
         {
+          "title": "豆包用户数被红果超越，这说明了什么？普通人对 AI 的真实需求被高估了吗？",
+          "url": "https://www.zhihu.com/question/2100943272122250679",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "攻克NS方程问题的AI将发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%94%BB%E5%85%8BNS%E6%96%B9%E7%A8%8B%E9%97%AE%E9%A2%98%E7%9A%84AI%E5%B0%86%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -120,15 +155,15 @@
           "time_info": "02时56分"
         },
         {
-          "title": "AI有意识吗？——从脑机智能与脑机接口谈起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34390827",
-          "source": "澎湃新闻",
+          "title": "巴彦淖尔一医院大楼起火图系AI生成",
+          "url": "https://www.toutiao.com/trending/7702735035199295010/",
+          "source": "今日头条",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "20时43分"
         },
         {
           "title": "思科计划 2 年内用 AI 重写 98% 遗留代码，这一目标在工程上可行吗？",
@@ -137,9 +172,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "一汽解放与阿联酋Al-Futtaim集团签署2027年战略合作协议",
+          "url": "https://wallstreetcn.com/livenews/3194233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "AI大臣：英国对“极有可能”发生的黑客袭击毫无准备",
@@ -151,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "苹果国行AI与努比亚智能体对比",
+          "url": "https://www.douyin.com/hot/2728815",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "AI复刻超能勇士经典片头",
@@ -167,7 +224,7 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "iPhone天气下周五温差",
@@ -192,22 +249,55 @@
           "time_info": "[07时51分 ~ 07时52分]"
         },
         {
+          "title": "iPhone天气应用出现多地-32℃异常数据，气象部门回应",
+          "url": "https://news.ifeng.com/c/8xmXJFiQ5tW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
           "title": "iPhone系统天气bug 显示下周五-32℃",
           "url": "https://www.baidu.com/s?wd=iPhone%E7%B3%BB%E7%BB%9F%E5%A4%A9%E6%B0%94bug+%E6%98%BE%E7%A4%BA%E4%B8%8B%E5%91%A8%E4%BA%94-32%E2%84%83",
           "source": "百度热搜",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "气象部门回应iPhone天气异常数据",
+          "url": "https://www.douyin.com/hot/2729500",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "共和党中选失利、4.5亿美元泡汤？“大金主”马斯克发声，特斯拉、SpaceX盘前大跌",
+          "url": "https://wallstreetcn.com/articles/3785153",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
         {
           "title": "马斯克瞄准美国无线通信市场，SpaceX或自建地面移动网络",
           "url": "https://www.cls.cn/detail/2524253",
@@ -215,7 +305,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -226,7 +316,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
