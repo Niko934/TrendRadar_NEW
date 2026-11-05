@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-11-06T01:01:11.791664+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-11-06T06:37:24.035808+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
           "url": "https://m.thepaper.cn/newsDetail_forward_34411188",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
           "title": "官方要求2030年剧集AI渗透超九成",
@@ -25,20 +26,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "AI短剧为何几乎没有清宫戏",
-          "url": "https://www.toutiao.com/trending/7704623276374363658/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "time_info": "[01时01分 ~ 06时37分]"
+        },
+        {
+          "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
+          "url": "https://www.cls.cn/detail/2526694",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
+        },
+        {
+          "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？",
+          "url": "https://www.zhihu.com/question/2101279300045338395",
+          "source": "知乎",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
+        },
+        {
+          "title": "一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫",
+          "url": "https://wallstreetcn.com/articles/3785285",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
           "title": "民主党反对AI？",
@@ -48,30 +74,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
-          "title": "一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫",
-          "url": "https://wallstreetcn.com/articles/3785285",
-          "source": "华尔街见闻",
+          "title": "AI短剧为何几乎没有清宫戏",
+          "url": "https://www.toutiao.com/trending/7704623276374363658/",
+          "source": "今日头条",
           "ranks": [
-            9
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
           "title": "「AI 教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？",
           "url": "https://www.zhihu.com/question/2101374444023146456",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
           "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
@@ -81,19 +109,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
           "title": "科技巨头与清洁能源股续涨，AI算力链再承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2526626",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
+        },
+        {
+          "title": "美股AI硬件股大跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 06时37分]"
         },
         {
           "title": "赛义德称美国应暂停AI研发",
@@ -107,37 +148,48 @@
           "time_info": "[01时00分 ~ 01时01分]"
         },
         {
-          "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
-          "url": "https://www.cls.cn/detail/2526694",
+          "title": "AI套娃,大肥鱼要养小肥鱼",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369136&amp;topic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 06时37分]"
+        },
+        {
+          "title": "吧友实测:AI偏爱当女孩",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 06时37分]"
+        },
+        {
+          "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
+          "url": "https://www.cls.cn/detail/2526796",
           "source": "财联社热门",
           "ranks": [
-            13
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
-          "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？",
-          "url": "https://www.zhihu.com/question/2101279300045338395",
-          "source": "知乎",
+          "title": "AMD财报AI算力需求爆发",
+          "url": "https://search.bilibili.com/all?keyword=AMD%E8%B4%A2%E6%8A%A5AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
-        },
-        {
-          "title": "美股AI硬件股大跌",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         },
         {
           "title": "美股遭遇全面抛售 纳指跌近4% AI产业链多股跌超10%",
@@ -146,7 +198,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -157,7 +209,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -168,31 +220,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
         {
-          "title": "AI套娃,大肥鱼要养小肥鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369136&amp;topic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC",
-          "source": "贴吧",
+          "title": "纳斯达克金龙中国指数收涨0.43%，报5747.08点，早盘高开低走——北京时间22:33刷新日高至5875.13点，在美国半导体概念股/AI概念股被抛售的过程中转跌，23:54刷新日低至5672.82点，随后平缓地逐步回升。 热门中概股里，网易初步收涨4.3%，新东方涨约4%，小米、京东、腾讯涨超3%，阿里涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.81%，中国科技指数ETF（CQQQ）收跌0.17%。XtrackersHarvest中证50（ASHS）收跌0.55%，德银嘉实沪深300指数ETF（ASHR）收跌1.39%，MSCI新兴市场ex中国ETF（EMXC）收跌7.58%。",
+          "url": "https://wallstreetcn.com/livenews/3195339",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "06时37分"
         },
         {
-          "title": "吧友实测:AI偏爱当女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
-          "source": "贴吧",
+          "title": "但斌回应重仓AI回撤大",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%86%E6%96%8C%E5%9B%9E%E5%BA%94%E9%87%8D%E4%BB%93AI%E5%9B%9E%E6%92%A4%E5%A4%A7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            22
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "06时37分"
         }
       ]
     },
@@ -210,6 +262,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时00分 ~ 01时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "若房地产支柱地位难以为继谁能接棒",
+          "url": "https://www.toutiao.com/trending/7704518999027433510/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     }
