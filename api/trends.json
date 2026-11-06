@@ -1,523 +1,226 @@
 {
-  "generated_at": "2026-11-06T18:39:13.091717+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-11-07T01:47:34.761844+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 44,
+      "match_count": 19,
       "titles": [
         {
-          "title": "多所高校已引入AI教学督导巡课系统，可识别到课率、抬头率、前排就座率",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34411188",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 11时01分]"
-        },
-        {
-          "title": "AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水",
-          "url": "https://wallstreetcn.com/articles/3785294",
+          "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
+          "url": "https://wallstreetcn.com/articles/3785351",
           "source": "华尔街见闻",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 18时39分]"
-        },
-        {
-          "title": "一个反共识逻辑：反AI运动不会让需求消失，但留给行业更多时间吸收泡沫",
-          "url": "https://wallstreetcn.com/articles/3785285",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 18时39分]"
-        },
-        {
-          "title": "美股风向突变！纳指暴跌逾4% AI概念股再遭抛售",
-          "url": "https://www.cls.cn/detail/2526694",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 11时01分]"
-        },
-        {
-          "title": "中国AI短剧被韩配搬运",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E7%9F%AD%E5%89%A7%E8%A2%AB%E9%9F%A9%E9%85%8D%E6%90%AC%E8%BF%90&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
-          "url": "https://www.zhihu.com/question/2101977105504235968",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "民主党反对AI？",
-          "url": "https://wallstreetcn.com/articles/3785288",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时00分 ~ 18时39分]"
-        },
-        {
-          "title": "近百亿美股持仓遭遇大跌，但斌回应：AI就此落幕，可能极小",
-          "url": "https://www.cls.cn/detail/2527369",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "54岁大哥靠AI短剧还清负债",
-          "url": "https://s.weibo.com/weibo?q=%2354%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "官方要求2030年剧集AI渗透超九成",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369262&amp;topic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 18时39分]"
-        },
-        {
-          "title": "54岁大哥靠AI短剧还清负债",
-          "url": "https://www.baidu.com/s?wd=54%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "美股收盘：AI监管担忧引爆历史性抛售！纳指暴跌5.5% 七巨头市值蒸发1万亿美元",
-          "url": "https://www.cls.cn/detail/2526796",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 11时01分]"
-        },
-        {
-          "title": "跌到位了，高盛喊出：逢低买入A股，尤其AI",
-          "url": "https://wallstreetcn.com/articles/3785234",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 11时01分]"
-        },
-        {
-          "title": "科技巨头与清洁能源股续涨，AI算力链再承压 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2526626",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时00分 ~ 11时01分]"
-        },
-        {
-          "title": "AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤",
-          "url": "https://wallstreetcn.com/articles/3785306",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 18时39分]"
-        },
-        {
-          "title": "冯远征认为 AI 短剧里的角色长相完美，却让人看完就忘，「因为角色没有呼吸」，你同意此观点吗？",
-          "url": "https://www.zhihu.com/question/2101279300045338395",
-          "source": "知乎",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 06时37分]"
-        },
-        {
-          "title": "AI短剧为何几乎没有清宫戏",
-          "url": "https://www.toutiao.com/trending/7704623276374363658/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 06时37分]"
-        },
-        {
-          "title": "美国多州州长拟暂停审批 AI 数据中心，将对算力基建产生哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2101356243331839893",
-          "source": "知乎",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 18时39分]"
-        },
-        {
-          "title": "「AI 教父」辛顿警告，今明两年就有可能发生人工智能领域的切尔诺贝利事故，可能是什么情况？存在哪些隐患？",
-          "url": "https://www.zhihu.com/question/2101374444023146456",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 06时37分]"
-        },
-        {
-          "title": "美股史诗级暴跌，单日蒸发约 2.8 万亿美元，AI 产业链集体崩盘，是单纯监管预期利空还是大行情拐点？",
-          "url": "https://www.zhihu.com/question/2101822062662886692",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 18时39分]"
-        },
-        {
-          "title": "AI套娃,大肥鱼要养小肥鱼",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369136&amp;topic_name=AI%E5%A5%97%E5%A8%83%2C%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A6%81%E5%85%BB%E5%B0%8F%E8%82%A5%E9%B1%BC",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 11时01分]"
-        },
-        {
-          "title": "吧友实测:AI偏爱当女孩",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368950&amp;topic_name=%E5%90%A7%E5%8F%8B%E5%AE%9E%E6%B5%8B%3AAI%E5%81%8F%E7%88%B1%E5%BD%93%E5%A5%B3%E5%AD%A9",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 11时01分]"
-        },
-        {
-          "title": "美股AI硬件股大跌",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时00分 ~ 06时37分]"
-        },
-        {
-          "title": "中国AI短剧被换字幕配音在韩爆火",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E7%9F%AD%E5%89%A7%E8%A2%AB%E6%8D%A2%E5%AD%97%E5%B9%95%E9%85%8D%E9%9F%B3%E5%9C%A8%E9%9F%A9%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "为何说美股暴跌对美AI产业未必是坏事",
-          "url": "https://www.toutiao.com/trending/7704862419243240986/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "中期选举后“黑天鹅”真要飞？有大行开始“剥离”AI基建贷款",
-          "url": "https://www.cls.cn/detail/2527012",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "赛义德称美国应暂停AI研发",
-          "url": "https://s.weibo.com/weibo?q=%E8%B5%9B%E4%B9%89%E5%BE%B7%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%BA%94%E6%9A%82%E5%81%9CAI%E7%A0%94%E5%8F%91&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
-        },
-        {
-          "title": "员工用AI做PPT遭辞退，公司被判赔4.6万元",
-          "url": "https://news.ifeng.com/c/8xph9Ha7Uj7",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "公司辞退用AI的员工被判赔4.6万元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%BE%9E%E9%80%80%E7%94%A8AI%E7%9A%84%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E8%B5%944.6%E4%B8%87%E5%85%83%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "time_info": "01时47分"
         },
         {
           "title": "donk鉴赏AI整活短片",
           "url": "https://search.bilibili.com/all?keyword=donk%E9%89%B4%E8%B5%8FAI%E6%95%B4%E6%B4%BB%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
-          "title": "员工用AI做PPT被辞案公司败诉",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E7%94%A8AI%E5%81%9APPT%E8%A2%AB%E8%BE%9E%E6%A1%88%E5%85%AC%E5%8F%B8%E8%B4%A5%E8%AF%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "看完 AI 仿真人剧《持械入宋》，感觉技术上并没有很高壁垒，实拍难度也不大，为什么真人影视里没人来拍？",
+          "url": "https://www.zhihu.com/question/2101987202196400085",
+          "source": "知乎",
           "ranks": [
-            30
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
-          "title": "AI交易遭遇至暗时刻 美防长赫格塞思面临弹劾压力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2526809",
+          "title": "AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2527812",
           "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普：只有“愚蠢的”领导人才会对AI说不",
+          "url": "https://wallstreetcn.com/livenews/3196144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水",
+          "url": "https://wallstreetcn.com/articles/3785294",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+          "url": "https://www.zhihu.com/question/2101977105504235968",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？",
+          "url": "https://www.zhihu.com/question/2101823381955990842",
+          "source": "知乎",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时47分"
         },
         {
-          "title": "AMD财报AI算力需求爆发",
-          "url": "https://search.bilibili.com/all?keyword=AMD%E8%B4%A2%E6%8A%A5AI%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E7%88%86%E5%8F%91",
-          "source": "bilibili 热搜",
+          "title": "美国银行策略师Katie Craig和Mark Cabana建议做多6月SOFR/联邦基金利率基差——当前为-2.4个基点，目标0，止损-5个基点——该头寸的风险在于债务上限问题提前得到解决。",
+          "url": "https://wallstreetcn.com/livenews/3196140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美议员扬言推动AI禁令",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369365&amp;topic_name=%E7%BE%8E%E8%AE%AE%E5%91%98%E6%89%AC%E8%A8%80%E6%8E%A8%E5%8A%A8AI%E7%A6%81%E4%BB%A4",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "AI抛售潮中买家消失！高盛交易台电话被“打爆”却无人接盘，对冲基金、散户齐撤",
+          "url": "https://wallstreetcn.com/articles/3785306",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "01时47分"
         },
         {
-          "title": "美股遭遇全面抛售 纳指跌近4% AI产业链多股跌超10%",
-          "url": "https://flash.jin10.com/detail/20261106002734129800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "AI漫剧概念震荡回升，上海电影触及涨停，浙文影业、城市传媒此前封板，幸福蓝海、中国电影、儒意电影、博纳影业跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3195526",
-          "source": "华尔街见闻-快讯",
+          "title": "【图解牛熊股】4只AI短剧概念股周涨幅超50%",
+          "url": "https://www.cls.cn/detail/2527443",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时47分"
         },
         {
-          "title": "王子璇走心发言疑似AI预制",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369346&amp;topic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "美联储威廉姆斯：美国正面临需求和供给的异常冲击。 通胀绝对太高了。 AI发展至少短期内正在推高通胀。 能源价格正如预期体现在机票价格上。 通胀预期锚定良好，工资增长与目标一致。",
-          "url": "https://wallstreetcn.com/livenews/3195846",
-          "source": "华尔街见闻-快讯",
+          "title": "美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？",
+          "url": "https://www.zhihu.com/question/2101923145217209086",
+          "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "01时47分"
         },
         {
-          "title": "【英伟达提出AI内存全栈协同设计方案，Vera Rubin平台每GPU内存容量仅增约3%推理吞吐量提升最高30倍】英伟达称，随着AI模型规模扩大、上下文窗口延长以及智能体应用普及，GPU内存压力持续上升，HBM供应趋紧、价格上涨。英伟达提出通过GPU、CPU、网络、存储及软件协同设计，提高内存使用效率，而非单纯增加GPU内存容量。 具体来看，英伟达通过NVFP4低精度格式压缩模型权重和KV Cache，将暂时不活跃的上下文转移至成本更低的存储层，并利用多GPU分布式部署释放HBM空间。英伟达披露，在SemiAnalysis AgentX测试中，GB300 NVL72在特定工作负载下的单位成本推理吞吐量最高达到H200平台的10倍；Vera Rubin NVL72相较GB300 NVL72，单位成本推理吞吐量最高提升30倍，而单GPU HBM容量仅增加约3%。",
-          "url": "https://wallstreetcn.com/livenews/3195245",
+          "title": "日本央行行长植田和男：拒绝置评过去数日发生的那些AI事件。 对日本而言，AI整体上带来正面的需求冲击。 由于劳动力严重短缺，日本在人工智能替代劳动力方面可能表现良好。 我们一直在识别薄弱环节，包括一些在防范网络风险方面做得不够的小型银行和小型企业。 过去一两个月日本网络攻击事件急剧增加。",
+          "url": "https://wallstreetcn.com/livenews/3196135",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时47分"
         },
         {
-          "title": "Shield AI估值将达到288亿美元。 该公司正收购一家雷达公司，潜在交易规模53亿美元。 为此，Shield AI募集25亿美元新资金，其中包括按288亿美元估值实施10亿美元H轮融资、并进行15亿美元股权融资和债务融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3195242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "【美股科技股回调，中际旭创、新易盛回应：经营正常，订单与交付节奏未变】当地时间11月5日，美股三大股指全线收跌，其中AI硬件板块继续下挫。对于隔夜海外市场出现的明显波动，光通信龙头中际旭创回应称，目前公司经营一切正常，海外客户订单及交付节奏未发生变化，基本面未发生变化。另外，新易盛也表示，目前生产经营正常，供货情况未有变化。",
-          "url": "https://wallstreetcn.com/livenews/3195517",
-          "source": "华尔街见闻-快讯",
+          "title": "当 AI 能无限供给情绪价值，真人提供的情绪价值会贬值吗？",
+          "url": "https://www.zhihu.com/question/2096226529332180229",
+          "source": "知乎",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时47分"
         },
         {
-          "title": "王子璇道歉发言疑似抄袭AI短剧文案",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E5%AD%90%E7%92%87%E9%81%93%E6%AD%89%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BC%E6%8A%84%E8%A2%ADAI%E7%9F%AD%E5%89%A7%E6%96%87%E6%A1%88",
-          "source": "百度热搜",
+          "title": "王子璇走心发言疑似AI预制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369346&amp;topic_name=%E7%8E%8B%E5%AD%90%E7%92%87%E8%B5%B0%E5%BF%83%E5%8F%91%E8%A8%80%E7%96%91%E4%BC%BCAI%E9%A2%84%E5%88%B6",
+          "source": "贴吧",
           "ranks": [
-            21
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时47分"
         },
         {
-          "title": "美国AI建设真要踩急刹车了吗",
-          "url": "https://www.toutiao.com/trending/7704860893250588202/",
+          "title": "面向 Agent 时代的 「AI Infra」 到底该怎么做？",
+          "url": "https://www.zhihu.com/question/2098001185860843018",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "官方要求2030年剧集AI渗透超九成",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369262&amp;topic_name=%E5%AE%98%E6%96%B9%E8%A6%81%E6%B1%822030%E5%B9%B4%E5%89%A7%E9%9B%86AI%E6%B8%97%E9%80%8F%E8%B6%85%E4%B9%9D%E6%88%90",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "AI已绑架整个美国市场了吗",
+          "url": "https://www.toutiao.com/trending/7705051541526285860/",
           "source": "今日头条",
           "ranks": [
-            22
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.43%，报5747.08点，早盘高开低走——北京时间22:33刷新日高至5875.13点，在美国半导体概念股/AI概念股被抛售的过程中转跌，23:54刷新日低至5672.82点，随后平缓地逐步回升。 热门中概股里，网易初步收涨4.3%，新东方涨约4%，小米、京东、腾讯涨超3%，阿里涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨1.81%，中国科技指数ETF（CQQQ）收跌0.17%。XtrackersHarvest中证50（ASHS）收跌0.55%，德银嘉实沪深300指数ETF（ASHR）收跌1.39%，MSCI新兴市场ex中国ETF（EMXC）收跌7.58%。",
-          "url": "https://wallstreetcn.com/livenews/3195339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        },
-        {
-          "title": "但斌回应重仓AI回撤大",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%86%E6%96%8C%E5%9B%9E%E5%BA%94%E9%87%8D%E4%BB%93AI%E5%9B%9E%E6%92%A4%E5%A4%A7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "01时47分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克的这次“投资”，亏到血本无归",
@@ -527,136 +230,80 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "市场消息：美国民主党将在调查中把苹果(AAPL.O)、Meta Platforms(META.O)及马斯克旗下公司列为目标。",
-          "url": "https://flash.jin10.com/detail/20261106180436999800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时39分"
+          "time_info": "01时47分"
         },
         {
-          "title": "金元政治的惨败：马斯克砸重金挡不住蓝色浪潮，AI数据中心遇逆风",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34410722",
-          "source": "澎湃新闻",
+          "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
+          "url": "https://wallstreetcn.com/articles/3785375",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
-          "title": "据报道，美国民主党准备对苹果、META和马斯克的公司展开调查。",
-          "url": "https://wallstreetcn.com/livenews/3195857",
+          "title": "马斯克宣布Cybertruck明年逐步停产 得州工厂产能转投Cybercab",
+          "url": "https://www.cls.cn/detail/2527791",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "马斯克称特斯拉无政府订单，SpaceX政府订单质优价低且占比将持续走低",
+          "url": "https://wallstreetcn.com/livenews/3196121",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "马斯克身家缩水超千亿美元",
-          "url": "https://original.ifeng.com/c/8xpK5K6WH3e",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "有消息称 Anthropic IPO 已被取消，媒体称消息并不可靠，到底怎么回事？被取消可能性有多大？",
-          "url": "https://www.zhihu.com/question/2101338491275535438",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 18时39分]"
-        },
-        {
-          "title": "Claude内部模型Model4曝光",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E5%86%85%E9%83%A8%E6%A8%A1%E5%9E%8BModel4%E6%9B%9D%E5%85%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
-        },
-        {
-          "title": "报道：部分投资者对Anthropic能否按计划于下周开展路演、赶在11月上市一事表示怀疑",
-          "url": "https://wallstreetcn.com/livenews/3195512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时47分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI发布GPT-6 Cyber网安模型",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-6%20Cyber",
-          "source": "bilibili 热搜",
+          "title": "OpenAI CFO：数据中心投资不会因中期选举改变",
+          "url": "https://flash.jin10.com/detail/20261107010546552800",
+          "source": "金十数据",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "01时47分"
         },
         {
-          "title": "圆桌｜具身智能为何有些场景还“没打穿”？企业何时能赚钱？离“ChatGPT时刻”还差什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34412734",
-          "source": "澎湃新闻",
+          "title": "OpenAI首席财务官：公司正在进行融资谈判，估值较3月完成的一轮融资接近上涨50%。",
+          "url": "https://wallstreetcn.com/livenews/3196133",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 18时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "若房地产支柱地位难以为继谁能接棒",
-          "url": "https://www.toutiao.com/trending/7704518999027433510/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI首席财务官：无论选举结果如何，OpenAI都将继续投资人工智能数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3196124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     }
