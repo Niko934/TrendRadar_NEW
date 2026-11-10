@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-10T02:05:24.450383+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-10T09:55:50.317377+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美伊和谈信号重创原油，黄仁勋风波未阻AI交易回暖，纳指涨近3%，英伟达逆市跌超4%",
+          "url": "https://wallstreetcn.com/articles/3785518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
         {
           "title": "股价跌预期转 AI产业链并购或生变",
           "url": "https://www.cls.cn/detail/2529110",
@@ -17,6 +28,77 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "让九个AI大模型玩造桥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 09时55分]"
+        },
+        {
+          "title": "用AI原创68分钟科幻长片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 09时55分]"
+        },
+        {
+          "title": "欧洲15国民众抗议AI扩张",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369509&amp;topic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 09时55分]"
+        },
+        {
+          "title": "大肥鱼AI宣布竞选吧主",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369404&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 09时55分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 09时55分]"
+        },
+        {
+          "title": "特朗普：不希望美在AI领域落后中国",
+          "url": "https://www.toutiao.com/trending/7705984247575626249/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "英国央行行长贝利：前沿人工智能（AI）增加了网络攻击风险，需要在模型发布前后进行更广泛的测试。 人工智能的回报可能强劲，但市场可能对其估值过高，或者回报兑现所需时间可能长于预期。 人工智能和投资正日益显现出积极供给冲击初步形成的迹象。 人工智能资产价格泡沫构成明显的金融稳定风险。",
@@ -30,6 +112,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "A股物理AI概念反复活跃，福莱新材涨停，续创历史新高；凡拓数创、汉威科技、华依科技、中控技术、海天瑞声等涨超5%。",
+          "url": "https://flash.jin10.com/detail/20261110093607712800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "张朝阳说从来不看AI漫剧，AI让内容产生一种塑料感，像化肥催熟的西红柿没有味，你同意吗？",
           "url": "https://www.zhihu.com/question/2102717260867559519",
           "source": "知乎",
@@ -39,6 +132,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "欧盟拟向“成瘾设计”开刀：社交媒体、AI聊天机器人面临新规",
+          "url": "https://www.cls.cn/detail/2529542",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美银：AI云巨头回购规模骤降，五家公司2026年上半年仅回购70亿美元",
+          "url": "https://flash.jin10.com/detail/20261110093443377800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "大二女生称AI毁了她的计算机学位",
@@ -52,33 +167,22 @@
           "time_info": "02时05分"
         },
         {
+          "title": "澳大利亚收紧AI监管规则 强制上报模型异常行为",
+          "url": "https://flash.jin10.com/detail/20261110093227030800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "河南大学生用AI做短剧营收超百万",
           "url": "https://www.baidu.com/s?wd=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E5%81%9A%E7%9F%AD%E5%89%A7%E8%90%A5%E6%94%B6%E8%B6%85%E7%99%BE%E4%B8%87",
           "source": "百度热搜",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "让九个AI大模型玩造桥",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E4%B9%9D%E4%B8%AAAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%8E%A9%E9%80%A0%E6%A1%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "欧洲15国民众抗议AI扩张",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369509&amp;topic_name=%E6%AC%A7%E6%B4%B215%E5%9B%BD%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AEAI%E6%89%A9%E5%BC%A0",
-          "source": "贴吧",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,26 +200,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "用AI原创68分钟科幻长片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%8E%9F%E5%88%9B68%E5%88%86%E9%92%9F%E7%A7%91%E5%B9%BB%E9%95%BF%E7%89%87",
+          "title": "美国AI泡沫还能撑多久",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BDAI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "大肥鱼AI宣布竞选吧主",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369404&amp;topic_name=%E5%A4%A7%E8%82%A5%E9%B1%BCAI%E5%AE%A3%E5%B8%83%E7%AB%9E%E9%80%89%E5%90%A7%E4%B8%BB",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "09时55分"
         },
         {
           "title": "国产AI芯片加速蚕食英伟达市场",
@@ -127,13 +220,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Anthropic告知银行家，此前发送给他们的IPO申报文件有误，公司将向银行更新数据。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3197296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
+          "title": "八天搓出操作系统，还能设计智能硬件！Anthropic新旗舰模型亮相",
+          "url": "https://www.cls.cn/detail/2529571",
+          "source": "财联社热门",
           "ranks": [
-            28
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "Claude Fable 5.2 正式发布了，大家怎么看它的实际能力和性价比？",
+          "url": "https://www.zhihu.com/question/2103352437654474967",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "高盛CEO苏德巍被问及Anthropic上市，表示：市场是开放的，交易正在发生，我们拭目以待；拒绝就IPO发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3197075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -146,6 +278,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "特斯拉Cybertruck明年停产 马斯克称将向大量客户退还订金",
+          "url": "https://www.cls.cn/detail/2529391",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 09时55分]"
+        },
+        {
           "title": "马斯克爆料称「软银正在违约燃气轮机订单」，是真的吗？这一爆料对市场的影响有多大？",
           "url": "https://www.zhihu.com/question/2103023634302203854",
           "source": "知乎",
@@ -155,34 +299,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "特斯拉Cybertruck明年停产 马斯克称将向大量客户退还订金",
-          "url": "https://www.cls.cn/detail/2529391",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
         }
       ]
     },
     {
-      "keyword_group": "anthropic claude",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "高盛CEO苏德巍被问及Anthropic上市，表示：市场是开放的，交易正在发生，我们拭目以待；拒绝就IPO发表评论。",
-          "url": "https://wallstreetcn.com/livenews/3197075",
+          "title": "Anthropic拟通过发行新股在IPO中募集高达693亿美元资金，招股价区间为每股70美元至80美元。 Anthropic拟在IPO中发行8.66666664亿股A类普通股。 Anthropic表示，基石投资者将在IPO中出售23,333,331股股票。 Anthropic表示，谷歌、英伟达、AMD、博通、美光、微软和台积电将以IPO价格通过私募方式投资260亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3197262",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新款iPad mini能否取代iPhone Duo",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E6%AC%BEiPad%20mini",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     }
