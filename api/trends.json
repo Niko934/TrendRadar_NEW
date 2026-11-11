@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T10:28:35.157567+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-11-11T18:07:47.761378+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
@@ -31,6 +31,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "从AI应用到产业共创，欧莱雅如何激活中国创新力量？",
+          "url": "https://www.cls.cn/detail/2525238",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "Oura第四财季销售增长153%，至5.33亿美元。 2026财年营收增长92%，至大约17.5亿美元。 该公司将收购AI医生初创公司Counsel Health，作价6.25亿美元。",
           "url": "https://wallstreetcn.com/livenews/3197846",
           "source": "华尔街见闻-快讯",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美官员呼吁收紧对中国获取先进AI芯片的限制，外交部回应",
+          "url": "https://www.cls.cn/detail/2531438",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "Shield AI任命Matt Ofilos为首席财务官（CFO）。",
@@ -59,9 +81,33 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "CoreWeave季报暂缓AI放缓担忧：营收暴增168%、全年指引上调，但债务依然高企｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3785683",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34446211",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 18时07分]"
         },
         {
           "title": "一人打造78分钟硬科幻AI电影",
@@ -70,11 +116,12 @@
           "ranks": [
             12,
             11,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 10时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 18时07分]"
         },
         {
           "title": "用AI原创68分钟科幻长片",
@@ -82,23 +129,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 10时28分]"
-        },
-        {
-          "title": "分析｜AI产业维持高景气度、能源价格上升，10月进出口延续高增态势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34446211",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 10时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 18时07分]"
         },
         {
           "title": "让九个AI大模型玩造桥",
@@ -112,6 +148,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时25分 ~ 10时28分]"
+        },
+        {
+          "title": "AI长片 汤症",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87%20%E6%B1%A4%E7%97%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 18时07分]"
         },
         {
           "title": "【焦点复盘】沪指高开低走止步四连阳，两市超140股涨逾9%，物理AI概念再掀高潮",
@@ -137,15 +185,16 @@
           "time_info": "[06时42分 ~ 10时28分]"
         },
         {
-          "title": "AI长片 汤症",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87%20%E6%B1%A4%E7%97%87",
-          "source": "bilibili 热搜",
+          "title": "美国人民不是在反对AI，他们只是想睡个整觉",
+          "url": "https://wallstreetcn.com/articles/3785662",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 06时43分]"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 18时07分]"
         },
         {
           "title": "欧洲15国民众抗议AI扩张",
@@ -159,15 +208,26 @@
           "time_info": "[01时25分 ~ 06时43分]"
         },
         {
-          "title": "美国人民不是在反对AI，他们只是想睡个整觉",
-          "url": "https://wallstreetcn.com/articles/3785662",
-          "source": "华尔街见闻",
+          "title": "专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34440595",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "18时07分"
+        },
+        {
+          "title": "用AI制作灭霸全家福MV",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         },
         {
           "title": "太空AI加速备战：SpaceX订购太阳能产线，星舰挑战首次“双回收”",
@@ -176,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -192,13 +252,24 @@
           "time_info": "06时43分"
         },
         {
+          "title": "Anthropic世纪IPO恐成AI行情高点",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "AI半导体板块回调后出现配置机会，高盛看好英伟达、博通及半导体设备龙头",
           "url": "https://flash.jin10.com/detail/20261111095926597800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -209,7 +280,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -220,7 +291,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -231,7 +302,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
@@ -239,8 +310,21 @@
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
+          "url": "https://wallstreetcn.com/articles/3785657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时25分 ~ 18时07分]"
+        },
         {
           "title": "Anthropic招股文件刚发就撤！693亿美元融资细节意外泄露，英伟达、微软、台积电等集体押注260亿",
           "url": "https://wallstreetcn.com/articles/3785616",
@@ -253,25 +337,13 @@
           "time_info": "[01时25分 ~ 10时28分]"
         },
         {
-          "title": "冲击美国科技IPO融资纪录！Anthropic最高募资904亿美元、完全稀释估值1.4万亿美元",
-          "url": "https://wallstreetcn.com/articles/3785657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时25分 ~ 10时28分]"
-        },
-        {
           "title": "【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展",
           "url": "https://www.cls.cn/detail/2530870",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -295,7 +367,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -368,13 +440,35 @@
           "time_info": "[06时42分 ~ 06时43分]"
         },
         {
+          "title": "Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%",
+          "url": "https://wallstreetcn.com/articles/3785694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万",
+          "url": "https://wallstreetcn.com/articles/3785675",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
           "title": "怎么看路透社表示 Anthropic IPO 估值下调到 1 万亿美元，目标募集 643.5 亿美元？",
           "url": "https://www.zhihu.com/question/2103576505762820339",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         },
@@ -407,9 +501,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+          "url": "https://www.cls.cn/detail/2531092",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
+          "url": "https://www.zhihu.com/question/2103666307413680604",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
         }
       ]
     },
@@ -431,6 +553,23 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克光伏布局加速：特斯拉百亿美元新厂正式动工 SpaceX新签设备订单",
+          "url": "https://www.cls.cn/detail/2531089",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone apple apple watch",
       "match_count": 1,
       "titles": [
@@ -441,7 +580,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
         }
