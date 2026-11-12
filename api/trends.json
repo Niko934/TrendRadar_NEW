@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T02:16:52.433350+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-12T09:14:45.435770+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "专访项飙：当AI成为“不需要水的鱼”，人类如何重新理解自己和生活",
@@ -19,20 +19,20 @@
           "time_info": "02时16分"
         },
         {
-          "title": "AI交易回暖，费半涨5%，CoreWeave暴涨15%，英伟达涨3%，油价反弹",
+          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
           "url": "https://wallstreetcn.com/articles/3785732",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "09时14分"
         },
         {
-          "title": "欧美掀起抵制AI数据中心浪潮",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE",
-          "source": "bilibili 热搜",
+          "title": "AI交易回暖，费半涨5%，CoreWeave暴涨15%，英伟达涨3%，油价反弹",
+          "url": "https://wallstreetcn.com/articles/3785732",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
@@ -52,6 +52,75 @@
           "time_info": "02时16分"
         },
         {
+          "title": "浙江宣传：黄仁勋事件背后的美国AI焦虑",
+          "url": "https://news.ifeng.com/c/8xz8ok7UvKJ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "欧美掀起抵制AI数据中心浪潮",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%8E%80%E8%B5%B7%E6%8A%B5%E5%88%B6AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B5%AA%E6%BD%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时14分]"
+        },
+        {
+          "title": "CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2531921",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时14分]"
+        },
+        {
+          "title": "Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度",
+          "url": "https://www.cls.cn/detail/2531976",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时14分]"
+        },
+        {
+          "title": "用AI制作灭霸全家福MV",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时14分]"
+        },
+        {
+          "title": "Anthropic披露AI仅用3天适配AMD芯片",
+          "url": "https://www.toutiao.com/trending/7706948038756929087/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "科技老将：Anthropic IPO将是美股AI行情高点，有条件会“大举做多中国AI”",
           "url": "https://wallstreetcn.com/articles/3785720",
           "source": "华尔街见闻",
@@ -63,26 +132,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "CoreWeave业绩超预期提振AI板块 纳指期货涨约2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2531921",
-          "source": "财联社热门",
+          "title": "高叶谈AI对演员职业的冲击",
+          "url": "https://www.toutiao.com/trending/7706595933592486426/",
+          "source": "今日头条",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Token登上“双十一”货架：AI推理火了，灰色中转站也来了｜深度",
-          "url": "https://www.cls.cn/detail/2531976",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
+          "time_info": "09时14分"
         },
         {
           "title": "一人打造78分钟硬科幻AI电影",
@@ -107,6 +165,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "Anthropic披露AI仅用3天适配AMD芯片",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E6%8A%AB%E9%9C%B2AI%E4%BB%85%E7%94%A83%E5%A4%A9%E9%80%82%E9%85%8DAMD%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "AI长片 汤症",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%95%BF%E7%89%87%20%E6%B1%A4%E7%97%87",
           "source": "bilibili 热搜",
@@ -118,6 +187,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "百亿私募逆势加仓 称AI长期发展趋势未改",
+          "url": "https://wallstreetcn.com/livenews/3198674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
           "title": "Anthropic世纪IPO恐成AI行情高点",
           "url": "https://www.baidu.com/s?wd=Anthropic%E4%B8%96%E7%BA%AAIPO%E6%81%90%E6%88%90AI%E8%A1%8C%E6%83%85%E9%AB%98%E7%82%B9",
           "source": "百度热搜",
@@ -127,17 +207,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "anthropic claude",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%",
+          "url": "https://wallstreetcn.com/articles/3785694",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时14分]"
         },
         {
-          "title": "用AI制作灭霸全家福MV",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
-          "source": "bilibili 热搜",
+          "title": "Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效",
+          "url": "https://wallstreetcn.com/articles/3785747",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时16分 ~ 09时14分]"
+        },
+        {
+          "title": "Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万",
+          "url": "https://wallstreetcn.com/articles/3785675",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "Anthropic IPO遭疯抢！认购需求数倍超额，目标估值1.4万亿美元",
+          "url": "https://wallstreetcn.com/articles/3785750",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "Anthropic IPO遭疯抢",
+          "url": "https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "撤回又重启 Anthropic IPO逆市推进",
+          "url": "https://www.baidu.com/s?wd=%E6%92%A4%E5%9B%9E%E5%8F%88%E9%87%8D%E5%90%AF+Anthropic+IPO%E9%80%86%E5%B8%82%E6%8E%A8%E8%BF%9B",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
@@ -203,56 +346,6 @@
       ]
     },
     {
-      "keyword_group": "anthropic claude",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Anthropic路演PPT：“算力”提了49次、“安全”27次，收入一年翻12倍，长期利润率目标35%",
-          "url": "https://wallstreetcn.com/articles/3785694",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Anthropic路演瞄准35%长期经营利润目标，算力效率提高逾4倍，大企业客户1.19万",
-          "url": "https://wallstreetcn.com/articles/3785675",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Anthropic大清洗：Claude最严封号潮来了！11月12日全面生效",
-          "url": "https://wallstreetcn.com/articles/3785747",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "Anthropic IPO遭疯抢",
-          "url": "https://www.baidu.com/s?wd=Anthropic+IPO%E9%81%AD%E7%96%AF%E6%8A%A2",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -277,6 +370,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国10月三个月RICS房价指数 -36，预期 -34，前值 -32。",
+          "url": "https://wallstreetcn.com/livenews/3198686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         }
       ]
     },
