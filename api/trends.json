@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-13T01:51:20.902196+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-13T07:02:55.122088+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "AI动画重演BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
         {
           "title": "英伟达CEO黄仁勋辞职 全球AI板块承压 纳指期货跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2533122",
@@ -26,8 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "AI动画重演BLG战胜T1",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
         },
         {
           "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
@@ -37,19 +38,114 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "黄仁勋突然离任震动AI行业！英伟达大跌、新云与硬件承压、AMD大涨，Anthropic IPO受审视",
+          "url": "https://wallstreetcn.com/articles/3785829",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "07时02分"
+        },
+        {
+          "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
+          "url": "https://www.zhihu.com/question/2104342766322808640",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "首个AI漫剧晚会阵容官宣",
           "url": "https://www.douyin.com/hot/2742996",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34458622",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34459124",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "普通人用AI和会用AI的人",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34395707",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "徐峥：糟糕的表演比AI还糟糕，想不被AI取代，表演就需要灵魂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34458575",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
+        },
+        {
+          "title": "红楼梦AI短剧侵害17位演员肖像权",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
         },
         {
           "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
@@ -57,50 +153,6 @@
           "source": "华尔街见闻",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34458622",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34459124",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "普通人用AI和会用AI的人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34395707",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -129,26 +181,15 @@
           "time_info": "01时51分"
         },
         {
-          "title": "徐峥：糟糕的表演比AI还糟糕，想不被AI取代，表演就需要灵魂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34458575",
-          "source": "澎湃新闻",
+          "title": "某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？",
+          "url": "https://www.zhihu.com/question/2103844614528395225",
+          "source": "知乎",
           "ranks": [
-            18
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "红楼梦AI短剧侵害17位演员肖像权",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "07时02分"
         },
         {
           "title": "高盛2027年展望：预计2027年全球GDP增速将达到2.8%。 预计2027年美国GDP增速将达到2.4%，预计英国GDP增速将达到1.4%，预计欧元区GDP增速将达到0.9%。 预测全球AI名义投资额将从2026年的1.1万亿美元增至2027年的1.8万亿美元，这主要受美国硬件支出增加逾5000亿美元所驱动。",
@@ -164,8 +205,36 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
+          "url": "https://flash.jin10.com/detail/20261113053836003800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
+          "url": "https://wallstreetcn.com/livenews/3199372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
@@ -177,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "Cerebras Systems首席执行官：由于数据中心容量合同延迟，OpenAI首批算力容量的交付进度落后于计划。",
+          "url": "https://wallstreetcn.com/livenews/3199381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -192,8 +272,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
         }
       ]
     },
@@ -223,11 +303,12 @@
           "url": "https://www.toutiao.com/trending/7706895766857613833/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 07时02分]"
         }
       ]
     }
