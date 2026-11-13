@@ -1,560 +1,110 @@
 {
-  "generated_at": "2026-11-13T20:46:16.416397+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-11-14T04:14:35.501723+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "英伟达CEO黄仁勋辞职 全球AI板块承压 纳指期货跌超1% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2533122",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
-        {
-          "title": "AI动画重演BLG战胜T1",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8A%A8%E7%94%BB%E9%87%8D%E6%BC%94BLG%E6%88%98%E8%83%9CT1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 07时02分]"
-        },
         {
           "title": "LCK选手AI性转视频走红韩网",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
           "source": "贴吧",
           "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时25分 ~ 20时46分]"
-        },
-        {
-          "title": "长鑫科技最新发声！计算超级周期正进入全新的“分层时代” 首展三大AI场景存储矩阵",
-          "url": "https://www.cls.cn/detail/2532837",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 07时02分]"
-        },
-        {
-          "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34466609",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "黄仁勋突然离任震动AI行业！英伟达大跌、新云与硬件承压、AMD大涨，Anthropic IPO受审视",
-          "url": "https://wallstreetcn.com/articles/3785829",
-          "source": "华尔街见闻",
-          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "男子花四千多元做AI短剧火了",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E8%8A%B1%E5%9B%9B%E5%8D%83%E5%A4%9A%E5%85%83%E5%81%9AAI%E7%9F%AD%E5%89%A7%E7%81%AB%E4%BA%86&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "黄仁勋辞去英伟达 CEO 职务，会给中国 AI 芯片厂商带来新的发展机会吗？",
-          "url": "https://www.zhihu.com/question/2104342766322808640",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "上海00后女生靠AI卖穿戴甲月入10万",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B700%E5%90%8E%E5%A5%B3%E7%94%9F%E9%9D%A0AI%E5%8D%96%E7%A9%BF%E6%88%B4%E7%94%B2%E6%9C%88%E5%85%A510%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "徐峥刷到自己的AI换脸视频惊了",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E5%B3%A5%E5%88%B7%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84AI%E6%8D%A2%E8%84%B8%E8%A7%86%E9%A2%91%E6%83%8A%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "AI需求持续爆发！美国半导体设备龙头：营收、盈利、业绩指引全面超预期",
-          "url": "https://www.cls.cn/detail/2533315",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "首个AI漫剧晚会阵容官宣",
-          "url": "https://www.douyin.com/hot/2742996",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
-        {
-          "title": "赵丽颖起诉红果和抖音，律师：关键是公众能不能认出这个AI人像赵丽颖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34458622",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
-        {
-          "title": "马上评｜明星起诉短剧“偷脸”，AI用脸的边界在哪？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34459124",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
-        {
-          "title": "医生用AI发现41名无症状肠癌患者",
-          "url": "https://www.toutiao.com/trending/7707495873978040858/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "普通人用AI和会用AI的人",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%A8AI%E5%92%8C%E4%BC%9A%E7%94%A8AI%E7%9A%84%E4%BA%BA%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 07时02分]"
+          "time_info": "04时14分"
         },
         {
           "title": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”",
           "url": "https://wallstreetcn.com/articles/3785870",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
-          "title": "港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链",
-          "url": "https://www.cls.cn/detail/2533894",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "财晓得｜“AI恶意使用”为何屡禁不止？34起判决里的治理账",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34395707",
+          "title": "警方通报：酒类销售人员组织他人利用AI制作“和平饭店天价酒水账单”，15人被抓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34466609",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 07时02分]"
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
-          "title": "用AI制作灭霸全家福MV",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%88%B6%E4%BD%9C%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8FMV",
-          "source": "bilibili 热搜",
+          "title": "医生用AI发现41名无症状肠癌患者",
+          "url": "https://www.toutiao.com/trending/7707495873978040858/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            24
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
-        {
-          "title": "徐峥：糟糕的表演比AI还糟糕，想不被AI取代，表演就需要灵魂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34458575",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 07时02分]"
-        },
-        {
-          "title": "马上评｜我不想成为AI的“原料”，怎么办？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34466530",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "红楼梦AI短剧侵害17位演员肖像权",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E7%9F%AD%E5%89%A7%E4%BE%B5%E5%AE%B317%E4%BD%8D%E6%BC%94%E5%91%98%E8%82%96%E5%83%8F%E6%9D%83",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 07时02分]"
-        },
-        {
-          "title": "明查·聚焦｜你看到的外国人唱中文歌视频，可能是AI改编的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34455547",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗？",
-          "url": "https://www.zhihu.com/question/2102865309602242713",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
           "title": "男子花4千多元做AI短剧火了",
           "url": "https://www.toutiao.com/trending/7707122868290748458/",
           "source": "今日头条",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
-          "url": "https://wallstreetcn.com/articles/3785732",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "04时14分"
         },
         {
-          "title": "“AI央行”大地震，冲击会沿融资链传多远？",
-          "url": "https://www.cls.cn/detail/2533216",
+          "title": "港股收盘 | 恒生科技指数单周大跌6.5% 英伟达突发换帅重创AI算力链",
+          "url": "https://www.cls.cn/detail/2533894",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "04时14分"
         },
         {
-          "title": "SpaceXAI密西西比数据中心施工强度惊人：MACROHARDER项目每天浇筑逾1150立方米混凝土",
-          "url": "https://flash.jin10.com/detail/20261113115339727800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "AI预测BLG与GenG谁将夺冠",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8BBLG%E4%B8%8EGenG%E8%B0%81%E5%B0%86%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "英伟达董事会罢免黄仁勋，分析师：此举震动美国的AI经济",
-          "url": "https://wallstreetcn.com/livenews/3199252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "感觉影之刃里的各种字体都好帅啊，比如「决战、殒命」等，这是单独请人写的吗，还是说能靠 AI 跑一批出来？",
-          "url": "https://www.zhihu.com/question/2101991601568536184",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "某律师为了不把敏感资料上传云端，用 8 张 V100 搭建一台数千瓦功耗的本地 AI 服务器值得吗？",
-          "url": "https://www.zhihu.com/question/2103844614528395225",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "为什么设计师用AI生成的图更好看",
-          "url": "https://www.toutiao.com/trending/7706731432093483071/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "AI景气度指标",
-          "url": "https://flash.jin10.com/detail/20261113200041650800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "高盛2027年展望：预计2027年全球GDP增速将达到2.8%。 预计2027年美国GDP增速将达到2.4%，预计英国GDP增速将达到1.4%，预计欧元区GDP增速将达到0.9%。 预测全球AI名义投资额将从2026年的1.1万亿美元增至2027年的1.8万亿美元，这主要受美国硬件支出增加逾5000亿美元所驱动。",
-          "url": "https://wallstreetcn.com/livenews/3199244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价 Google 11 月 13 日发布的模型 Gemini 4 Hydrogen？",
-          "url": "https://www.zhihu.com/question/2104402653010834622",
+          "title": "李彦宏称公司不会仅用 AI 就更有竞争力，这一说法有何依据？",
+          "url": "https://www.zhihu.com/question/2104247609519093199",
           "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "04时14分"
         },
         {
-          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
-          "url": "https://flash.jin10.com/detail/20261113053836003800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "微软云服务发生故障，AWS和谷歌也出现异常报告",
-          "url": "https://wallstreetcn.com/livenews/3199372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "谷歌发布Gemini 4 Hydrogen",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini%204%20Hydroge",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“拯救黄仁勋”！马斯克等硅谷大佬集体声援：调查结束前不应解雇",
-          "url": "https://wallstreetcn.com/articles/3785804",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
-        {
-          "title": "特朗普、马斯克、赵长鹏回应黄仁勋辞职",
-          "url": "https://original.ifeng.com/c/8y0ZpSEe8Cg",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时25分"
-        },
-        {
-          "title": "黄仁勋辞职马斯克回应",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94%23&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗？",
+          "url": "https://www.zhihu.com/question/2102865309602242713",
+          "source": "知乎",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
+          "time_info": "04时14分"
         },
         {
-          "title": "黄仁勋辞职马斯克回应",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9B%9E%E5%BA%94",
-          "source": "bilibili 热搜",
+          "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34468836",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "张一鸣再发声谈字节AI：追平OpenAI与Anthropic“最早2029年或2030年”",
-          "url": "https://www.cls.cn/detail/2532641",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "微软大规模宕机持续数小时！OpenAI和Anthropic遭波及 日本、新加坡政府受影响",
-          "url": "https://www.cls.cn/detail/2533607",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
-        },
-        {
-          "title": "Cerebras Systems首席执行官：由于数据中心容量合同延迟，OpenAI首批算力容量的交付进度落后于计划。",
-          "url": "https://wallstreetcn.com/livenews/3199381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "04时14分"
         }
       ]
     },
@@ -563,6 +113,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "Anthropic CEO：算力是“最深的商业困境”",
+          "url": "https://wallstreetcn.com/livenews/3199978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
           "title": "Anthropic终将奔向10万亿",
           "url": "https://www.baidu.com/s?wd=Anthropic%E7%BB%88%E5%B0%86%E5%A5%94%E5%90%9110%E4%B8%87%E4%BA%BF",
           "source": "百度热搜",
@@ -570,77 +131,36 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 20时46分]"
+          "appearance_count": 1,
+          "time_info": "04时14分"
         },
         {
-          "title": "Anthropic：已部署修复方案以解决Claude认证问题",
-          "url": "https://wallstreetcn.com/livenews/3199791",
+          "title": "Anthropic因“Mythos”模型遭商标侵权起诉",
+          "url": "https://wallstreetcn.com/livenews/3199965",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "怎么看 Anthropic IPO 提到 Claude 适配全芯片训练和推理，接入 AMD 只用 3 天？",
-          "url": "https://www.zhihu.com/question/2103879116948771823",
-          "source": "知乎",
-          "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "04时14分"
         }
       ]
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "iPhone 13为何突然又火了",
-          "url": "https://www.toutiao.com/trending/7706895766857613833/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 12时25分]"
-        },
         {
           "title": "iPhone销量为何能逆势领跑",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E9%80%86%E5%8A%BF%E9%A2%86%E8%B7%91",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "openEuler发布面向Agentic Infra的操作系统",
-          "url": "https://wallstreetcn.com/livenews/3199750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "time_info": "04时14分"
         }
       ]
     }
