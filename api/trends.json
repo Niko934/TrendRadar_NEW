@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-14T09:11:01.122828+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-11-14T16:24:39.496012+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "英伟达新掌门会给AI融资踩刹车？她曾将2500亿美元数据中心担保砍半，被黄仁勋嘲讽“只会做财务”，是“惊弓之鹿”",
@@ -20,26 +20,41 @@
           "time_info": "[04时14分 ~ 09时11分]"
         },
         {
-          "title": "LCK选手AI性转视频走红韩网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 09时11分]"
-        },
-        {
           "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
           "url": "https://www.cls.cn/detail/2534350",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 16时24分]"
+        },
+        {
+          "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34468836",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时14分 ~ 16时24分]"
+        },
+        {
+          "title": "LCK选手AI性转视频走红韩网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时14分 ~ 16时24分]"
         },
         {
           "title": "美联储副主席Jefferson：根据我的经验，债务或赤字问题从未进入过美联储的政策辩论中。 在我参加过的联邦公开市场委员会（FOMC）会议上，从未出现过政治因素介入讨论的情况。 FOMC将在几个月内（甚至更早）听取美联储特别工作组的汇报。 人工智能（AI）建设使我不得不关注总需求，而总需求正是通胀压力的来源。",
@@ -48,7 +63,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -65,27 +80,27 @@
           "time_info": "[04时14分 ~ 09时11分]"
         },
         {
-          "title": "高校“抬头率”争议背后：AI监督能裁定一堂课的好坏吗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34468836",
-          "source": "澎湃新闻",
+          "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？",
+          "url": "https://www.zhihu.com/question/2104265147606889514",
+          "source": "知乎",
           "ranks": [
-            20,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时14分 ~ 09时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "AI 短剧《梦回红楼》被指侵害 17 位演员肖像，还魔改出林黛玉掌掴薛宝钗等情节，制作方要承担哪些法律责任？",
           "url": "https://www.zhihu.com/question/2104307708622889582",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 16时24分]"
         },
         {
           "title": "马上评｜我不想成为AI的“原料”，怎么办？",
@@ -149,7 +164,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -163,6 +178,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "英伟达临时 CEO 被曝是制衡黄仁勋的重要力量，是唯一一位给 AI 投资唱反调的人，她会给英伟达带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2104902252003423010",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险",
+          "url": "https://www.cls.cn/detail/2534437",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "导演白雪认为如果停止思考和阅读，只依靠大脑存量内容和 AI 对话，长期一定会出问题，你碰过类似情况吗？",
@@ -182,7 +219,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -193,15 +230,153 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "吴清：有效防范算法黑箱、AI网络攻击、提升金融基础设施韧性等重点问题，推动人工智能安全规范应用",
+          "url": "https://wallstreetcn.com/livenews/3200094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "马斯克称将签名支持黄仁勋复职，97%英伟达员工要求黄仁勋回归",
+          "url": "https://news.ifeng.com/c/8y2Tzbl9Pfm",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时10分 ~ 09时11分]"
+        },
+        {
+          "title": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”",
+          "url": "https://wallstreetcn.com/articles/3785930",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "马斯克：未来的星舰飞行任务将把超过50太比特/秒的星链带宽送入轨道。",
+          "url": "https://flash.jin10.com/detail/20261114152819022800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "马斯克：Cybercab每月299美元自动驾驶订阅费太高",
+          "url": "https://flash.jin10.com/detail/20261114152418006800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "盯上马斯克？美民主党人要求保留“星链”限速记录",
+          "url": "https://news.ifeng.com/c/8y2oLKiuD4i",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋",
+          "url": "https://wallstreetcn.com/livenews/3200107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "盯上马斯克？美民主党人据称要求保留“星链”限速记录",
+          "url": "https://wallstreetcn.com/livenews/3200105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "马斯克带头签署请愿书！万人联名呼吁英伟达“让创始人回归”",
+          "url": "https://wallstreetcn.com/livenews/3200102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "马斯克旗下太空探索公SpaceX宣布，超重型助推器在近海着陆，发生爆炸，半空中捕获任务取消。 该公司股价美股盘后跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3200050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "马斯克旗下太空探索公SpaceX宣布，“星舰”超重型助推器在近海着陆，发生爆炸，半空中捕获任务取消。",
+          "url": "https://flash.jin10.com/detail/20261114082024549800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "马斯克卫星为何遇到麻烦",
+          "url": "https://www.toutiao.com/trending/7707884774903300634/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Anthropic终将奔向10万亿",
@@ -226,13 +401,24 @@
           "time_info": "04时14分"
         },
         {
+          "title": "Anthropic为何比SpaceX上市定价保守",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E4%B8%BA%E4%BD%95%E6%AF%94SpaceX%E4%B8%8A%E5%B8%82%E5%AE%9A%E4%BB%B7%E4%BF%9D%E5%AE%88",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "Anthropic：影响微软365连接器的错误已解决。",
           "url": "https://flash.jin10.com/detail/20261114055440650800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -250,48 +436,20 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克称将签名支持黄仁勋复职，97%英伟达员工要求黄仁勋回归",
-          "url": "https://news.ifeng.com/c/8y2Tzbl9Pfm",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
-          "title": "马斯克旗下太空探索公SpaceX宣布，超重型助推器在近海着陆，发生爆炸，半空中捕获任务取消。 该公司股价美股盘后跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3200050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "马斯克旗下太空探索公SpaceX宣布，“星舰”超重型助推器在近海着陆，发生爆炸，半空中捕获任务取消。",
-          "url": "https://flash.jin10.com/detail/20261114082024549800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
+          "url": "https://wallstreetcn.com/articles/3785914",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
         {
           "title": "OpenAI：影响Microsoft 365连接器的错误已解决。",
           "url": "https://flash.jin10.com/detail/20261114083013548800",
@@ -299,7 +457,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -307,8 +465,19 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "iPhoneDuo45.7万次折叠后铰链明显磨损",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo45.7%E4%B8%87%E6%AC%A1%E6%8A%98%E5%8F%A0%E5%90%8E%E9%93%B0%E9%93%BE%E6%98%8E%E6%98%BE%E7%A3%A8%E6%8D%9F%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
         {
           "title": "iPhone销量为何能逆势领跑",
           "url": "https://search.bilibili.com/all?keyword=iPhone%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E9%80%86%E5%8A%BF%E9%A2%86%E8%B7%91",
@@ -320,6 +489,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 09时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI、Meta、SpaceX、谷歌…都在民主党“追杀”名单上",
+          "url": "https://news.ifeng.com/c/8y2iwcD5nQO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     }
