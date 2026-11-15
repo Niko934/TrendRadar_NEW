@@ -1,143 +1,44 @@
 {
-  "generated_at": "2026-11-15T23:10:47.876111+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-11-16T04:43:06.654149+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”",
-          "url": "https://wallstreetcn.com/articles/3785935",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 08时35分]"
-        },
-        {
-          "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
-          "url": "https://www.cls.cn/detail/2534350",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时16分 ~ 15时25分]"
-        },
-        {
-          "title": "“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！",
-          "url": "https://wallstreetcn.com/articles/3785942",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时16分 ~ 15时25分]"
-        },
         {
           "title": "中专生拍出爆火AI短片 海外播放百万级、单集成本千元",
           "url": "https://www.cls.cn/detail/2534653",
           "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周",
-          "url": "https://wallstreetcn.com/articles/3785944",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时35分 ~ 15时25分]"
+          "time_info": "[04时42分 ~ 04时43分]"
         },
         {
-          "title": "LCK选手AI性转视频走红韩网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
-          "source": "贴吧",
+          "title": "红果AI漫剧热播榜排名TOP10",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9CAI%E6%BC%AB%E5%89%A7%E7%83%AD%E6%92%AD%E6%A6%9C%E6%8E%92%E5%90%8DTOP10%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            10,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时17分 ~ 23时10分]"
-        },
-        {
-          "title": "美联储重磅报告：“AI热”正推高资产估值 或对金融系统构成风险",
-          "url": "https://www.cls.cn/detail/2534437",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时16分 ~ 15时25分]"
-        },
-        {
-          "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
-          "url": "https://wallstreetcn.com/articles/3785936",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 08时35分]"
-        },
-        {
-          "title": "马化腾曾坦言腾讯 AI「上了船才发现船漏水」，如今又把员工分成陆军和海军，这释放了什么信号？",
-          "url": "https://www.zhihu.com/question/2104265147606889514",
-          "source": "知乎",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 08时35分]"
-        },
-        {
-          "title": "中信证券：看好中国光通信的长期发展趋势 建议重点关注深度受益于全球AI基建的核心龙头标的",
-          "url": "https://wallstreetcn.com/livenews/3200116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时17分 ~ 08时35分]"
+          "time_info": "[04时42分 ~ 04时43分]"
         },
         {
-          "title": "华尔街与硅谷强推Anthropic上市：一场“大而不能败”的AI保卫战",
-          "url": "https://wallstreetcn.com/articles/3785948",
-          "source": "华尔街见闻",
+          "title": "韩国税务师考试“状元”承认AI作弊",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E7%A8%8E%E5%8A%A1%E5%B8%88%E8%80%83%E8%AF%95%E2%80%9C%E7%8A%B6%E5%85%83%E2%80%9D%E6%89%BF%E8%AE%A4AI%E4%BD%9C%E5%BC%8A",
+          "source": "百度热搜",
           "ranks": [
-            8
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 04时43分]"
         },
         {
           "title": "麦穗与羊AI二创向原作者道歉",
@@ -148,233 +49,97 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时10分"
+          "time_info": "04时43分"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年11月14日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34480841",
-          "source": "澎湃新闻",
+          "title": "LCK选手AI性转视频走红韩网",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369800&amp;topic_name=LCK%E9%80%89%E6%89%8BAI%E6%80%A7%E8%BD%AC%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%E9%9F%A9%E7%BD%91",
+          "source": "贴吧",
           "ranks": [
-            18
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "美联储调查：使用AI的企业对未来增长更乐观",
-          "url": "https://flash.jin10.com/detail/20261115121851446800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "04时43分"
         }
       ]
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "谁对黄仁勋“下黑手”？鲁比奥还是Anthropic？",
           "url": "https://wallstreetcn.com/articles/3785952",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时25分 ~ 23时10分]"
+          "time_info": "[04时42分 ~ 04时43分]"
         },
         {
           "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
           "url": "https://wallstreetcn.com/articles/3785932",
           "source": "华尔街见闻",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "Anthropic能撑起高估值吗",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E8%83%BD%E6%92%91%E8%B5%B7%E9%AB%98%E4%BC%B0%E5%80%BC%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 08时35分]"
-        },
-        {
-          "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
-          "url": "https://wallstreetcn.com/articles/3785931",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时35分"
-        },
-        {
-          "title": "Anthropic CEO“直播荐股”，满屏都是免责声明",
-          "url": "https://wallstreetcn.com/articles/3785946",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "金十整理：下周重要事件与数据预告——英伟达财报、全员会议与Anthropic上市；APEC峰会与美联储官员讲话",
-          "url": "https://flash.jin10.com/detail/20261115203410331800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Tim回应送iPhoneDuo",
-          "url": "https://s.weibo.com/weibo?q=%23Tim%E5%9B%9E%E5%BA%94%E9%80%81iPhoneDuo%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "iPhoneDuo 经 45.7 万次折叠后屏幕完好铰链松动，测试结果说明了啥？能在多大程度上反映手机寿命？",
-          "url": "https://www.zhihu.com/question/2104970594072490759",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时10分"
-        },
-        {
-          "title": "BLG夺冠Tim送iPhoneDuo",
-          "url": "https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0Tim%E9%80%81iPhoneDuo%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "Tim说还有76台iPhoneDuo没送",
-          "url": "https://s.weibo.com/weibo?q=%23Tim%E8%AF%B4%E8%BF%98%E6%9C%8976%E5%8F%B0iPhoneDuo%E6%B2%A1%E9%80%81%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "iPhone销量为何能逆势领跑",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E9%94%80%E9%87%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E9%80%86%E5%8A%BF%E9%A2%86%E8%B7%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克力挺黄仁勋，签署公开信呼吁让其回归",
-          "url": "https://news.ifeng.com/c/8y3bqZBUpKw",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 08时35分]"
-        },
-        {
-          "title": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋",
-          "url": "https://wallstreetcn.com/livenews/3200107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时17分 ~ 08时35分]"
-        },
-        {
-          "title": "马斯克：由于超级智能智能体的出现，互联网流量将增长数个数量级。",
-          "url": "https://flash.jin10.com/detail/20261115010148183800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
+          "time_info": "[04时42分 ~ 04时43分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
-          "url": "https://wallstreetcn.com/articles/3785914",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 08时35分]"
-        },
         {
           "title": "OpenAI解散独立机器人团队 具身智能不再需要“专属大脑”？",
           "url": "https://www.cls.cn/detail/2534550",
           "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            10
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时16分 ~ 23时10分]"
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 04时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "楼市新趋势：家庭变小房子变大",
+          "url": "https://www.toutiao.com/trending/7708015784513191999/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 04时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhoneDuo 经 45.7 万次折叠后屏幕完好铰链松动，测试结果说明了啥？能在多大程度上反映手机寿命？",
+          "url": "https://www.zhihu.com/question/2104970594072490759",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 04时43分]"
         }
       ]
     }
